@@ -428,6 +428,32 @@ BibTeX
 }
 
 
+## 16) Quantum-Inspired Continuous Combinatorics — Agentic Optimization via Hamiltonian Mappings
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/paper-quantum_agentic_optimization_continuous_combinatorics_hamiltonian_mappings-v01
+
+### Abstract
+This paper proposes a portfolio-optimization framework that unifies **quantum-inspired combinatorics**, **agentic modularity**, and **financial strategy encoding** via **Hamiltonian mappings**. We introduce **continuous combinatorics**—a single optimization-selection process inspired by **QAOA**—implemented inside a fully modular **8-agent architecture**. Investment strategies are **mapped to Hamiltonians**; the space of permissible Hamiltonians is studied as a **latent manifold of investment logic**; and we outline foundations for **reverse mappings** from observed financial outcomes back to abstract Hamiltonians. Using **sentiment-driven inputs** and **classical simulation of quantum behavior**, the framework shows how quantum principles can enhance modeling while remaining **interpretable, scalable**, and **extensible** toward **topological generalizations**.
+
+**Keywords:** quantum-inspired optimization, continuous combinatorics, Hamiltonians, QAOA, multi-agent systems, portfolio optimization, sentiment signals
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/paper-quantum_agentic_optimization_continuous_combinatorics_hamiltonian_mappings-v01/QUANTUM.INSPIRED.CONTINUOUS.COMBINATORICS.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Quantum-Inspired Continuous Combinatorics — Agentic Optimization via Hamiltonian Mappings* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/paper-quantum_agentic_optimization_continuous_combinatorics_hamiltonian_mappings-v01
+
+BibTeX  
+@article{reynoso_quantum_inspired_continuous_combinatorics_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Quantum-Inspired Continuous Combinatorics — Agentic Optimization via Hamiltonian Mappings},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/paper-quantum_agentic_optimization_continuous_combinatorics_hamiltonian_mappings-v01}  
+}
 
 ---
 
