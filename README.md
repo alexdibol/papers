@@ -581,6 +581,36 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-structural_reasoning_asset_allocation-v01}  
 }
 
+
+## 21) Reasoning Models for Regulation Technology & Risk Management
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-reg_tech_risk_management-v01
+
+### Abstract
+Financial institutions face expanding **regulatory obligations** and **technology risk** while modernizing with data-intensive, adaptive systems. The central challenge is bridging **natural-language policies** and **software that acts under uncertainty and change**. This paper presents a **reasoning-centric framework** for regulation and technology-risk management that unifies **policy representation**, **control evaluation**, and **sequential remediation**. We compose **symbolic rule checking**, **probabilistic scoring**, **graph-based consistency**, and **sequential decision processes** into an auditable **control plane**. A **policy graph** links obligations to executable tests, monitors, and evidence artifacts—enabling **policy-to-code traceability** and explanations by construction.  
+A **Colab-based reference implementation** operationalizes data ingestion, constraint compilation, model monitoring, drift/config checks, and automated reporting for the **three lines of defense**. Evaluation protocols quantify **coverage**, **precision/recall**, **time-to-detect**, **time-to-remediate**, **robustness to drift**, and **evidence completeness**. Across realistic scenarios—policy updates, data-pipeline failures, model drift, and control degradation—the framework improves **detection quality** and reduces **remediation latency** relative to siloed rules and point solutions, while lowering the **marginal cost of audit**. Contributions include: a clear problem statement; a modular architecture; a **policy-graph schema**; a compliance-focused evaluation suite; and case studies. The approach is practical, incrementally adoptable, and generalizable to other high-stakes socio-technical systems requiring **accountable automation**.
+
+**Keywords:** RegTech, technology risk, policy graph, reasoning systems, compliance automation, monitoring & drift, auditability
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-reg_tech_risk_management-v01/REASONING_MODELS_IN_REGULATION_TECHNOLOGY.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Reasoning Models for Regulation Technology & Risk Management* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-reg_tech_risk_management-v01
+
+BibTeX  
+@article{reynoso_regtech_reasoning_models_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Reasoning Models for Regulation Technology \& Risk Management},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-reg_tech_risk_management-v01}  
+}
+
+
 ---
 
 
