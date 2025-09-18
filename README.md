@@ -71,12 +71,12 @@ Author: Alejandro Reynoso
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/paper-basic_molecular_models-v01
 
 ### Abstract
-We present a rigorous mathematical framework for **quantum-inspired optimization of reasoning architectures** in artificial intelligence systems. By embedding graph-theoretic reasoning structures into a high-dimensional **Hilbert space** and employing **quantum random-walk dynamics**, we obtain provable **quadratic speedups** over classical optimization methods. The approach establishes a **bijective mapping** between reasoning architectures and quantum mechanical systems, enabling the application of **variational quantum algorithms** to discover optimal reasoning pathways. Our theoretical analysis connects **quantum interference patterns** to the geometry of the optimization landscape, and experiments on benchmark problems demonstrate significant performance improvements. The framework offers both **theoretical foundations** and **practical algorithms** for next-generation automated reasoning system design, with applications to **neural architecture search**, **multi-objective optimization**, and **distributed AI**.  
+We present a rigorous mathematical framework for **quantum-inspired optimization of reasoning architectures** in artificial intelligence systems. By embedding graph-theoretic reasoning structures into a high-dimensional **Hilbert space** and employing **quantum random-walk dynamics**, we obtain provable **quadratic speedups** over classical optimization methods. The approach establishes a **bijective mapping** between reasoning architectures and quantum mechanical systems, enabling **variational quantum algorithms** to discover optimal reasoning pathways. Theoretical analysis links **quantum interference** to optimization landscape geometry, and experiments on benchmark problems demonstrate significant performance improvements. Applications include **neural architecture search**, **multi-objective optimization**, and **distributed AI**.  
 Keywords: quantum computing, reasoning architectures, random walks, optimization theory, artificial intelligence.
 
 ### Download
 PDF (latest asset): https://github.com/alexdibol/papers/releases/latest/download/BASIC_MOLECULAR_MODELS.pdf  
-(If you prefer a fixed version, attach the PDF to the release above and use that tag’s asset URL.)
+(For a fixed version, attach to the tagged release and use that asset URL.)
 
 ### How to Cite
 APA  
@@ -94,10 +94,38 @@ BibTeX
 
 ---
 
+## 4) Biological Systems in Financial Reasoning
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-biological_system_in_finance-v01
+
+### Abstract
+This paper advances a **biological-systems blueprint** for Reasoning AI in finance, arguing that robust decision-making emerges from the **organizing principles of living systems**. We propose a modular architecture grounded in **homeostasis/allostasis** for risk and liquidity control; **immune surveillance** for anomaly detection and regulatory compliance; **neuromodulation** for regime-aware exploration, learning rates, and global gain control; **metabolism** for capital, compute, and data budgeting and allocation; and **swarm intelligence** for decentralized search and execution. We specify **neuroplasticity mechanisms**—Hebbian updates, synaptic consolidation, and metaplastic regulation—that adapt policies across shifting regimes while preserving stability margins, provenance, and audit trails. Notebook-guided modules map code cells to figures, diagnostics, and evaluation protocols for **reproducibility and institutional auditability**. Case studies in portfolio risk budgeting, RegTech surveillance, liquidity “metabolism,” and decentralized execution show improved disturbance rejection, lower false alarms, interpretable regime shifts, and graceful degradation under stress. We outline governance patterns—human-in-the-loop review, autonomy gates, and reversible actions—for deployment under the **EU AI Act** and analogous regimes. Contributions: (i) a principled translation from systems biology to financial reasoning tasks; (ii) an algorithmic layer unifying control, immune learning, neuromodulation, and swarms; (iii) a reproducible protocol tying every artifact to source code.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-biological_system_in_finance-v01/BIOLOGICAL_SYSTEMS_IN_FINANCIAL_REASONING.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Biological Systems in Financial Reasoning* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-biological_system_in_finance-v01
+
+BibTeX  
+@article{reynoso_biological_systems_financial_reasoning_2025_v01,  
+  author = {Alejandro Reynoso},  
+  title = {Biological Systems in Financial Reasoning},  
+  year = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url = {https://github.com/alexdibol/papers/releases/tag/papers-biological_system_in_finance-v01}  
+}
+
+---
+
 ## License
 Text/PDFs: CC BY 4.0
 
 ## Feedback & Errata
 Please open an Issue with the paper title, version, and page/section reference, plus a suggested fix or replication note.
+
 
 
