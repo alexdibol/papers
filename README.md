@@ -177,8 +177,36 @@ BibTeX
   url    = {https://github.com/alexdibol/papers/releases/tag/papers-grover_safe_portfolio_search-v01}  
 }
 
+## 7) Human–AI Partnership in Financial Decision-Making
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-human_ai_parnership-v01
+
+### Abstract
+This chapter argues that the next frontier in financial decision-making is **neither fully automated nor purely human**, but a **rigorously engineered partnership** between analysts, institutions, and reasoning-capable AI systems. We synthesize literature across **ML, decision theory, HCI, and governance** to propose a layered collaboration architecture: **(1) data & knowledge bases; (2) model & retrieval; (3) reasoning & planning; (4) decision, risk & control; (5) oversight & assurance**. We present a taxonomy of reasoning capabilities—**tool-augmented chains of thought, self-critique & multi-agent debate, graph & causal reasoning, and quantum-inspired methods**—and map them to use cases in **research, trading, risk, credit, compliance, and audit**.  
+To operationalize the framework, we specify **interaction protocols**, **autonomy gates by risk tier**, and evaluation instruments that track **decision quality, calibration, robustness, fairness, cost, and latency**. Case studies in **REIT analytics** and **sequential compliance** demonstrate end-to-end workflows with **verifiable provenance** and regulator-facing artifacts. We show how value accrues when institutions shift from **ad-hoc prompting** to **disciplined systems engineering**: explicit objectives, guarded tool access, controllable memory, versioned policies, and observable execution. We detail governance interfaces—**decision logs, model/system cards, standardized attestations**—to support internal audit, investor reporting, and supervisory review without sacrificing speed or confidentiality. The chapter closes with adoption guidance, policy guardrails aligned to emerging regulation, and a research agenda on **multi-agent orchestration, incentives, and hardware-accelerated reasoning**—a practical blueprint for human–AI teams that are **auditable by default, adaptive under uncertainty, and aligned to fiduciary and societal constraints**.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-human_ai_parnership-v01/HUMAN.AI.PARTNERSHIP.IN.FINANCIAL.DECISION.MAKING.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Human–AI Partnership in Financial Decision-Making* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-human_ai_parnership-v01
+
+BibTeX  
+@article{reynoso_human_ai_partnership_finance_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Human–AI Partnership in Financial Decision-Making},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-human_ai_parnership-v01}  
+}
 
 ---
+
+
+
 
 ## License
 Text/PDFs: CC BY 4.0
