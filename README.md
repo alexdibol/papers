@@ -146,6 +146,38 @@ BibTeX
   url = {https://github.com/alexdibol/papers/releases/tag/papers-emergence_engineering-v01}  
 }
 
+
+## 6) Grover-Inspired Safe Portfolio Search
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-grover_safe_portfolio_search-v01
+
+### Abstract
+This paper is an **instructional case study** for teaching **quantum-inspired optimization** in finance. It is **not** investment advice, a trading strategy, or a claim of quantum advantage in live markets. The goal is to document a method that:  
+(i) expresses **cross-venue arbitrage** as a genuine **search over combinatorial portfolios**;  
+(ii) builds a **safety-gated, uncertainty-aware learned oracle** that lower-bounds dollar P&L using **conformalized quantile regression (CQR)**, feasibility gating, and calibration; and  
+(iii) implements a **Grover-inspired amplification** loop faithful to phase-flip plus diffusion **while enforcing fair-budget comparisons**—all methods consume the same number of **true-oracle** (exact P&L) evaluations.
+
+We provide a self-contained mathematical treatment of the portfolio encoding, cost model, oracle design, conformal guarantees, and a simple analysis of **imperfect marking** in Grover-style amplification. On **synthetic markets with realistic microstructure**, the pipeline is competitive—and sometimes better—than a calibrated Top-K baseline under identical exact-check budgets, with **reduced variance** due to safety gating. The contribution is **pedagogical and methodological**: a blueprint with guardrails and diagnostics that prevent error amplification and can later be lifted toward genuine quantum implementations as hardware and I/O constraints permit.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-grover_safe_portfolio_search-v01/GROVER.INSPIRED.SAFE.PORFOLIO.SEARCH.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Grover-Inspired Safe Portfolio Search* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-grover_safe_portfolio_search-v01
+
+BibTeX  
+@article{reynoso_grover_safe_portfolio_search_2025_v01,  
+  author = {Alejandro Reynoso},  
+  title  = {Grover-Inspired Safe Portfolio Search},  
+  year   = {2025},  
+  version= {v01},  
+  publisher = {GitHub},  
+  url    = {https://github.com/alexdibol/papers/releases/tag/papers-grover_safe_portfolio_search-v01}  
+}
+
+
 ---
 
 ## License
