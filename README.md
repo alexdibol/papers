@@ -311,6 +311,34 @@ BibTeX
 }
 
 
+## 12) Multi-Agent Topology — Mathematical Structures for Collaborative Financial Analysis
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/paper-multi_abstract_math_agents-v01
+
+### Abstract
+This research presents a **multi-agent computational framework** that uses specialized **mathematical reasoning structures** for collaborative financial analysis. We introduce four distinct intelligent agents—rooted in **lattice theory**, **category theory**, **information theory**, and **algebraic topology**—to tackle complex investment decisions systematically. Through comprehensive case studies, including the **$2.8B TechTarget Corp acquisition** analysis, we show how mathematical specialization delivers **broader analytical coverage**, **stronger error detection**, and **improved decision quality**, while also revealing coordination challenges and implementation considerations. Across **60 financial scenarios**, the framework achieves **96% of human expert team performance** and an **18% improvement over single-agent approaches**. We conclude with **actionable deployment guidelines** for institutional finance environments.
+
+**Keywords:** multi-agent systems, lattice theory, category theory, information theory, algebraic topology, financial analysis, decision support
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/paper-multi_abstract_math_agents-v01/MULTI_AGENT_TOPOLOGY.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Multi-Agent Topology — Mathematical Structures for Collaborative Financial Analysis* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/paper-multi_abstract_math_agents-v01
+
+BibTeX  
+@article{reynoso_multi_agent_topology_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Multi-Agent Topology — Mathematical Structures for Collaborative Financial Analysis},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/paper-multi_abstract_math_agents-v01}  
+}
+
+
 ---
 
 
