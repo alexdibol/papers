@@ -611,6 +611,39 @@ BibTeX
 }
 
 
+## 22) Structural Reasoning Models in Financial Risk Management
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-reasoning_financial_risk-v01
+
+### Abstract
+This paper presents a **structural reasoning** framework for financial risk management that unifies four complementary paradigms:  
+(i) **sequential, agentic scenario engines**;  
+(ii) **molecular contagion graphs** capturing cross-exposures;  
+(iii) **topological risk landscapes** with path-risk integrals and geodesic navigation; and  
+(iv) **adaptive meta-learning** that selects/refines architectures as regimes shift.  
+We formalize **states, events, and reaction dynamics**; define **curvature-aware path risk** on a manifold of portfolio configurations; and specify a **selector policy** for cross-architecture transfer. A reproducible implementation evaluates portfolios against historical **VaR/ES baselines**, stress scenarios, and ablations—reporting gains in **transparency, robustness, and navigability**. The framework supports institutional governance via **audit trails**, **human-in-the-loop controls**, and **privacy-preserving federation**. Results indicate improved detection of **emerging vulnerabilities**, clearer attribution of **risk propagation**, and more deliberate **intervention planning**. We discuss deployment patterns, limitations, and validation protocols—positioning structural reasoning as a practical bridge between quantitative risk controls and modern AI decision systems.
+
+**Keywords:** structural reasoning, financial risk, contagion graphs, topological risk landscapes, meta-learning, VaR/ES, governance
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-reasoning_financial_risk-v01/REASONING_MODELS_IN_RISK_MANAGEMENT.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Structural Reasoning Models in Financial Risk Management* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-reasoning_financial_risk-v01
+
+BibTeX  
+@article{reynoso_structural_reasoning_financial_risk_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Structural Reasoning Models in Financial Risk Management},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-reasoning_financial_risk-v01}  
+}
+
+
 ---
 
 
