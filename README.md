@@ -455,6 +455,33 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/paper-quantum_agentic_optimization_continuous_combinatorics_hamiltonian_mappings-v01}  
 }
 
+
+## 17) Quantum–Non-Quantum Hybrid Decision Making
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/paper-neural_quantum_hybrid_decision_models-v01
+
+### Abstract
+We present a **systematic framework** for optimizing **strategic reasoning** using **quantum-enhanced computational methods**. Treating reasoning patterns as **molecular structures in high-dimensional spaces** enables systematic discovery of **optimal cognitive architectures** for business decision-making. A three-stage **quantum pipeline** delivers a **15.6× speedup** over classical methods while maintaining **91% solution quality**. Applications show measurable gains in **merger analysis** (**+23% accuracy**), **crisis management** (**60% faster response**), and **innovation strategy** development. The result is a **practical tool** for competitive advantage: **quantum reasoning optimization** that augments institutional decision-making under uncertainty.  
+**Keywords:** quantum computing, strategic decision-making, reasoning optimization, artificial intelligence, business strategy, competitive advantage.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/paper-neural_quantum_hybrid_decision_models-v01/QUANTUM.NON.QUANTUM.HYBRID.DECISION.MAKING.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Quantum–Non-Quantum Hybrid Decision Making* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/paper-neural_quantum_hybrid_decision_models-v01
+
+BibTeX  
+@article{reynoso_quantum_non_quantum_hybrid_decision_making_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Quantum–Non-Quantum Hybrid Decision Making},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/paper-neural_quantum_hybrid_decision_models-v01}  
+}
+
 ---
 
 
