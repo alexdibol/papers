@@ -545,6 +545,42 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-structural_reasoning_hft-v01}  
 }
 
+
+
+## 20) Structural Reasoning for Institutional Asset Allocation
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-structural_reasoning_asset_allocation-v01
+
+### Abstract
+Institutional investment increasingly demands systems that **reason over heterogeneous, latency-prone data** while respecting **tight operational and governance constraints**. This paper proposes a **modular reasoning framework** with three separable responsibilities:  
+1) **Beliefs:** form probabilistic beliefs from validated features using five complementary families—**sequential & point-process models**, **probabilistic graphical models**, **optimization & combinatorial allocators**, **graph/topology-aware methods**, and **agentic LLM components**—connected via a disciplined **integration layer**.  
+2) **Constraints:** encode **costs, risk, capacity, and compliance** as first-class constraints with transparent shadow prices.  
+3) **Decisions:** map beliefs and constraints to **trades** under auditable objectives.
+
+The **integration layer** aggregates heterogeneous forecasts under **strictly proper scoring rules**, regularizes against **model collinearity**, and **inflates risk** under inter-model disagreement so uncertainty becomes a **governable input** to portfolio construction. The engineering substrate enforces **point-in-time discipline**, **feature versioning**, and **leakage prevention**; each run emits a **signed manifest** (data snapshots, feature versions, configuration hashes, code commits, seeds) enabling **bit-for-bit replay** and independent validation. An experimental protocol specifies **rolling, capacity- and cost-aware evaluation** with nested tuning, stress tests, and regime-sliced reporting—prioritizing **calibration, cost realism, and operational robustness** over unconditional performance claims.
+
+We provide a **results template** reporting headline metrics with **uncertainty intervals**, marginal value via **ablations** and **Shapley-style** analyses, and audits of **predictive calibration** and **execution costs**. Case studies show how **disagreement-aware aggregation** reduces drawdowns at regime transitions, **topology-based regularization** curbs cross-sectional overfitting, and **constraint shadow prices** clarify mandate trade-offs. Agentic components serve as **scribe**, **narrator**, and **governance clerk**, producing human-auditable narratives grounded in the run ledger. Treating **uncertainty, constraints, and provenance** as co-equal to prediction turns a collection of models into an **auditable decision system** that is easier to operate, validate, and extend.
+
+**Keywords:** asset allocation, reasoning systems, proper scoring rules, topology-aware regularization, agentic LLMs, auditability, cost-aware evaluation
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-structural_reasoning_asset_allocation-v01/REASONING_INVESTMENT.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Structural Reasoning for Institutional Asset Allocation* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-structural_reasoning_asset_allocation-v01
+
+BibTeX  
+@article{reynoso_structural_reasoning_asset_allocation_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Structural Reasoning for Institutional Asset Allocation},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-structural_reasoning_asset_allocation-v01}  
+}
+
 ---
 
 
