@@ -121,11 +121,39 @@ BibTeX
 
 ---
 
+## 5) Emergence Engineering — Controlling the Big Bang
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-emergence_engineering-v01
+
+### Abstract
+There is a moment in the life of a growing mind—human or machine—when scattered knowledge becomes a path, a path becomes a road, and the road crosses a chasm that once seemed impassable. Observers of large language models know this moment as **emergence**: a system that once struggled with multi-step problems begins to reason in stages, plan, and connect. This essay is a **field guide to that “magic” without equations**. Using analogies rather than math, it explains why abilities appear suddenly—not as quantum leaps, but as **bridges opening inside an invisible landscape**. It then asks a design question: if bridges can be understood, **can we draw them on the map beforehand?** Inspired by cosmology, the essay proposes **engineering the “initial conditions”** of a model’s inner world—the **Big Bang of its representation space**—so that later structures form with straighter roads, stronger bridges, and fewer detours. The invitation is to build **maps first, models second**: a practical blueprint for **designing emergence** rather than merely waiting for it.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-emergence_engineering-v01/CONTROLING_THE_BIG_BANG.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Emergence Engineering — Controlling the Big Bang* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-emergence_engineering-v01
+
+BibTeX  
+@article{reynoso_emergence_engineering_2025_v01,  
+  author = {Alejandro Reynoso},  
+  title = {Emergence Engineering — Controlling the Big Bang},  
+  year = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url = {https://github.com/alexdibol/papers/releases/tag/papers-emergence_engineering-v01}  
+}
+
+---
+
 ## License
 Text/PDFs: CC BY 4.0
 
 ## Feedback & Errata
 Please open an Issue with the paper title, version, and page/section reference, plus a suggested fix or replication note.
+
 
 
 
