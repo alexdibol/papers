@@ -482,6 +482,36 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/paper-neural_quantum_hybrid_decision_models-v01}  
 }
 
+
+## 18) Quantum-Inspired Trading and Investing
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-quantum_inspired_trading_investing-v01
+
+### Abstract
+This paper develops a **quantum-inspired framework for quantitative finance** that operationalizes the primitives of **superposition, entanglement, and interference** within tractable, fully **classical** algorithms. We formalize **strategy Hamiltonians** for momentum, contrarian, and hybrid allocation; encode **portfolio constraints** and **turnover costs** as penalty terms; and simulate **QAOA-style** updates to explore combinatorial weight landscapes. **Interference encoders** translate phase structure in returns into **regime-aware signals**, while **entanglement analogues** capture cross-asset dependence beyond covariance via **network-regularized couplings**. Implementations are released in a companion **Colab** notebook for end-to-end reproducibility.  
+Across equity and multi-asset datasets, we benchmark against **mean–variance**, **risk parity**, and **sparse L2/L1** allocators, evaluating **Sharpe, Sortino, drawdown, turnover, stability,** and **tail control**. Ablations and stress tests probe sensitivity to horizons, coupling strength, and transaction frictions. Results show **consistent improvements** in risk-adjusted performance and **drawdown resilience** during regime shifts—attributable to interference-derived timing and entanglement-aware hedging. We discuss computational trade-offs, **interpretability via energy landscapes**, and **governance** implications for production. Grounding quantum metaphors in explicit operators and reproducible code, the work offers a **rigorous bridge** between quantum ideas and institutional portfolio design, and a **roadmap** for hybrid quantum–classical extensions as hardware matures. Limitations and future research directions are outlined.
+
+**Keywords:** quantum-inspired finance, Hamiltonians, QAOA-style optimization, interference encoders, entanglement analogues, portfolio construction, risk management
+
+### Download
+PDF (latest): https://github.com/alexdibol/papers/releases/latest/download/QUANTUM_INSPIRED_TRADING_AND_INVESTING.pdf  
+(If you prefer a fixed version, replace with the asset URL from the tagged release above.)
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Quantum-Inspired Trading and Investing* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-quantum_inspired_trading_investing-v01
+
+BibTeX  
+@article{reynoso_quantum_inspired_trading_investing_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Quantum-Inspired Trading and Investing},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-quantum_inspired_trading_investing-v01}  
+}
+
 ---
 
 
