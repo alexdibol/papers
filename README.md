@@ -399,6 +399,33 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-quantum_enhanced_reasoning_systems-v01}  
 }
 
+## 15) Quantum Hidden Markov Models for Financial Regime Detection
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/paper-quantum_hmm-v01
+
+### Abstract
+This paper introduces a **quantum-enhanced Hidden Markov Model (QHMM)** for market regime detection and algorithmic trading. Unlike traditional approaches that rely solely on technical signals or classical HMMs (e.g., Simmons), the proposed QHMM fuses **observable market features** and **latent regimes** within a **parameterized quantum circuit** leveraging **entanglement** and **interference**. Real-valued indicators and binary stock signals are mapped to predefined regimes (**Bull, Normal, Volatile, Bear**), enabling the model to capture **nonlinear correlations** and **superpositional market states** that classical models struggle to represent. We document substantial **interference effects** that differentiate QHMM information processing from classical HMMs.  
+In backtests on **SPY**, the QHMM often converges to **buy-and-hold** during periods when classical HMMs and technical strategies underperformed due to over-trading—effectively asserting regime stability and **avoiding unnecessary turnover**, with superior risk-adjusted returns. We provide the mathematical formulation of the QHMM architecture, training objective, and measurement process, and discuss how **quantum mechanical principles** can offer unique advantages in financial modeling.
+
+**Keywords:** quantum HMM, regime detection, quantum circuits, entanglement, interference, algorithmic trading, SPY backtest
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/paper-quantum_hmm-v01/QUANTUM.HIDDEN.MARKOV.MODELS.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Quantum Hidden Markov Models for Financial Regime Detection* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/paper-quantum_hmm-v01
+
+BibTeX  
+@article{reynoso_quantum_hmm_finance_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Quantum Hidden Markov Models for Financial Regime Detection},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/paper-quantum_hmm-v01}  
+}
 
 
 
