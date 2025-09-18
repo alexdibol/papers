@@ -13,20 +13,37 @@ These papers are the **building blocks** behind my long-form books and teaching 
 - **Errata & updates** tracked transparently
 
 ---
+# Catalog
 
-## Catalog
+# A Practical Guide to Implementing Reasoning Systems in Financial Institutions
 
-_Add entries as you publish releases. After creating a release, right-click the PDF asset → “Copy link address” and paste below._
+**Author:** Alejandro Reynoso  
+**Version:** v01 · **Release:** [`paper-practical_guide_reasoning_institutions-v01`](https://github.com/alexdibol/papers/releases/tag/paper-practical_guide_reasoning_institutions-v01)
 
-- **\<Paper Title\>** (\<Year\>)  
-  [⬇️ Download PDF](https://github.com/\<OWNER\>/papers/releases/download/\<TAG\>/\<FILENAME.pdf\>)
-  · Release: [`\<TAG\>`](https://github.com/\<OWNER\>/papers/releases/tag/\<TAG\>)
-  · DOI: \<doi-if-any\>  
-  *Abstract:* \<1–3 sentences\>
+## Abstract
+This paper is a **fully researched set of best practices** for deploying **advanced reasoning models**—from chain-of-thought orchestration to agentic pipelines—**inside real-world financial institutions**. It distills practical guidance on architecture choices, governance and controls, risk & compliance alignment, data integration, evaluation/monitoring, and productionization under regulatory and operational constraints. The emphasis is on **institution-grade reliability, auditability, and reproducibility**, with patterns and checklists that technology, risk, and business teams can use to move from pilots to scalable impact.
 
-- **\<Paper Title 2\>** (\<Year\>)  
-  [⬇️ Download PDF](https://github.com/\<OWNER\>/papers/releases/download/\<TAG\>/\<FILENAME.pdf\>)
-  · Release: [`\<TAG\>`](https://github.com/\<OWNER\>/papers/releases/tag/\<TAG\>)
-  · DOI: \<doi-if-any\>  
-  *Abstract:* \<1–3 sentences\>
+## Download
+- **PDF:** [⬇️ A.PRACTICAL.GUIDE.TO.IMPLEMENTING.REASONING.SYSTEMS.IN.FINANCIAL.INSTITUTIONS.pdf](https://github.com/alexdibol/papers/releases/download/paper-practical_guide_reasoning_institutions-v01/A.PRACTICAL.GUIDE.TO.IMPLEMENTING.REASONING.SYSTEMS.IN.FINANCIAL.INSTITUTIONS.pdf)
+
+> Tip: for reproducible references, cite the **release tag** above. If a DOI is later minted via Zenodo, prefer citing the DOI.
+
+---
+
+## How to Cite
+
+### APA
+> Reynoso, A. (2025). *A Practical Guide to Implementing Reasoning Systems in Financial Institutions* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/paper-practical_guide_reasoning_institutions-v01
+
+### BibTeX
+```bibtex
+@article{reynoso_practical_reasoning_institutions_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {A Practical Guide to Implementing Reasoning Systems in Financial Institutions},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/paper-practical_guide_reasoning_institutions-v01}
+}
+
 
