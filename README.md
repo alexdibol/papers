@@ -257,6 +257,32 @@ BibTeX
 }
 
 
+## 10) Abstract Mathematical Structures for Financial Decision-Making
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-abstract_math_financial_decision-v01
+
+### Abstract
+This paper examines the use of **abstract yet powerful mathematical structures** as frameworks for **systematic reasoning** in financial analysis. We explore how concepts from **category theory**, **lattice theory**, **information theory**, and **algebraic topology** provide **formal blueprints** for designing robust, auditable, and optimized analytical processes—imposing **constraints** and **optimization criteria** on reasoning-path design. Through critical analysis of theoretical foundations and practical implementations, we demonstrate both the **promising applications** and **significant limitations** of mathematically structured approaches to financial decision-making. The framework is instantiated via a comprehensive implementation that guides **LLMs** through disciplined reasoning workflows, culminating in a detailed **REIT liquidity management** case study under severe stress. The aim is to **bridge abstract mathematics and real-world finance**, yielding more reliable and defensible decisions.  
+**Keywords:** mathematical reasoning, financial analysis, category theory, lattice theory, information theory, structured decision-making, artificial intelligence, LLM reasoning.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-abstract_math_financial_decision-v01/MATHEMATICAL_STRUCTURES_DIDACTIC.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Abstract Mathematical Structures for Financial Decision-Making* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-abstract_math_financial_decision-v01
+
+BibTeX  
+@article{reynoso_abstract_math_financial_decision_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Abstract Mathematical Structures for Financial Decision-Making},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-abstract_math_financial_decision-v01}  
+}
+
 
 
 ---
