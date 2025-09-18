@@ -283,6 +283,32 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-abstract_math_financial_decision-v01}  
 }
 
+## 11) Molecular Reasoning — Contrastive Methods
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-contrastive-molecular-reasoning-v01
+
+### Abstract
+This paper introduces a framework for **understanding and retrieving reasoning patterns** in financial decision-making via **contrastive learning** and **embedding spaces**. We define **“reasoning molecules”**—structured units of logical thought—represented and analyzed in high-dimensional spaces. A **dual-encoder architecture** ingests structural features and semantic content to form a unified **64-dimensional embedding space** where reasoning patterns cluster by logical properties. Using **synthetic query generation** and contrastive objectives, we show how professionals can analyze, retrieve, and interpret complex reasoning. As a pedagogical proxy for financial analysis, we validate with **Sherlock Holmes**-style detective reasoning and demonstrate separability across **deductive, observational, eliminative, and verificational** modes. The result enables **sophisticated retrieval** of reasoning patterns by semantic similarity with implications for **financial education, risk assessment,** and next-generation **decision-support systems**.
+
+**Keywords:** contrastive learning, reasoning molecules, dual-encoder, embeddings, financial decision-making, retrieval, Sherlock Holmes
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-contrastive-molecular-reasoning-v01/MOLECULAR.REASONING.CONTRASTIVE.METHODS.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Molecular Reasoning — Contrastive Methods* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-contrastive-molecular-reasoning-v01
+
+BibTeX  
+@article{reynoso_molecular_reasoning_contrastive_methods_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Molecular Reasoning — Contrastive Methods},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-contrastive-molecular-reasoning-v01}  
+}
 
 
 ---
