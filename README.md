@@ -671,6 +671,36 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-regime_aware_quantum_enconders_algo_trading-v01}  
 }
 
+## 24) Semantic Ambiguity Resolution via Quantum-Inspired Attention
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-quantum_inspired_attention-v01
+
+### Abstract
+This paper presents a **quantum-inspired** approach to NLP that simulates **entanglement** and **interference** across neighboring sentences to resolve **semantic ambiguity**, with emphasis on financial communications. We encode sentence triplets into mathematically **entangled representations**, inducing interference-like patterns that disambiguate contradictory or nuanced signals. Implemented entirely on **classical hardware**, the method achieves a **36.7% accuracy improvement** over classical baselines (**p < 0.004**) on adversarial ambiguity datasets. We develop and validate two complementary architectures:  
+1) a **non-linear interference model** reaching **63.3%** accuracy on ambiguous text classification; and  
+2) a **complete quantum-inspired NLP framework** that demonstrates robust performance across diverse scenarios.  
+The results indicate advantages of quantum-inspired computation for language tasks requiring sophisticated ambiguity resolution (e.g., **earnings reports, Fed minutes, financial news, regulatory filings**) and provide foundations for **quantum-enhanced transformer** designs when appropriate hardware becomes available.
+
+**Keywords:** quantum-inspired attention, semantic ambiguity, entanglement, interference, financial NLP, adversarial text, transformer foundations
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-quantum_inspired_attention-v01/SEMANTIC.AMBIGUITY.RESOLUTION.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Semantic Ambiguity Resolution via Quantum-Inspired Attention* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-quantum_inspired_attention-v01
+
+BibTeX  
+@article{reynoso_quantum_inspired_attention_ambiguity_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Semantic Ambiguity Resolution via Quantum-Inspired Attention},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-quantum_inspired_attention-v01}  
+}
+
 
 ---
 
