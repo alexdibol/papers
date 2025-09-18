@@ -230,6 +230,31 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-emergence_by_design-v01}  
 }
 
+## 9) Mathematical Structures for Financial Reasoning
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-mathematical_structures_financial_reasoning-v01
+
+### Abstract
+This paper examines the application of **rigorous mathematical structures** as frameworks for **systematic reasoning** in financial analysis. We investigate how **category theory**, **lattice theory**, **information theory**, and **algebraic topology** can provide **formal constraints** and **optimization criteria** for reasoning-path design. Through critical analysis of theoretical foundations and practical implementations, we demonstrate both the **promising applications** and the **limitations** of mathematically structured approaches to financial decision-making. The framework is illustrated via a comprehensive implementation that guides **large language models** through disciplined reasoning processes, including a detailed **REIT liquidity management** case study under stress conditions.  
+**Keywords:** mathematical reasoning, financial analysis, category theory, lattice theory, information theory, structured decision-making, artificial intelligence.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-mathematical_structures_financial_reasoning-v01/MATHEMATICAL_STRUCTRURES.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Mathematical Structures for Financial Reasoning* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-mathematical_structures_financial_reasoning-v01
+
+BibTeX  
+@article{reynoso_mathematical_structures_financial_reasoning_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Mathematical Structures for Financial Reasoning},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-mathematical_structures_financial_reasoning-v01}  
+}
 
 
 
