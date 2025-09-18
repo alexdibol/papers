@@ -702,6 +702,35 @@ BibTeX
 }
 
 
+## 25) The Mathematics of Emergence
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-math_emergence_ai_intelligence-v01
+
+### Abstract
+Large language models sometimes appear to **“suddenly” acquire new abilities**—solving multi-step problems, planning, or explaining reasoning. This paper proposes a **map-and-roads** account. Inside a model, concepts lie on an internal **geometric map**, and **attention** builds roads that move information between them. Small models have messy maps with thin or broken roads across distant ideas; as models grow and data increases, the map **clarifies** and the roads **widen**. At a critical point, **new bridges** span old gaps, making long, multi-step routes traversable—observed as a jump in capability.  
+We show how to **measure these bridges** using **spectral gaps** (networks), **topology** (shape/connectivity), and **geodesics** (geometry). We contrast this view with smooth scaling laws and “circuit” explanations, then outline **design principles**: specify the **ideal internal map** first (fast, accurate, less prone to fabrication), then build the network so its learned roads **match the target map**.
+
+**Keywords:** emergence, spectral gaps, topology, geodesics, attention mechanisms, reasoning maps, model design
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-math_emergence_ai_intelligence-v01/THE_MATHEMATICS_OF_EMERGENCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *The Mathematics of Emergence* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-math_emergence_ai_intelligence-v01
+
+BibTeX  
+@article{reynoso_mathematics_of_emergence_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {The Mathematics of Emergence},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-math_emergence_ai_intelligence-v01}  
+}
+
+
 ---
 
 
