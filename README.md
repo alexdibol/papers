@@ -644,6 +644,34 @@ BibTeX
 }
 
 
+## 23) Regime-Aware Quantum Encoders for Algorithmic Trading (Quant-Quant)
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-regime_aware_quantum_enconders_algo_trading-v01
+
+### Abstract
+This paper introduces **Quant-Quant**, an algorithmic trading approach that leverages **quantum circuit architecture discovery** for financial strategy selection. Rather than swapping classical neural networks for quantum analogs, Quant-Quant exploits **interference** and **superposition** to **evolve circuit topologies** whose interference patterns induce **emergent trading strategies**. By treating **topology selection** as the key design degree of freedom, quantum computers act as **strategy-optimization engines**, exploring combinations in parallel and allowing **constructive interference** to surface high-quality behaviors. A regime-aware encoder steers exploration across market conditions. Empirically, the system reports **212.98% annual returns**, **100.01% alpha**, and a **Sharpe ratio of 1.302**, supporting the case for quantum principles in financial contexts.
+
+**Keywords:** quantum encoders, interference, superposition, circuit topology, algorithmic trading, regime-aware optimization
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-regime_aware_quantum_enconders_algo_trading-v01/REGIME.AWARE.QUANTUM.ENCODERS.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Regime-Aware Quantum Encoders for Algorithmic Trading (Quant-Quant)* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-regime_aware_quantum_enconders_algo_trading-v01
+
+BibTeX  
+@article{reynoso_regime_aware_quantum_encoders_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Regime-Aware Quantum Encoders for Algorithmic Trading (Quant-Quant)},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-regime_aware_quantum_enconders_algo_trading-v01}  
+}
+
+
 ---
 
 
