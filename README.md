@@ -205,6 +205,37 @@ BibTeX
 
 ---
 
+## 8) Emergence by Design — Implementation of a Manifold Specification Language
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-emergence_by_design-v01
+
+### Abstract
+New abilities in large language models often appear to “switch on” as scale increases. This paper argues those jumps **need not be accidental**. Within a transformer, concepts inhabit an internal **manifold (map)** and attention lays down **roads** that move information between them. Rather than training and hoping a good map emerges, we **specify the target map first**: straight, high-capacity roads for correct reasoning; robust **bridges** between key concepts; and **guardrails** against fabricated facts. We then show how to **compile** that specification into architecture, initialization, and training objectives so the learned internal map **matches the design**. In short, we can **engineer emergence** by shaping the **geometry, topology, and spectral properties** of the model’s internal world.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-emergence_by_design-v01/IMPLEMENTATION_OF_A_MANIFOLD_SPECIFICATION_LANGUAGE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Emergence by Design — Implementation of a Manifold Specification Language* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-emergence_by_design-v01
+
+BibTeX  
+@article{reynoso_emergence_by_design_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Emergence by Design — Implementation of a Manifold Specification Language},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-emergence_by_design-v01}  
+}
+
+
+
+
+
+---
+
 
 
 
