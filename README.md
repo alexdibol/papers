@@ -30,7 +30,3 @@ _Add entries as you publish releases. After creating a release, right-click the 
   · DOI: \<doi-if-any\>  
   *Abstract:* \<1–3 sentences\>
 
----
-
-## Repository layout
-
