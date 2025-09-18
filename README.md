@@ -46,4 +46,39 @@ This paper is a **fully researched set of best practices** for deploying **advan
   url       = {https://github.com/alexdibol/papers/releases/tag/paper-practical_guide_reasoning_institutions-v01}
 }
 
+# Advanced Sequential Reasoning
+
+**Author:** Alejandro Reynoso  
+**Version:** v01 · **Release:** [`papers-advanced_sequential_reasoning-v01`](https://github.com/alexdibol/papers/releases/tag/papers-advanced_sequential_reasoning-v01)
+
+## Abstract
+Financial decisions rarely unfold as a single, linear calculation. Prices co-move across horizons; credit signals deepen or recede as new information arrives; regimes flip the meaning of familiar indicators; and live data streams force analysts to adapt on the fly. This paper presents a **practitioner-first framework** that organizes these realities into four composable patterns:
+
+1. **Multi-Timeline Analysis** — reconcile signals across intraday, swing, and strategic horizons.  
+2. **Conditional Reasoning Chains** — branch only when prior evidence warrants escalation.  
+3. **Scenario-Dependent Architectures** — select the right analytical playbook by regime.  
+4. **Real-Time Sequential Adaptation** — reconfigure the analysis chain as the data-generating process shifts.
+
+For each pattern, we provide rationale, step-by-step implementation guidance, performance and governance metrics, common failure modes, and change-management tips. Terminal-style **ASCII schemes** make logic portable to runbooks, PRDs, and code comments without layout friction. An appendix supplies a ready-to-use **prompt** that regenerates a Colab notebook implementing the full framework with clean terminal outputs and robust fallbacks. The goal is a fluid yet rigorous toolkit that helps portfolio managers, quants, risk leaders, and credit officers build systems that are **clear to operate, easy to audit, and hard to break**.
+
+## Download
+- **PDF:** [⬇️ ADVANCED_SEQUENTIAL_REASONING.pdf](https://github.com/alexdibol/papers/releases/download/papers-advanced_sequential_reasoning-v01/ADVANCED_SEQUENTIAL_REASONING.pdf)
+
+---
+
+## How to Cite
+
+### APA
+> Reynoso, A. (2025). *Advanced Sequential Reasoning* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-advanced_sequential_reasoning-v01
+
+### BibTeX
+```bibtex
+@article{reynoso_advanced_sequential_reasoning_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Advanced Sequential Reasoning},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-advanced_sequential_reasoning-v01}
+}
 
