@@ -764,6 +764,37 @@ BibTeX
 
 
 
+## 27) Generative AI in Corporate Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-gen_ai_corporate_finance-v01
+
+### Abstract
+This paper formalizes an **integrated research program** for applying **generative AI and LLMs** to strategic finance and corporate decision-making. We synthesize three complementary reasoning paradigms—**chain-of-thought valuation analysis**, **tree-of-thought strategic option evaluation**, and **tool-augmented financial analytics with real-time data**—into a **unified, auditable framework** for investment banking and corporate finance. The approach operationalizes **transparent assumption tracing**, **multi-branch scenario optimization**, and **cross-source validation** (market data, fundamentals, macro indicators, sentiment) to meet professional standards for **fairness opinions**, **capital allocation**, and **board-level strategy** under uncertainty.  
+Methodologically, we specify **reproducible prompts**, **model-governance controls**, and **data-quality checks**, and we map outputs to decision artifacts required by **fiduciary**, **regulatory**, and **internal risk** policies. We provide a **reference architecture** and **evaluation protocol** that quantify reasoning rigor, attribution, and sensitivity to model and data drift. Our agenda outlines empirical tests comparing **LLM-assisted workflows** to conventional practice across **valuation accuracy**, **time-to-insight**, and **documentation completeness**. The result is a path from **prototype notebooks** to **production-grade, institutionally deployable systems**, linking analytical transparency with measurable value creation and risk mitigation.
+
+**Keywords:** generative AI, LLMs, corporate finance, valuation, strategy, governance, auditability, real-time data
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-gen_ai_corporate_finance-v01/GENERATIVE_AI_IN_CORPORATE_FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Generative AI in Corporate Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-gen_ai_corporate_finance-v01
+
+BibTeX  
+@article{reynoso_generative_ai_corporate_finance_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Generative AI in Corporate Finance},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-gen_ai_corporate_finance-v01}  
+}
+
+
+
+
 
 
 ---
