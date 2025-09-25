@@ -793,6 +793,36 @@ BibTeX
 }
 
 
+## 28) Introduction to Biological Intelligence Methods in Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-bio_intelligence_finance-v01
+
+### Abstract
+This paper presents a **contract-first framework** that brings **biological intelligence**—including **evolutionary computation**, **swarm search**, **cellular automata**, and **neural genetic programming**—into core **corporate-finance** decisions. Mandates are formalized as a **fitness–constraint contract** encoding risk-penalized free cash flow, liquidity buffers and covenant adherence, service levels, tax efficiency, and implementation frictions. **Hard constraints** are enforced via **constraint-preserving operators**; **soft preferences** set selection pressure—yielding policies that are **feasible**, **auditable**, and **robust** to regime shifts.  
+Methodologically, we: (i) **evolve adaptive allocators** with neuroevolution (learning structure + parameters); (ii) solve high-dimensional discrete planning with **swarm intelligence** to minimize time-to-feasible under many constraints; (iii) use **cellular automata** to model ecosystem effects (shock propagation, tipping points, containment levers) in working capital, liquidity, and pricing; and (iv) discover **interpretable, board-ready strategies** with **neural genetic programming** under explicit complexity control. Engines are integrated in a **governance-ready stack** that emits reproducibility manifests, decision logs, model cards, and **autonomy gates**.  
+Empirically, we propose **regime-aware rolling evaluations** with strong baselines, cost realism, and stress scenarios, reporting outcomes across **utility**, **constraint adherence**, **policy turnover**, **sensitivity**, and **compute footprint**. For researchers: a **provably feasible** approach to adaptive policy design on rugged decision spaces. For practitioners: a **living decision system** that advances allocation, liquidity, pricing, tax strategy, and integration—while preserving **explainability and control**.
+
+**Keywords:** biological intelligence, evolutionary computation, swarm intelligence, cellular automata, neural genetic programming, corporate finance, governance
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-bio_intelligence_finance-v01/INTRODUCTION_TO_BIOLOGICAL_INTELLICENCE_METHODS_IN_FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Introduction to Biological Intelligence Methods in Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-bio_intelligence_finance-v01
+
+BibTeX  
+@article{reynoso_bio_intelligence_finance_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Introduction to Biological Intelligence Methods in Finance},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-bio_intelligence_finance-v01}  
+}
+
+
 
 
 
