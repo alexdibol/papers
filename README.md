@@ -731,6 +731,41 @@ BibTeX
 }
 
 
+## 26) Emerging Properties of AI Models in Corporate Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-reasoning_corporate_finance-v01
+
+### Abstract
+This paper develops a **unified, production-oriented framework** for **emergent and autonomous AI** in corporate finance, translating advances in **neural architecture search** (differentiable, evolutionary, progressive NAS), **continual and meta-learning**, **self-organizing networks**, and **AGI-inspired reasoning** into **verifiable decision systems**. Anchored by a comprehensive implementation notebook (Chapter 6), we formalize financial decision problems under **non-stationarity** and **regulatory constraints**, and design **autonomy gates** that bind model behavior to **fiduciary, risk, and compliance** policies.
+
+Methodologically, we (i) cast **architecture discovery** as **resource-aware bilevel optimization**; (ii) couple **drift-robust continual learning** with explicit **forgetting penalties** and **replay controls**; (iii) induce **adaptive topologies** (e.g., **Growing Neural Gas**) to surface regime structure; and (iv) integrate **neural-symbolic tool use** and **causal world models** for **long-horizon planning**. We map these components into a deployable **system architecture** with **data lineage, monitoring, explainability, and audit trails**.
+
+Empirically, case studies demonstrate value across **credit risk automation**, **regulatory adaptation**, **self-organizing risk management**, **AGI-style strategic planning**, and **autonomous incident response**, with sensitivity analyses quantifying **stability**, **latency**, and **governance** trade-offs. The result is a **principled pathway from prototype to institution-grade autonomy**: models that **learn continuously**, **explain their actions**, and **respect institutional constraints**.
+
+**Keywords:** corporate finance, emergence, autonomy, NAS, continual learning, meta-learning, Growing Neural Gas, neural-symbolic, causal models, governance
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-reasoning_corporate_finance-v01/EMERGING_PROPERTIES_OF_AI_MODELS_IN_CORPORATE_FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Emerging Properties of AI Models in Corporate Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-reasoning_corporate_finance-v01
+
+BibTeX  
+@article{reynoso_emerging_ai_corporate_finance_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Emerging Properties of AI Models in Corporate Finance},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-reasoning_corporate_finance-v01}  
+}
+
+
+
+
+
 ---
 
 
