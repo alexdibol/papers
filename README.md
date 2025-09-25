@@ -910,6 +910,33 @@ BibTeX
 
 
 
+## 32) White Paper — Implementing AI for Investment Banking & Corporate Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-white_paper_implementation_ai_finance-v01
+
+### Abstract
+This white paper provides a **practical, governance-first blueprint** for deploying **production-grade AI** across investment banking and corporate finance. We integrate an **enterprise reference architecture**—governed data foundations, **versioned feature stores**, reproducible model fabrics, resilient serving/orchestration, and **end-to-end observability/security**—with a rigorous **Model Risk Management (MRM)** lifecycle for regulated environments. The approach is **outcome-oriented**: every model is tied to verifiable **cash or risk metrics** (e.g., DSO reduction, cost-of-funds savings, capital efficiency) and monitored for **calibration, bias, drift, and resilience**.  
+Controls are mapped to **prudential**, **financial reporting**, and **data-protection** regimes (Basel-aligned MRM, **SOX**, **GDPR/analogous DP laws**), with artifacts—**model cards, system cards, data sheets, deployment runbooks**—that render decisions **auditable and reproducible**. For **LLMs**, we specify **retrieval governance**, **prompt hygiene**, **tool-use policies**, **safety evaluations**, and **unit-economics guardrails**. **Portfolio steering** is formalized via stage gates, hurdle rates, and a **risk-adjusted AI metric (RAAI)** to guide capital allocation. We conclude with a **90-day foundation plan** and a **12-month scale roadmap**, defining decision rights and operating rhythms for Boards, CFOs, and risk/audit leaders. The result is an **economically disciplined, assurance-grade pathway** from pilots to durable enterprise impact.
+
+**Keywords:** governance-first AI, MRM, feature stores, observability, SOX, GDPR, retrieval governance, LLM safety, RAAI, enterprise roadmap
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-white_paper_implementation_ai_finance-v01/WHITE_PAPER_FOR_IMPLEMENTING_AI_FOR_INVESTMENT_BANKING_AND_CORPORATE_FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *White Paper — Implementing AI for Investment Banking & Corporate Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-white_paper_implementation_ai_finance-v01
+
+BibTeX  
+@article{reynoso_white_paper_ai_corporate_finance_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {White Paper — Implementing AI for Investment Banking \& Corporate Finance},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-white_paper_implementation_ai_finance-v01}  
+}
 
 
 
