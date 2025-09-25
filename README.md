@@ -851,6 +851,36 @@ BibTeX
 }
 
 
+## 30) Multi-Agent Reinforcement Learning for Corporate Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-multi_agent_reinforcement_learning_finance-v01
+
+### Abstract
+We frame corporate finance as a **multi-agent, partially observable control problem** and build decision systems that integrate **multi-agent RL (MARL)**, **hierarchical RL (HRL)**, **neural attention for communication**, and **option-based temporal abstraction**. The architecture operationalizes **cooperation, competition, and governance** across canonical domains: investment-committee asset allocation, cross-unit credit risk, cross-border transfer pricing, IPO underwriting & bond bookbuilding, M&A valuation auctions, hierarchical capital allocation, multi-level budgeting, and corporate restructuring.  
+Agents use **message encoders + attention** for interpretable information exchange; **competitive self-play** with lightweight opponent models to uncover equilibrium behaviors; and an **option-critic hierarchy** to align **strategic–tactical–operational** horizons. Rewards internalize **performance, risk, compliance, and coordination**, with guardrails against groupthink and concentration.  
+Empirically, attention improves **consensus quality** and **risk-adjusted performance** while preserving diversity; in competitive issuance/auctions, self-play yields pricing & participation policies balancing revenue, discipline, and prudent dropout. In hierarchical settings, options stabilize cross-level credit assignment and align divisional execution with corporate ROE targets. We report metrics for **attention diversity**, **consensus dispersion**, **competitive spread**, **compliance risk**, and **hierarchical alignment**, plus stress tests for regime shifts and adversarial behaviors. The result is a **scientifically grounded, implementable, auditable** blueprint for AI-enabled corporate decision systems—useful to practitioners, regulators, and researchers at the intersection of **MARL**, **organizational design**, and **market microstructure**.
+
+**Keywords:** multi-agent reinforcement learning, hierarchical RL, attention, option-critic, governance, corporate finance, auctions, capital allocation
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-multi_agent_reinforcement_learning_finance-v01/MULTIAGENT_REINFORCEMENT_LEARNING.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Multi-Agent Reinforcement Learning for Corporate Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-multi_agent_reinforcement_learning_finance-v01
+
+BibTeX  
+@article{reynoso_marl_corporate_finance_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Multi-Agent Reinforcement Learning for Corporate Finance},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-multi_agent_reinforcement_learning_finance-v01}  
+}
+
+
 
 
 
