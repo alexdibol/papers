@@ -881,6 +881,32 @@ BibTeX
 }
 
 
+## 31) Quantum-Inspired Corporate Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-quantum_inspired_corporate_finance-v01
+
+### Abstract
+This paper develops a **scientifically rigorous framework** for **quantum-inspired decision systems** in corporate finance. We formalize capital allocation, risk management, and governance as **structured optimization programs**—principally **Hamiltonian formulations**—and propose **hybrid pipelines** that combine **variational metaheuristics** with classical estimation and **constraint encoding**. The theoretical core specifies **agents, objectives, and information sets** under uncertainty, linking welfare-relevant criteria to implementable **loss functions** and **verifiable decision rules**. Methodologically, we characterize **computational complexity**, **identification assumptions**, and **convergence heuristics**, and provide an empirically disciplined protocol: **time-respecting splits**, benchmarked metrics, ablations, and uncertainty quantification. Using institutional datasets, we evaluate **economic significance** alongside statistical performance, isolate **mechanism-level contributions**, and test robustness to **hyperparameters**, **temporal drift**, and **adversarial stressors**. We embed **model-risk controls** (documentation, monitoring, human-in-the-loop oversight) within an enterprise **GRC workflow** aligned to auditability and disclosure. Managerial implications include **capital budgeting**, **liquidity policy**, and **risk transfer**; policy implications address transparency, market structure, and **supervisory expectations** for algorithmic governance. Contributions: (i) a **unifying formalism** connecting quantum-inspired optimization to finance theory; (ii) a **reproducible implementation stack** with model/system cards and audit trails; and (iii) evidence that **hybrid approaches** can deliver **decision-quality gains** while remaining interpretable, controllable, and compliant in production.
+
+**Keywords:** quantum-inspired optimization, Hamiltonians, corporate finance, variational metaheuristics, GRC, model risk management, uncertainty quantification
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-quantum_inspired_corporate_finance-v01/QUANTUM_INSPIRED_CORPORATE_FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Quantum-Inspired Corporate Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-quantum_inspired_corporate_finance-v01
+
+BibTeX  
+@article{reynoso_quantum_inspired_corporate_finance_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Quantum-Inspired Corporate Finance},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-quantum_inspired_corporate_finance-v01}  
+}
 
 
 
