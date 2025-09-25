@@ -822,6 +822,36 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-bio_intelligence_finance-v01}  
 }
 
+## 29) Introduction to Neural Methods in Corporate Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-evolutionary_neural_corporate_finance-v01
+
+### Abstract
+This paper develops a **governance-native, AI-first framework** for corporate-finance decision-making. Rather than treating prediction as the end, the system couples **representation learning** with **fiduciary constraints** to deliver **calibrated, auditable recommendations** for funding, liquidity, capital structure, working capital, and strategy. Methodologically, we specify a **relation-aware transformer** for irregular, multi-modal financial data; **deep ensembles** with post-hoc calibration and **conformal coverage** for decision-grade uncertainty; **generative engines** (variational & diffusion) for **scenario and stress analysis**; and **neural causal discovery** with acyclicity and economic priors for **counterfactual reasoning**.  
+We formalize **event-time data contracts**, **leakage guards**, and **rolling-origin evaluation**, elevating **calibration, coverage, robustness under shift, and policy regret** to first-class metrics. The implementation blueprint integrates **MLOps** with **model risk management**: manifests, model/decision cards, champion–challenger deployment, drift monitors, bounded autonomy with abstention, and **reproducible evidence packs** for audit. A companion Colab renders learning curves, reliability diagrams, coverage tables, scenario galleries, attribution overlays, and causal scaffolds. The architecture shows how **accuracy and accountability** can be **co-produced**, enabling CFOs, treasurers, and boards to realize value from AI while meeting **regulatory, ethical, and operational** requirements.
+
+**Keywords:** corporate finance, relation-aware transformer, deep ensembles, conformal prediction, diffusion/variational generative models, neural causal discovery, model risk management, governance
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-evolutionary_neural_corporate_finance-v01/INTRODUCTION_TO_NEURAL_METHODS_IN_CORPORATE_FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Introduction to Neural Methods in Corporate Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-evolutionary_neural_corporate_finance-v01
+
+BibTeX  
+@article{reynoso_neural_methods_corporate_finance_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Introduction to Neural Methods in Corporate Finance},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-evolutionary_neural_corporate_finance-v01}  
+}
+
+
+
 
 
 
