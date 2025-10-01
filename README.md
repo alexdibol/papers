@@ -996,6 +996,34 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-emerging_intelligence_marl-v01}  
 }
 
+## 35) From Neuroplasticity to Dynamic Credit Ratings
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-neuroplasticity_credit_ratings_models-v01
+
+### Abstract
+Credit risk assessment requires both **responsiveness** to new information and **continuity** with established knowledge. This paper proposes a **neuroplastic architecture** for adaptive credit ratings, inspired by biological learning and implemented via **Elastic Weight Consolidation (EWC)**. Using **Fisher-Information–derived parameter memory**, models retain critical knowledge from prior regimes while adapting to structural shifts in **leverage, liquidity, and profitability**.  
+A staged implementation (with an interactive **Colab**): from basic plastic learners → governed **EWC** models → **agentic systems** that detect regime changes and dynamically tune **consolidation strength (λ)** and memory curvature. Integrated into rating workflows, the system produces **interpretable PD trajectories**, **calibration panels**, and **governance-ready narratives**.  
+We outline a forward agenda that blends **reasoning models**, **neuro-symbolic hybrids**, and **quantum-inspired optimization** to represent financial interdependencies with greater structure and efficiency. Future extensions include **agent constellations** (A2A collaboration for calibration, surveillance, governance) and **Model–Context Protocol (MCP)** integration for **traceability**, **reproducibility**, and **controlled autonomy**. The result is an **adaptive, explainable, auditable** rating system that learns continuously **without catastrophic forgetting**, bridging cognitive adaptation with institutional accountability.
+
+**Keywords:** credit ratings, Elastic Weight Consolidation, Fisher Information, neuroplasticity, regime shift detection, agentic systems, governance, MCP
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-neuroplasticity_credit_ratings_models-v01/FROM_NEUROPLASTICITY_TO_DYNAMIC_CREDIT_RATINGS.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *From Neuroplasticity to Dynamic Credit Ratings* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-neuroplasticity_credit_ratings_models-v01
+
+BibTeX  
+@article{reynoso_neuroplasticity_dynamic_credit_ratings_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {From Neuroplasticity to Dynamic Credit Ratings},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-neuroplasticity_credit_ratings_models-v01}  
+}
 
 ---
 
