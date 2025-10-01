@@ -967,6 +967,36 @@ BibTeX
 }
 
 
+## 34) Emerging Intelligent Structures in Finance — Multi-Agent Reinforcement Learning
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-emerging_intelligence_marl-v01
+
+### Abstract
+We study **emerging market structures** through **multi-agent reinforcement learning (MARL)** across two domains: **market microstructure** and **corporate acquisition strategy**. Both are cast as **discounted Markov games** (and **Dec-POMDPs** under partial observability). A learning stack progresses from **tabular Q-learning** to **policy optimization** with **centralized training, decentralized execution**, combining **value decomposition** for cooperation, **counterfactual baselines** for mixed incentives, **population training/mean-field** methods for strategic diversity, **risk-sensitive & constrained objectives** for financial realism, and **continual-learning regularizers** plus **trust-region updates** for stability.  
+**Case studies.** (1) **Trading:** a triad—market maker, momentum, contrarian—interacts via a reduced-form impact model; joint learning reproduces **trend amplification**, **rapid reversals at flow extremes**, **volatility clustering**, **spread dynamics**, and **inventory cycling**. Incentive tweaks (temporary team bonuses, batch-style pauses) **dampen amplification** and **limit spread blowouts** with minimal private-performance cost. (2) **Corporate finance:** multiple acquirers face sequences of heterogeneous targets with noisy synergies and capital constraints; actions are **bid / pass / partner**. We formalize **coalition formation** and an **efficiency score** penalizing winner’s-curse errors; **mixed policies dominate**: partner on uncertain/expensive targets, bid solo on routine deals, walk when efficiency or capital discipline fails.  
+**Diagnostics & governance.** We introduce metrics separating private returns from system behavior: an **amplification coefficient** (price formation), a **liquidity-cycle index**, **policy-movement stability** metrics, and **deal-efficiency distributions**. Deployment guidance covers **TRACE-style decision packages**, **model/system cards**, **immutable audit logs**, **drift monitoring** (data/behavior/outcome), **adaptation gates**, **anti-collusion safeguards**, and **reproducible, signed artifacts**. The result is a unified formalism and didactic bridge from **Q-tables to deep MARL**, with runnable experiments that translate into **actionable levers** and **mechanism insights** for institutions where **stability, efficiency, and accountability** are first-class objectives.
+
+**Keywords:** MARL, Dec-POMDP, market microstructure, acquisitions, coalition formation, risk-sensitive RL, governance, auditability
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-emerging_intelligence_marl-v01/EMERGING_INTELLIGENT_STRUCTURES_MULTI_AGENT_REINFORCEMENT_LEARNING.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Emerging Intelligent Structures in Finance — Multi-Agent Reinforcement Learning* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-emerging_intelligence_marl-v01
+
+BibTeX  
+@article{reynoso_emerging_intelligent_structures_marl_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Emerging Intelligent Structures in Finance — Multi-Agent Reinforcement Learning},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-emerging_intelligence_marl-v01}  
+}
+
+
 ---
 
 
