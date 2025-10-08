@@ -1054,6 +1054,33 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-letters_from_quantum_world-v01}  
 }
 
+## 37) Tunneling and Currency Crises — A Physics-Inspired Framework
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-tunneling_financial_collapses-v01
+
+### Abstract
+This paper models **abrupt currency crises** as **tunneling events** in a **financial potential landscape**, linking heterogeneous-agent behavior to macro instability through an **operator formalism** analogous to quantum mechanics. Rather than metaphor, **metastability, coordination, and uncertainty** become **measurable structural features**. The open-system representation defines a **geometry of stability**: **barrier width/height** (policy & liquidity constraints), **uncertainty** (γ), and **coordination strength** (λ), yielding **falsifiable diagnostics** for policy and risk once calibrated and governed.  
+**Contributions:** (A) Explains long calm spells punctuated by abrupt breaks **without catastrophic fundamentals**. (B) Extends target-zone/smooth-pasting models by replacing reflective diffusion with **penetrable barriers** whose geometry governs regime shifts. (C) Suggests derivatives/risk approaches where payoffs depend on **barrier penetration and coordination**, not volatility alone. (D) Reframes crises from randomness to **geometry and coherence**, highlighting joint roles of **liquidity, policy, and collective behavior** in regime fragility and resilience.
+
+**Keywords:** currency crises, tunneling, potential landscape, metastability, coordination, target zones, derivatives risk, operator formalism
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-tunneling_financial_collapses-v01/TUNNELING_AND_CURRENCY_CRISIS.1.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Tunneling and Currency Crises — A Physics-Inspired Framework* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-tunneling_financial_collapses-v01
+
+BibTeX  
+@article{reynoso_tunneling_currency_crises_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Tunneling and Currency Crises — A Physics-Inspired Framework},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-tunneling_financial_collapses-v01}  
+}
 
 
 
