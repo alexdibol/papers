@@ -1110,6 +1110,34 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/paper-molecular_porosity_agentic_models-v01}  
 }
 
+## 39) Sovereign CDS and Quantum Tunneling — A Physics-Inspired Crisis Framework
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-tunneling_cds_sovereigns-v01
+
+### Abstract
+This paper develops a **physics-inspired framework** in which **abrupt currency and sovereign-risk crises** are modeled as **tunneling events** in a **financial potential landscape**. Heterogeneous-agent behavior is linked to macro-level instability through an **operator formalism** analogous to quantum mechanics. The open-system equation renders **metastability, coordination, and uncertainty** as **measurable structural features** rather than metaphors.  
+We provide a rigorous map from microfoundations to a geometry of stability defined by **barrier width/height** (policy and liquidity constraints), **uncertainty** (γ), and **coordination strength** (λ). These parameters yield **falsifiable diagnostics** relevant to **policy** and **risk** once calibration and governance frameworks are in place.  
+**Contributions:** (A) Explains calm spells punctuated by abrupt breaks **without catastrophic fundamentals**; (B) Extends target-zone/smooth-pasting models by replacing reflective diffusion boundaries with **penetrable barriers** whose geometry governs regime shifts; (C) Suggests **derivatives valuation and risk** methods—especially for **sovereign CDS**—where payoffs depend on **barrier penetration and coordination** rather than volatility alone; (D) Opens a conceptual frontier, reframing crises from randomness to **geometry and coherence**, highlighting how **liquidity, policy, and collective behavior** jointly determine regime fragility and resilience.
+
+**Keywords:** sovereign CDS, currency crises, tunneling, potential landscape, metastability, coordination, derivatives valuation, operator formalism
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-tunneling_cds_sovereigns-v01/SOVEREIGN_CDS_AND_QUANTUM_TUNNELING.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Sovereign CDS and Quantum Tunneling — A Physics-Inspired Crisis Framework* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-tunneling_cds_sovereigns-v01
+
+BibTeX  
+@article{reynoso_sovereign_cds_quantum_tunneling_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Sovereign CDS and Quantum Tunneling — A Physics-Inspired Crisis Framework},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-tunneling_cds_sovereigns-v01}  
+}
 
 ---
 
