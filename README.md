@@ -1139,6 +1139,36 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-tunneling_cds_sovereigns-v01}  
 }
 
+
+
+## 40) From Probability to Geometry — A Lecture on the Tunneling Model of Financial Instability
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-geometry_of_risk_speech-v01
+
+### Abstract
+This lecture introduces a **tunneling model** as a structural paradigm for financial instability, shifting the lens from **probability** to **geometry**. Rather than treating markets as random diffusions where crises are rare accidents, the system is viewed as a **landscape** with valleys of stability and ridges of danger. Crises become **phase transitions**—“tunneling” through a weakening barrier without a large external shock—whose likelihood depends on the **barrier’s geometry** (height, width, curvature) rather than noise alone.  
+An **effective potential** \(U_{\mathrm{eff}}\) formalizes the landscape as the sum of three components: **Policy Capacity** \((U_{\mathrm{policy}})\), **Market Liquidity** \((U_{\mathrm{liq}})\), and **Reflexive Coordination** \((U_{\mathrm{coord}})\). In this framework, **volatility is not the cause of instability**, but the **speed of exploration** over the terrain; stability is governed by **barrier height and width**. Policy must therefore be **architectural**: governments act as **landscape engineers**—e.g., **reserve accumulation raises barrier height**, while **liquidity facilities widen the barrier**—shifting attention from volatility management to **structural design for resilience**. The aim is to recast crises not as random jumps but as **predictable avalanches** emerging from the geometric fabric of global finance.
+
+**Keywords:** tunneling model, financial landscape, effective potential, policy capacity, market liquidity, reflexive coordination, phase transitions, crisis geometry
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-geometry_of_risk_speech-v01/FROM_PROBABILITY_TO_GEOMETRY_A_SPEECH.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *From Probability to Geometry — A Lecture on the Tunneling Model of Financial Instability* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-geometry_of_risk_speech-v01
+
+BibTeX  
+@article{reynoso_probability_to_geometry_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {From Probability to Geometry — A Lecture on the Tunneling Model of Financial Instability},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-geometry_of_risk_speech-v01}  
+}
+
 ---
 
 
