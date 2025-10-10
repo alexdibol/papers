@@ -1082,6 +1082,33 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-tunneling_financial_collapses-v01}  
 }
 
+## 38) Agentic Crisis Management via Adaptive Porosity
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/paper-molecular_porosity_agentic_models-v01
+
+### Abstract
+Modern multi-agent systems often fail under crisis not from ignorance but from **communication overload**, which dissolves coordination. This paper introduces **adaptive porosity**—a control-theoretic mechanism that **regulates information flow** among agents via **dynamic permeability coefficients** governed by a **PID controller**. Communication is treated as a **thermodynamic process**, maintaining system entropy **H(t)** near a target **H\*** to prevent cognitive flooding while preserving flexibility.  
+We evaluate the concept with a “**reality-show**” simulation, **Don’t Panic!**, where two identical organizations face the same pandemic scenario: **Team Rigid** (fixed communication) vs **Team Adaptive** (porosity-controlled). The split-screen format exposes causal mechanics: **panic −35%**, **coherence +71%**, and **entropy stabilized within 5%** of target. Beyond results, we show how **narrative evaluation** can render complex AI architectures **observable, interpretable, and emotionally intelligible** to stakeholders. By blending **thermodynamics, control theory, and storytelling**, adaptive porosity reframes organizational intelligence as a rhythmic balance between **openness and restraint**—a design principle for autonomous systems that, under uncertainty, **don’t panic— they breathe**.
+
+**Keywords:** adaptive porosity, multi-agent systems, PID control, entropy regulation, crisis management, organizational coherence, thermodynamic communication
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/paper-molecular_porosity_agentic_models-v01/REVISED_AGENTIC_CRISIS_MANAGEMENT_AGENTIC_POROSITY.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Agentic Crisis Management via Adaptive Porosity* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/paper-molecular_porosity_agentic_models-v01
+
+BibTeX  
+@article{reynoso_agentic_crisis_management_adaptive_porosity_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Agentic Crisis Management via Adaptive Porosity},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/paper-molecular_porosity_agentic_models-v01}  
+}
 
 
 ---
