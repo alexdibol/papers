@@ -1196,6 +1196,37 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers_geometry_and_diversification-v01}  
 }
 
+## 42) Memorandum — Quantum CAPM (Q-CAPM) for Practitioners
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/paper-memorandum_qcapm-v01
+
+### Abstract
+This memorandum introduces the **Quantum Capital Asset Pricing Model (Q-CAPM)** as a geometric, practitioner-friendly extension of classical CAPM. The market is modeled as a **dynamic network** where portfolios carry both **allocation weights** and an **informational phase**, capturing how positions interact coherently with the rest of the system. Risk, return, and diversification are rendered as features of a **financial landscape**:  
+- **Risk = Curvature (tension):** sharp curvature signals concentration and stress;  
+- **Return = Slope:** directional incentive embedded in the terrain;  
+- **Diversification = Smoothing:** structural smoothing flattens curvature and damps shock propagation.  
+Optimization is reframed as choosing the **smoothest descent path**—balancing curvature (risk) against slope (return)—a geometric analogue of the efficient frontier, with risk appetite steering the landscape toward opportunity or safety.  
+A **Quantum Random Walk (QRW)** provides dynamic discovery: from any starting allocation, information diffuses, unstable oscillations cancel, and the system converges to its **smoothest mode**—the equilibrium diversification pattern. Strategically, Q-CAPM clarifies **consensus as structural alignment** across decision-makers and offers a **native bridge to quantum computation**, where the same geometry enables richer, faster exploration of systemic modes on quantum processors.
+
+**Keywords:** Q-CAPM, geometric finance, curvature risk, QRW, diversification, portfolio optimization, quantum computing
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/paper-memorandum_qcapm-v01/MEMORANDUM_FOR_Q_CAPM_COMMITTEE.1.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Memorandum — Quantum CAPM (Q-CAPM) for Practitioners* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/paper-memorandum_qcapm-v01
+
+BibTeX  
+@article{reynoso_qcapm_memorandum_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Memorandum — Quantum CAPM (Q\textendash CAPM) for Practitioners},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/paper-memorandum_qcapm-v01}  
+}
 
 
 
