@@ -1256,6 +1256,32 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-evolutionary_reasoning_molecules-v01}  
 }
 
+## 44) What Happens When Corporate Finance Goes Quantum — A Five-Movement Lecture
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-corporate_finance_goes_quantum-v01
+
+### Abstract
+This lecture traces a five-movement journey from the **mechanical clarity** of the classical firm to the **fluid geometry** of quantum reasoning in corporate finance. It shows how **superposition, interference, and coherence** illuminate **liquidity management**, **decision systems**, and **governance**. Rather than treating uncertainty as an obstacle, the framework embraces it as the medium through which **intelligence, ethics, and creativity** emerge. The result is a shift from clockwork metaphors to a **resonant field** of probabilities, trust, and adaptation—where financial control is designed to **harmonize** exploration and constraint.
+
+**Keywords:** quantum reasoning, superposition, interference, coherence, liquidity management, governance, decision systems, corporate finance
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-corporate_finance_goes_quantum-v01/WHAT_HAPPENS_WHEN_CORPORATEN_FINANCE_GOES_QUANTUM.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *What Happens When Corporate Finance Goes Quantum — A Five-Movement Lecture* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-corporate_finance_goes_quantum-v01
+
+BibTeX  
+@article{reynoso_corporate_finance_goes_quantum_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {What Happens When Corporate Finance Goes Quantum — A Five-Movement Lecture},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-corporate_finance_goes_quantum-v01}  
+}
 
 
 ---
