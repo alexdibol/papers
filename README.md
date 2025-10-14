@@ -1,4 +1,4 @@
-# Selected Papers — AI & Quantitative Finance
+# Selected Papers — AI and Quantum Inspired Finance
 
 This page aggregates companion papers by **Alejandro Reynoso**. All works are **human-led**: AI assists with literature triage, drafting, editing, and code scaffolding, but **direction, validation, and accountability remain human**.
 
