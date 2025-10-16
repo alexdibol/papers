@@ -1340,6 +1340,35 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-emerging_intelligence_in_finance-v01}  
 }
 
+
+## 47) Mini-Book — How Nature Thinks About Nature
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/paper-physics_chemistry_biology_ai-v01
+
+### Abstract
+For most of history we looked **outward**—to stars, atoms, and the mathematics of life. This mini-book turns **inward**, tracing how the grand laws of **physics, chemistry, and biology** quietly shape modern **artificial intelligence**. Written for a broad audience—**no equations required**—it frames AI as the next chapter in nature’s experiment: **matter becoming mindful**.  
+We begin with **physics**, where every computation has an **energy cost** and every thought obeys constraints of **information and thermodynamics**. We move to **chemistry**, reading learning as a **reaction** that seeks **equilibria** under catalysts, pathways, and activation barriers. Finally **biology** provides the blueprint: **adaptation, variation, selection, memory, and homeostasis** as organizing principles for systems that **learn and survive**. The arc argues that intelligence is not an alien artifact but an **emergent property** of structured matter; the dark can indeed be full of light—if we learn how nature **thinks about nature**.
+
+**Keywords:** thermodynamics of computation, learning as reaction, adaptation, emergence, information, energy, biology-inspired AI, scientific foundations of AI
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/paper-physics_chemistry_biology_ai-v01/MINI.BOOK._.HOW.NATURE.THINKS.ABOUT.NATURE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Mini-Book — How Nature Thinks About Nature* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/paper-physics_chemistry_biology_ai-v01
+
+BibTeX  
+@article{reynoso_how_nature_thinks_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Mini\textendash Book — How Nature Thinks About Nature},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/paper-physics_chemistry_biology_ai-v01}  
+}
+
 ---
 
 
