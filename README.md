@@ -1397,7 +1397,7 @@ https://github.com/alexdibol/papers/releases/download/papers-geometry_algo_tradi
 Reynoso, A. (2025). *Market Regime Discovery Using Quantum RBS* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-geometry_algo_trading-v01
 
 **BibTeX**
-```bibtex
+
 @article{reynoso_market_regime_quantum_2025_v01,
     author = {Alejandro Reynoso},
     title = {Market Regime Discovery Using Quantum RBS},
