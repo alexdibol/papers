@@ -1438,6 +1438,40 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-markets_speak_geometry-v01}  
 }
 
+
+## 50) Mathematical Foundations of the QRBS Trading Model
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01
+
+### Abstract
+This paper develops a **mathematically rigorous** framework that models financial markets as **evolving informational manifolds**, bridging classical probabilistic finance with **quantum-geometric reasoning**. Using **information geometry**, **curvature tensors**, **entropy flows**, and **manifold dynamics**, the work encodes market information into a **Quantum Restricted Boltzmann System (QRBS)** that learns directly from data.  
+Each section contributes a complete pipeline from theory to implementation:  
+1) **Theoretical foundation** grounded in information geometry and statistical mechanics;  
+2) **Mathematical description** with equations, tensors, and operators that define the market-information manifold;  
+3) **Key theorems** proving geometric–statistical equivalence;  
+4) **QRBS mapping** that translates the constructs into a trainable computational system.  
+The result moves the “**Quantum Hedge Fund**” concept from **metaphor to mechanism**, providing conceptual clarity and formal precision for **geometric, data-driven trading architectures**.
+
+**Keywords:** information geometry, curvature, entropy flow, manifold dynamics, QRBS, quantum-inspired finance, geometric trading models
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-geometric_algo_trading-v01/MATHEMATICAL_FOUNDATIONS_OF_THE_QRBS_TRADING_MODEL.2.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Mathematical Foundations of the QRBS Trading Model* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01
+
+BibTeX  
+@article{reynoso_qrbs_trading_foundations_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Mathematical Foundations of the QRBS Trading Model},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01}  
+}
+
 ```
 
 
