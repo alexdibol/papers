@@ -1370,7 +1370,6 @@ BibTeX
 }
 
 
-
 ## 48) Market Regime Discovery Using Quantum RBS
 
 Author: Alejandro Reynoso  
