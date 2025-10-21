@@ -1407,7 +1407,7 @@ Reynoso, A. (2025). *Market Regime Discovery Using Quantum RBS* (Version v01). G
     url = {https://github.com/alexdibol/papers/releases/tag/papers-geometry_algo_trading-v01}
 }
 
-## 48) When Markets Speak Geometry — A Dialogue with a Quantum Trading Terminal
+## 49) When Markets Speak Geometry — A Dialogue with a Quantum Trading Terminal
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-markets_speak_geometry-v01
@@ -1435,13 +1435,93 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-markets_speak_geometry-v01}  
 }
 
+## 50) Mathematical Foundations of the QRBS Trading Model
 
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01
+
+### Abstract
+This paper develops a **mathematically rigorous** framework that models financial markets as **evolving informational manifolds**, bridging classical probabilistic finance with **quantum-geometric reasoning**. Using **information geometry**, **curvature tensors**, **entropy flows**, and **manifold dynamics**, the work encodes market information into a **Quantum Restricted Boltzmann System (QRBS)** that learns directly from data.  
+Each section contributes a complete pipeline from theory to implementation:  
+1) **Theoretical foundation** grounded in information geometry and statistical mechanics;  
+2) **Mathematical description** with equations, tensors, and operators that define the market-information manifold;  
+3) **Key theorems** proving geometric–statistical equivalence;  
+4) **QRBS mapping** that translates the constructs into a trainable computational system.  
+The result moves the “**Quantum Hedge Fund**” concept from **metaphor to mechanism**, providing conceptual clarity and formal precision for **geometric, data-driven trading architectures**.
+
+**Keywords:** information geometry, curvature, entropy flow, manifold dynamics, QRBS, quantum-inspired finance, geometric trading models
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-geometric_algo_trading-v01/MATHEMATICAL_FOUNDATIONS_OF_THE_QRBS_TRADING_MODEL.2.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Mathematical Foundations of the QRBS Trading Model* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01
+
+BibTeX  
+@article{reynoso_qrbs_trading_foundations_2025_v01,  
+  author  = {Alejandro Reynoso},  
+  title   = {Mathematical Foundations of the QRBS Trading Model},  
+  year    = {2025},  
+  version = {v01},  
+  publisher = {GitHub},  
+  url     = {https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01}  
+}
+
+---
+---
 
 ## License
-Text/PDFs: CC BY 4.0
+This repository’s written materials (README, abstracts, PDFs in releases) are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+You are free to share and adapt with attribution. See the full text in [`LICENSE`](./LICENSE).  
+SPDX-License-Identifier: **CC-BY-4.0**
 
-## Feedback & Errata
-Please open an Issue with the paper title, version, and page/section reference, plus a suggested fix or replication note.
+## Contributing
+Contributions (typos, clarifications, references, small fixes) are welcome.
+
+1. Fork the repo and create a branch: `git checkout -b fix/your-change`
+2. Commit with clear messages: `git commit -m "docs: fix typo in #18 abstract"`
+3. Push and open a Pull Request that:
+   - Describes the change and motivation
+   - Links to any related Issue(s)
+   - Follows the style of existing entries (title, version, release tag, download URL, APA + BibTeX)
+
+Please review [`CONTRIBUTING.md`](./CONTRIBUTING.md) and the [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) before submitting.
+
+## Feedback & Errata (Issues)
+Please open a **GitHub Issue** for mistakes, broken links, or replication notes.  
+Use the following format so we can act quickly:
+
+- **Paper title:** (e.g., “#20 Structural Reasoning for Institutional Asset Allocation”)  
+- **Version/tag:** (e.g., `v01`)  
+- **Location:** page/section/paragraph (or PDF coordinates)  
+- **Issue type:** typo / broken link / factual correction / replication note  
+- **Proposed fix or minimal repro:** short text or steps; attach a snippet/log if applicable
+
+If your note concerns reproducibility, include:
+- Environment (Colab / local), key library versions
+- Data source/date (if any), and the exact command/cell that failed
+
+## Security
+If you believe you’ve found a security issue in any sample code or automation scripts, please **do not** open a public Issue.  
+Email the maintainer or follow the private process in [`SECURITY.md`](./SECURITY.md).
+
+## Citation
+If you reference this repository as a whole, please cite it as:
+
+**APA**  
+Reynoso, A. (2025). *Selected Papers — AI and Quantum-Inspired Finance* (Version v01). GitHub. https://github.com/alexdibol/papers
+
+**BibTeX**
+```bibtex
+@misc{reynoso_selected_papers_2025,
+  author    = {Alejandro Reynoso},
+  title     = {Selected Papers — AI and Quantum-Inspired Finance},
+  year      = {2025},
+  howpublished = {\url{https://github.com/alexdibol/papers}},
+  note      = {Version v01}
+}
+
 
 
 
