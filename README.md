@@ -1409,36 +1409,9 @@ Reynoso, A. (2025). *Market Regime Discovery Using Quantum RBS* (Version v01). G
 
 
 
-## 49) When Markets Speak Geometry — A Dialogue with a Quantum Trading Terminal
+---
 
-Author: Alejandro Reynoso  
-Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-markets_speak_geometry-v01
-
-### Abstract
-This paper presents an edited **live dialogue** between **Marcus Lin** (Chief Strategist, Horizon Capital) and the firm’s **Quantum Trading Terminal (Q-Terminal)**—a reasoning engine that models markets using **geometric and topological** principles. The discussion centers on a potential **systemic shift in tech**, specifically an initially **bullish AAPL** position. While classical models (**LSTM, HMM**) signaled continuation, Q-Terminal flagged **emergent instability** via **information geometry** metrics—**Fisher–Rao curvature** \((\kappa)\) and **entropy**—arguing that high consensus and synchronized momentum had created a **manifold ridge**: a **metastable state** prone to **tunneling** into a lower-energy basin. Classical tools, tied to Euclidean independence and time-step transitions, appeared **blind to structural deformation**.  
-Acting on the geometric diagnosis, Marcus **overrode** the classical signals: cutting long exposure, adding a **short hedge**, and rotating into **cyclicals** to minimize expected **Hamiltonian energy** and move toward a **lower-curvature, phase-aware configuration**. Portfolio **entropy stabilized**, underscoring the closing line: **“Risk is not volatility; it is curvature.”** The transcript offers a real-world case study of **geometric/quantum-inspired risk management** in live decision-making.
-
-**Keywords:** information geometry, Fisher–Rao curvature, entropy, tunneling, Hamiltonian energy, AAPL, systemic shift, geometric risk
-
-### Download
-PDF: https://github.com/alexdibol/papers/releases/download/papers-markets_speak_geometry-v01/WHEN.MARKETS.SPEAK.GEOMETRY.pdf
-
-### How to Cite
-APA  
-Reynoso, A. (2025). *When Markets Speak Geometry — A Dialogue with a Quantum Trading Terminal* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-markets_speak_geometry-v01
-
-BibTeX  
-@article{reynoso_when_markets_speak_geometry_2025_v01,  
-  author  = {Alejandro Reynoso},  
-  title   = {When Markets Speak Geometry — A Dialogue with a Quantum Trading Terminal},  
-  year    = {2025},  
-  version = {v01},  
-  publisher = {GitHub},  
-  url     = {https://github.com/alexdibol/papers/releases/tag/papers-markets_speak_geometry-v01}  
-}
-
-
-## 50) Mathematical Foundations of the QRBS Trading Model
+## 49) Mathematical Foundations of the QRBS Trading Model
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01
@@ -1452,8 +1425,6 @@ Each section contributes a complete pipeline from theory to implementation:
 4) **QRBS mapping** that translates the constructs into a trainable computational system.  
 The result moves the “**Quantum Hedge Fund**” concept from **metaphor to mechanism**, providing conceptual clarity and formal precision for **geometric, data-driven trading architectures**.
 
-**Keywords:** information geometry, curvature, entropy flow, manifold dynamics, QRBS, quantum-inspired finance, geometric trading models
-
 ### Download
 PDF: https://github.com/alexdibol/papers/releases/download/papers-geometric_algo_trading-v01/MATHEMATICAL_FOUNDATIONS_OF_THE_QRBS_TRADING_MODEL.2.pdf
 
@@ -1462,16 +1433,47 @@ APA
 Reynoso, A. (2025). *Mathematical Foundations of the QRBS Trading Model* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01
 
 BibTeX  
-@article{reynoso_qrbs_trading_foundations_2025_v01,  
-  author  = {Alejandro Reynoso},  
-  title   = {Mathematical Foundations of the QRBS Trading Model},  
-  year    = {2025},  
-  version = {v01},  
-  publisher = {GitHub},  
-  url     = {https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01}  
+@article{reynoso_qrbs_trading_foundations_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Mathematical Foundations of the QRBS Trading Model},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01}
 }
 
-```
+---
+
+## 50) (Placeholder) Add Next Paper Here
+<!--
+If you intended a real #50, replace this section with the correct details.
+If you do NOT have a 50th paper yet, delete this entire block to avoid a broken reference.
+Template:
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/<RELEASE-TAG>
+
+### Abstract
+<One-paragraph abstract.>
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/<RELEASE-TAG>/<ASSET_FILENAME>.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *<Paper Title>* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/<RELEASE-TAG>
+
+BibTeX  
+@article{reynoso_<short_key>_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {<Paper Title>},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/<RELEASE-TAG>}
+}
+
+---
 
 
 
