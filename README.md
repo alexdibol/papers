@@ -1369,7 +1369,45 @@ BibTeX
   url     = {https://github.com/alexdibol/papers/releases/tag/paper-physics_chemistry_biology_ai-v01}  
 }
 
----
+
+
+## 48) Market Regime Discovery Using Quantum RBS
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-geometry_algo_trading-v01
+
+### Abstract
+
+For centuries, finance has navigated its world using flat maps—charts, probabilities, and time series designed to project complex behavior onto two-dimensional surfaces. But markets, like landscapes, are not flat. They curve, fold, and twist under the invisible forces of sentiment, liquidity, and belief.
+
+This paper introduces a **quantum-inspired framework** where market information is represented as a **living geometry**. Through the lens of a "Quantum Dashboard," we translate **volatility, correlation, and uncertainty** into **curvature, entropy, and topological flow**. The trader ceases to be a statistician predicting future prices and becomes instead a **navigator reading the terrain of information**. Risk is no longer measured by variance, but by the **slope of the manifold on which capital moves**.
+
+Using **Apple (AAPL)** as a narrative and experimental case, we explore how geometry reveals what probability conceals: the buildup of tension before market transitions, the coiling of belief into narrow ridges of consensus, and the sudden release of energy that produces volatility. The dialogue between **human intuition** (embodied in the trader, Picard) and **geometric reasoning** (embodied in the algorithmic agent, Spock) illustrates a new synthesis between cognition and computation—between instinct and curvature.
+
+This work is not about quantum computing, but about **quantum thinking**—about reasoning in curved spaces where many futures coexist until observation collapses them into experience. It proposes a new metaphor for finance: the trader as pilot, markets as atmospheric terrains, and the dashboard as orographic radar for navigating information turbulence. In a world where classical models assume linearity, this approach **restores dimensionality**, inviting practitioners to move beyond prediction toward perception.
+
+**Keywords:** quantum geometry, market regimes, information manifolds, curvature, entropy, topological flow, algorithmic trading, quantum dashboard, geometric finance
+
+### Download PDF:
+https://github.com/alexdibol/papers/releases/download/papers-geometry_algo_trading-v01/MARKET_REGIME_DISCOVERY_USING_QUANTUM_RBS.pdf
+
+### How to Cite
+
+**APA**
+
+Reynoso, A. (2025). *Market Regime Discovery Using Quantum RBS* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-geometry_algo_trading-v01
+
+**BibTeX**
+```bibtex
+@article{reynoso_market_regime_quantum_2025_v01,
+    author = {Alejandro Reynoso},
+    title = {Market Regime Discovery Using Quantum RBS},
+    year = {2025},
+    version = {v01},
+    publisher = {GitHub},
+    url = {https://github.com/alexdibol/papers/releases/tag/papers-geometry_algo_trading-v01}
+}
+```
 
 
 
