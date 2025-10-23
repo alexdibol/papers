@@ -29,6 +29,7 @@ BibTeX
   url = {https://github.com/alexdibol/papers/releases/tag/paper-practical_guide_reasoning_institutions-v01}  
 }
 
+
 ---
 
 ## 2) Advanced Sequential Reasoning
@@ -1466,6 +1467,40 @@ BibTeX
   version = {v01},  
   publisher = {GitHub},  
   url     = {https://github.com/alexdibol/papers/releases/tag/papers-geometric_algo_trading-v01}  
+}
+
+
+
+## 51) Diffusion Models for Corporate Benchmarking
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-diffusion_vs_transformers-v01
+
+### Abstract
+This paper presents a **theory-first decision framework** for generating **synthetic company financials** from profile prompts (industry, size, growth, leverage, geography). Instead of funding a bake-off between **autoregressive transformers** and **diffusion models**, we argue—on mathematical and governance grounds—for **projected conditional diffusion**. The case rests on four structural fit criteria:  
+1) **Hard constraints:** accounting identities must hold exactly. A **projected diffusion sampler** composes each denoising step with an explicit projector onto the **accounting manifold**, achieving equality at machine precision; autoregressive pipelines require brittle deterministic heads or post-hoc repairs.  
+2) **Permutation agnosticism:** financial statement dimensions have no canonical order. Diffusion updates **all coordinates in parallel**, avoiding order-dependent factorisations.  
+3) **Continuous precision:** diffusion operates natively in \(\mathbb{R}^d\), preserving numerical fidelity; tokenization introduces resolution limits ill-suited to financial magnitudes.  
+4) **Distributional fidelity:** under standard assumptions, diffusion preserves **heavy tails** and **copula structure** while enforcing constraints with minimal distortion.  
+We specify **cFDM—Conditional Financial Diffusion**: an **MLP-Mixer/FiLM** denoiser with classifier-free guidance over profiles and a **typed constraint library** (linear KKT, hierarchical cascades, bounds). The result is an **auditable, few-step sampler** that guarantees feasibility, aligns with **model-risk governance**, and avoids the cost and delay of a two-model bake-off.
+
+**Keywords:** projected diffusion, accounting manifold, financial statement synthesis, classifier-free guidance, copula structure, model risk governance
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-diffusion_vs_transformers-v01/DIFFUSION_MODELS_FOR_CORPORATE_BENCHMARKING.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Diffusion Models for Corporate Benchmarking* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-diffusion_vs_transformers-v01
+
+BibTeX  
+@article{reynoso_diffusion_models_corporate_benchmarking_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Diffusion Models for Corporate Benchmarking},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-diffusion_vs_transformers-v01}  
 }
 
 ---
