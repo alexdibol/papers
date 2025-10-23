@@ -1487,7 +1487,7 @@ We specify **cFDM—Conditional Financial Diffusion**: an **MLP-Mixer/FiLM** den
 **Keywords:** projected diffusion, accounting manifold, financial statement synthesis, classifier-free guidance, copula structure, model risk governance
 
 ### Download
-PDF: https://github.com/alexdibol/papers/releases/download/papers-diffusion_vs_transformers-v01/DIFFUSION_MODELS_FOR_CORPORATE_BENCHMARKING.pdf
+PDF: https://github.com/alexdibol/papers/releases/download/papers-diffusion_vs_transformers-v01/DIFFUSION_MODELS_FOR_CORPORATE_BENCHMARKING.2.pdf
 
 ### How to Cite
 APA  
@@ -1502,6 +1502,7 @@ BibTeX
   publisher = {GitHub},  
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-diffusion_vs_transformers-v01}  
 }
+
 
 ---
 ---
