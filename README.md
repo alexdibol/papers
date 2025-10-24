@@ -1504,7 +1504,33 @@ BibTeX
 }
 
 
----
+## 52) When the World Bends — Go Quantum (A Public-Lecture Guide)
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-lecture_go_quantum-v01
+
+### Abstract
+This article presents a **clear, public-lecture narrative** for a **hybrid clustering pipeline** in fund design: **compress first** with a learned, noise-aware map; then apply a **quantum-inspired similarity** **only when the data’s shape bends** (loops, cycles, non-Euclidean structure). Using **city-and-music metaphors**—rather than heavy math—we explain why ordinary distance tools fail on curved structure, how careful **compression preserves the story** while removing clutter, and when a **“quantum lens”** (overlap-based similarity rather than raw distance) **earns its keep**. The guide shows how to decide **before** spending compute, how to **read curvature signals**, and how to turn shape into **cleaner sleeves, truer diversification, and disciplined deployment**. The rule of thumb: **if the world is curved, compress first and go quantum; if it’s flat, keep it simple.**
+
+**Keywords:** clustering, dimensionality reduction, quantum-inspired similarity, topology/loops, diversification sleeves, practical heuristics
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-lecture_go_quantum-v01/WHEN_THE_WORLD_BENDS__GO_QUANTUM.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *When the World Bends — Go Quantum (A Public-Lecture Guide)* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-lecture_go_quantum-v01
+
+BibTeX  
+@article{reynoso_world_bends_go_quantum_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {When the World Bends — Go Quantum (A Public\textendash Lecture Guide)},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-lecture_go_quantum-v01}  
+}
+
 ---
 
 ## License
