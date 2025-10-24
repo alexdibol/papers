@@ -1531,6 +1531,35 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-lecture_go_quantum-v01}  
 }
 
+
+## 52) Hybrid VAE + Quantum-Inspired Company Clustering
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-quantum_decompression_vae_latents-v01
+
+### Abstract
+We develop and evaluate a **two-stage clustering pipeline** for fund design and portfolio diversification: (1) compress **50→10D** with a **Variational Autoencoder (VAE)**; (2) **lift** the latents into **8×8 density matrices** and cluster using **quantum information geometry** (fidelity/Bures). On **Gaussian-mixture benchmarks**, the quantum variants **underperform** (raw 50D k-means **ARI ≈ 0.43** vs. VAE→Quantum **ARI ≈ 0.05**), diagnosing that the data are **flat/transitive** and do **not** require curved analysis.  
+We then propose a **curvature theory** with necessary and sufficient conditions for: **(A)** data geometry (non-transitive similarity, geodesic–chord gap); **(B)** VAE encoders (local quasi-isometry, no latent collapse) to preserve curvature; and **(C)** Hilbert lifts (non-commutativity, fidelity separation) to detect curvature. Under these conditions we **prove** **(D)** spectral-gap and clustering **improvements** for **fidelity/Bures** over Euclidean methods. A **ring/cycle** benchmark with noise demonstrates non-trivial curvature, and we provide a **Colab protocol** plus a **governance-friendly decision rule**. **Message:** *curvature is the signal.* If curvature markers **persist after compression**, **Hilbert geometry** is justified and can **improve diversification clustering**; if not, **classical methods should—and do—win**.
+
+**Keywords:** VAE, density matrices, fidelity, Bures metric, curvature diagnostics, quasi-isometry, spectral gap, diversification clustering
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-quantum_decompression_vae_latents-v01/HYBRYD_VAE_AND_QUANTUM_INSPIRED_COMPANY_CLUSTERING.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Hybrid VAE + Quantum-Inspired Company Clustering* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-quantum_decompression_vae_latents-v01
+
+BibTeX  
+@article{reynoso_hybrid_vae_quantum_clustering_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Hybrid VAE + Quantum\textendash Inspired Company Clustering},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-quantum_decompression_vae_latents-v01}  
+}
+
 ---
 
 ## License
