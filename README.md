@@ -1589,6 +1589,33 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-interview_are_markets_relativistic-v01}  
 }
 
+## 55) Is High-Frequency Trading Relativistic? — A Unified Geometric Theory of Price Formation
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-unified_geometry_pruce_dynamics-v01
+
+### Abstract
+We present a **relativity-inspired, market-native geometric theory of price formation (GTPF)** that unifies **low-, medium-, and high-frequency** regimes within a single **data-derived state manifold**. Geometry is inferred from standard microstructure observables (**spread, depth, imbalance, resiliency, queue state, cross-venue latencies/fees**). A **metric** encodes local cost/variance; a **connection** captures path-dependence; **curvature** measures loop residuals; **torsion** records order-of-operations asymmetry; and a **gauge one-form** accounts for fees, rebates, and inventory carry. A single **action functional** yields dynamics with frequency-specific limits: **flat (LF)**, **causal with cones (MF)**, and **curved/torsional (HFT)**. Imposing finance constraints (**no-arbitrage, no price manipulation, long-horizon efficiency**) selects an admissible subclass of geometries. We provide practical estimators, a **volatility decomposition** where short-horizon variance is geometric, and **geodesic routing** with cone/curvature controls. The framework reconciles global efficiency with **exploitable short-run microstructure features** and yields an **implied-geometry catalog** that classifies market states directly from data.
+
+**Keywords:** market microstructure, information geometry, latency cones, curvature, torsion, gauge forms, geodesic execution, no-manipulation
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-unified_geometry_pruce_dynamics-v01/IS_HIGH_FREQUENCY_TRADING_RELATIVISTIC.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Is High-Frequency Trading Relativistic? — A Unified Geometric Theory of Price Formation* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-unified_geometry_pruce_dynamics-v01
+
+BibTeX  
+@article{reynoso_hft_relativistic_gtpf_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Is High\textendash Frequency Trading Relativistic? — A Unified Geometric Theory of Price Formation},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-unified_geometry_pruce_dynamics-v01}  
+}
+
 ---
 
 ## License
