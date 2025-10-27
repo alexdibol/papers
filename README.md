@@ -1600,7 +1600,7 @@ We present a **relativity-inspired, market-native geometric theory of price form
 **Keywords:** market microstructure, information geometry, latency cones, curvature, torsion, gauge forms, geodesic execution, no-manipulation
 
 ### Download
-PDF: https://github.com/alexdibol/papers/releases/download/papers-unified_geometry_pruce_dynamics-v01/IS_HIGH_FREQUENCY_TRADING_RELATIVISTIC.pdf
+PDF: https://github.com/alexdibol/papers/releases/download/papers-unified_geometry_pruce_dynamics-v01/IS_HIGH_FREQUENCY_TRADING_RELATIVISTIC_NEW.pdf
 
 ### How to Cite
 APA  
