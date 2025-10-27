@@ -1560,6 +1560,35 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-quantum_decompression_vae_latents-v01}  
 }
 
+
+## 54) Many Ways of Trading — One Single Framework
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-interview_are_markets_relativistic-v01
+
+### Abstract
+This paper presents a practical **geometry of price dynamics** that reconciles two views of markets: **efficient in the large** (days–quarters) and **imperfect in the small** (seconds–microseconds). We model short-horizon trading as navigation over a **market landscape** estimated from observable microstructure data—spreads, depths, imbalance, resiliency, queue metrics, per-link latencies, and fees. Core geometric objects encode operational realities: a **metric** (cost to move in given directions), **cones** (what’s reachable given latencies and opportunity half-life), a **connection** (directional memory of how the best price was reached), and **curvature/torsion** (systematic residuals from tiny round-trips or order of micro-steps).  
+The framework explains when a visible “arb” is a **mirage** (outside your cone), why **thin patches** spike costs, and how **self-gravity** (your own participation) mandates pacing. We provide two aligned tracks: (i) a **plain-language Q&A** clarifying concepts and misconceptions, and (ii) an **implementation guide** covering state definition, metric block estimation, cone measurement, curvature detection, fee integration, and **geodesic routing on a discrete lattice**—all under standard guardrails (law-of-one-price, no free lunch, no manipulation). The system is **auditable by construction**: every route choice is replayable; cone breaches and loop artifacts trigger quarantine and safe fallbacks. The result is a unified, data-driven blueprint for **cheaper, safer execution** that shows how markets can be nearly efficient globally yet locally exploitable in **capacity-limited, self-extinguishing** ways.
+
+**Keywords:** market microstructure, execution routing, information geometry, latency cones, curvature, torsion, geodesics, auditability
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-interview_are_markets_relativistic-v01/MANY_WAYS_OF_TRADING_ONE_SINGLE_FRAMEWORK.1.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Many Ways of Trading — One Single Framework* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-interview_are_markets_relativistic-v01
+
+BibTeX  
+@article{reynoso_many_ways_trading_one_framework_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Many Ways of Trading — One Single Framework},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-interview_are_markets_relativistic-v01}  
+}
+
 ---
 
 ## License
