@@ -1616,6 +1616,37 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-unified_geometry_pruce_dynamics-v01}  
 }
 
+## 56) Ten Training Experiments for AI in Finance — A Minimalist, Governance-Native Playbook
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-ten_experiments_training_ai_finance-v01
+
+### Abstract
+This volume presents **ten tightly engineered experiments** that turn **minimalist training principles** into executable practice for **financial AI**. Each notebook implements core learning mechanisms from first principles—**gradients, memory, contrastive geometry, ensembles, optimization**—while embedding **governance** inside the loop (**calibration, audit logs, differential privacy, circuit breakers**). Contributions: **(i)** a finance-first framing that links objectives to **decision-relevant risk measures**; **(ii)** a **governance-native toolkit** for auditable, reproducible workflows; **(iii)** compact, dependency-light implementations designed for constrained compute and regulated environments.  
+Coverage spans supervised, contrastive, and reinforcement-style settings: **risk-controlled portfolio selection**, **monotone credit default modeling**, **contrastive fraud detection with traceable saliency**, **regime-aware signal learning**, **hierarchical earnings forecasting**, **multi-agent decision support**, **federated training with privacy budgets**, and **robustness diagnostics** to expose overfitting/leakage. Evaluation emphasizes **calibration**, **stability under shift**, and **cost-sensitive metrics** aligned to institutional risk appetites.  
+Across studies, **uncertainty, shift, and risk are first-class**: contrastive objectives localize failure modes; **regime memory** stabilizes signals; **risk-constrained descent** surfaces return–drawdown–liquidity trade-offs. Artifacts include **deterministic seeding**, **leak unit tests**, **loss-surface telemetry**, and **red-team prompts**, yielding transparent, auditable workflows. Target audience: practitioners who must **ship dependable systems** under tight compute, limited data, and regulatory oversight. The result is a **practical playbook** from principled objectives to **decision-grade outputs** that withstand real-world constraints while advancing institutional capability.
+
+**Keywords:** minimalist training, governance-native ML, calibration, differential privacy, regime memory, contrastive objectives, robustness, financial AI
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-ten_experiments_training_ai_finance-v01/TEN_TRAINING_EXPERIMENTS_AI_FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Ten Training Experiments for AI in Finance — A Minimalist, Governance-Native Playbook* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-ten_experiments_training_ai_finance-v01
+
+BibTeX  
+@article{reynoso_ten_training_experiments_finance_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Ten Training Experiments for AI in Finance — A Minimalist, Governance\textendash Native Playbook},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-ten_experiments_training_ai_finance-v01}  
+}
+
+
+
 ---
 
 ## License
