@@ -1645,6 +1645,34 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-ten_experiments_training_ai_finance-v01}  
 }
 
+## 57) A Step-by-Step Construction of a GRPO-Trained Reasoning Model
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-step_by_step_grpo_reasoninf-v01
+
+### Abstract
+This work presents a **minimalist, governance-native reasoning model** for Harvard-style business cases, engineered for **auditability, portability, and operational clarity**. The system follows a **four-step pipeline—READ → PLAN → SOLVE → JUSTIFY** and is trained with **generalized Reinforcement Preference Optimization (gRPO)** against a five-axis rubric: **problem framing, analysis depth, finance soundness, feasibility, and risk/governance**. All artifacts—datasets, rubrics, checkpoints, traces, metrics, and reports—are produced in a **dependency-light stack** with **checksums** for reproducibility.  
+We build **synthetic, balanced case corpora** and preference pairs, then train a compact **ReasoningCore** with a **frozen reference policy** under **KL control**. Evaluation includes **weighted rubric scores**, **win-rate matrices / optional Elo** vs. rule-based and retrieval baselines, **ablations**, **calibration analysis**, and **domain-shift stress tests**. Governance controls comprise a **model card**, **preference data card**, constraint/forbidden-output **guards**, **uncertainty-based escalation**, **decision logs**, and **incident playbooks**. An **integration router** sends cases to the small model first and **escalates to a larger model** under quantified uncertainty or risk—delivering predictable **cost/quality** profiles for institutional workflows.  
+The project ships with a **master index**, **cross-references**, **artifact inventory**, **reproducibility report**, **final checklist**, and a **release bundle** for hand-off. Though educational in scale, the blueprint emphasizes **tractable oversight** via clear rubrics, instrumented traces, and verifiable outputs, and outlines a pragmatic path to production hardening with **human-in-the-loop review**, expanded datasets, and stronger retrieval—while preserving **minimalism, transparency, and governance-first engineering**.
+
+**Keywords:** gRPO, rubric-aligned training, institutional governance, calibration, uncertainty escalation, auditability, Harvard-style cases, minimal compute
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-step_by_step_grpo_reasoninf-v01/A_STEP_BY_STEP_CONSTRUCTION_OF_A_GRPO_TRAINED_REASONING_MODEL.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *A Step-by-Step Construction of a gRPO-Trained Reasoning Model* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-step_by_step_grpo_reasoninf-v01
+
+BibTeX  
+@article{reynoso_grpo_step_by_step_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {A Step{-}by{-}Step Construction of a gRPO{-}Trained Reasoning Model},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-step_by_step_grpo_reasoninf-v01}  
+}
 
 
 ---
