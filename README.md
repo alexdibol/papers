@@ -1674,6 +1674,37 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-step_by_step_grpo_reasoninf-v01}  
 }
 
+## 58) Architect Your AI Edge — A Leader’s Framework for Capability, Impact, and Orchestration
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/paper-architect_ai_finance-v01
+
+### Abstract
+What does AI really mean for a business? Not another model logo, but a **management choice** about how you work, where you win, and how you keep control at scale. This paper offers a leader-friendly framework on three pillars.  
+**(1) Capability × Impact.** We define **five capability levels** (from conversational assistants to autonomous organizations) crossed with **five impact tiers** (from productivity gains to org design). The **2×5** view lets executives right-size ambition per domain and avoid tool sprawl.  
+**(2) Operate: reason → act.** Adopt a simple rhythm: **reason first, then act**. Turn goals into short, defensible plans; let agentic systems execute **inside guardrails**; learn from clean telemetry; promote only what works. The quiet hero is **orchestration** (identities, connectors, checkpoints, traces): tools can be swapped; **orchestration becomes your house style and moat**.  
+**(3) Three-stage roadmap.** Start now with: **Strategic Audit** (clarify targets/boundaries; stop assistant-only spending), **Pilot & Orchestration Baseline** (minimal permissions, connectors, checkpoints, telemetry; prove value in low-risk, high-volume work), and **Institutionalize & Price** (embed gates, version playbooks, train-by-doing, shift to outcome-based pricing).  
+For finance and boards, we compress success to a small scorecard: **velocity** (cycle time, version attainment), **value** (cost/time per outcome at quality), and **exposure** (defects, policy/privacy events, audit conformance). Result: faster cycles, cheaper variants, calmer audits, and a culture where **discipline is speed**. In short—choose your level, aim for the impact that matters, and use the three stages to turn AI from **hype into habit**.
+
+**Keywords:** orchestration, capability levels, impact tiers, outcome-based pricing, governance, telemetry, agentic systems, enterprise AI
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/paper-architect_ai_finance-v01/ARCHITECT.YOUR.AI.EDGE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Architect Your AI Edge — A Leader’s Framework for Capability, Impact, and Orchestration* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/paper-architect_ai_finance-v01
+
+BibTeX  
+@article{reynoso_architect_ai_edge_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Architect Your AI Edge — A Leader’s Framework for Capability, Impact, and Orchestration},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/paper-architect_ai_finance-v01}  
+}
+
 
 ---
 
