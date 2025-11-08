@@ -1706,6 +1706,36 @@ BibTeX
 }
 
 
+## 59) The Memory-Centric Portfolio — A Nested-Learning Architecture for Algorithmic Trading
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-nested_learning_algo_trading-v01
+
+### Abstract
+This paper proposes a **unified, memory-centric architecture** for algorithmic trading that integrates three complementary styles—**HFT (fast)**, **Technical (medium)**, and **Fundamental (slow)**—under a single constitution of **governed adaptation**. The portfolio is cast as a **society of specialized agents**, each stewarding a **time-typed memory**: fast execution playbooks, regime-sensitive tactical rules, and slow thesis doctrine. A lightweight **governance layer**—a **Reviewer** (daily attribution, micro-nudges, shadow trials) and a **Committee** (adaptive router, breathing risk caps, circuit breakers)—coordinates these memories with explicit decision rights and receipts.  
+Core claim: **memory, not only modeling, makes adaptation explainable, auditable, and safe**. Following **nested-learning** principles, change advances via a simple grammar—**shadow → promotion → rollback**—with clocks calibrated by style (weekly for HFT, monthly for Technical, quarterly for Fundamental). Daily operations remain reversible and bounded; substantive edits occur on cadence with pre-declared evidence and auto-reversion hooks. The result is a portfolio that adapts to non-stationary markets **without fossilizing short-term noise** into long-term doctrine and **without diluting long-horizon conviction** through tactical churn.  
+Contributions: **(i)** a principled mapping from nested learning to **agent charters and cadences**; **(ii)** a minimalist implementation that emits **auditable artifacts** (equity curve, agent attribution, router trace, cap timeline, change register); and **(iii)** an evaluation protocol measuring not only return/drawdown but also **quality of change** (shadow hit-rate, rollback frequency, time-to-detect degradation). In short, **The Memory-Centric Portfolio** compounds **memory, attention, and governance** so the system does not merely react—it **learns with receipts**.
+
+**Keywords:** nested learning, time-typed memory, adaptive routing, governance, circuit breakers, attribution, rollback, agentic portfolio
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-nested_learning_algo_trading-v01/NESTED_LEARNING_ALGORITHMIC_TRADING_MODEL.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *The Memory-Centric Portfolio — A Nested-Learning Architecture for Algorithmic Trading* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-nested_learning_algo_trading-v01
+
+BibTeX  
+@article{reynoso_memory_centric_portfolio_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {The Memory{-}Centric Portfolio — A Nested{-}Learning Architecture for Algorithmic Trading},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-nested_learning_algo_trading-v01}  
+}
+
+
 ---
 
 ## License
