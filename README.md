@@ -1736,6 +1736,36 @@ BibTeX
 }
 
 
+## 60) Continuous Learning for Algorithmic Trading — A Nested Multi-Cadence Architecture
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-nested_algos_for_trading-v01
+
+### Abstract
+Markets run on **multiple clocks**—microseconds (microstructure), hours (intraday), weeks (macro). **Single-timescale** learners either **thrash on noise** or **lag regime shifts**. This paper proposes a **nested learning architecture** that separates **rapid working memory** from **slower, budgeted consolidation**. **Fast weights** \(w\) update every step (Adam-style EMAs), acting as short-half-life filters that capture transient edges while compressing gradient history. **Slow weights** \(\theta\) update only at cadence boundaries when an **endogenous salience gate** opens; the gate blends **loss improvement**, **gradient magnitude**, and **volatility proxies**, with **smoothing**, **hysteresis**, and an explicit **write budget** to prevent over-learning.  
+We formalize a **streaming objective** (returns, costs, risk penalties); specify an **online protocol** — _infer → log → fast update → salience → gated slow update_; and instrument **governance artifacts** (gate states, effective memory lengths, slow-write receipts, checkpoints) for auditability and safe rollback.  
+Empirically, we compare three deployments: **(1) DNN-Static** (pretrained, frozen), **(2) DNN-Online** (single timescale, updated every step), and **(3) Nested** (multi-cadence). On **regime-flipping synthetic markets with execution frictions**, **Nested** reduces drawdowns and turnover vs. DNN-Online while adapting materially faster than DNN-Static, yielding higher **cost-aware IR** with fewer structural rewrites. Event-aligned analyses show **fast layers** managing impact around shocks, while **slow layers** re-encode context only when evidence persists. **Blueprint:** react quickly where it’s cheap to be wrong, remember slowly where mistakes are costly, and **govern both** with measurable, reversible control.
+
+**Keywords:** continuous learning, nested learning, salience gating, working/long-term memory, online trading, auditability, write budgets, execution frictions
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-nested_algos_for_trading-v01/CONTINUOUS.LEARNING.ALGO.TRADING.MODEL.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Continuous Learning for Algorithmic Trading — A Nested Multi-Cadence Architecture* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-nested_algos_for_trading-v01
+
+BibTeX  
+@article{reynoso_continuous_learning_nested_trading_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Continuous Learning for Algorithmic Trading — A Nested Multi{-}Cadence Architecture},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-nested_algos_for_trading-v01}  
+}
+
+
 ---
 
 ## License
