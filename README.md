@@ -1765,6 +1765,35 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-nested_algos_for_trading-v01}  
 }
 
+## 61) Boltzmann-Inspired Finance Machines
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-boltzmann_inspired_finance-v01
+
+### Abstract
+This paper advances **Boltzmann-Inspired Finance Machines (BFMs)**: a compact family of **energy-based generative models** that learn joint distributions over financial variables by assigning **low energy (high probability)** to plausible configurations. We develop the statistical-mechanics foundation (energy functions, **Boltzmann weights**, partition function) and position the **Restricted Boltzmann Machine (RBM)** as the pedagogical core, trained via **Contrastive Divergence** and short-run Markov approximations. We relate BFMs to modern descendants—**score-based/denoising diffusion** and other energy-based formulations—that retain thermodynamic intuition while improving scalability and sample quality.  
+A **Gaussian–Bernoulli** example shows how latent units capture recurring patterns and support **synthesis**, **imputation with missing data**, and **anomaly detection**. We then map BFMs to finance: (i) **regime-aware nowcasting** under asynchronous macro releases; (ii) **probabilistic reconstruction** of partially observed order books and discrimination between informed flow vs. manipulation; (iii) **stress testing** via controlled traversals of the energy landscape; and (iv) **factor discovery** beyond linear-Gaussian dependence. We close with practitioner guidance on preprocessing, model sizing, calibration, and governance (weight inspection, conditional responses, rolling retraining, and validation protocols).  
+**Thesis:** BFMs offer a physics-informed baseline for **generative inference in finance**—useful for data completion, synthetic generation, and risk-aware decision support—while building transferable intuition for contemporary energy-based modeling.
+
+**Keywords:** energy-based models, Boltzmann machines, RBM, contrastive divergence, score-based models, order-book inference, stress testing, factor discovery
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-boltzmann_inspired_finance-v01/BOLTZMANN_INSPIRED_FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Boltzmann-Inspired Finance Machines* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-boltzmann_inspired_finance-v01
+
+BibTeX  
+@article{reynoso_boltzmann_inspired_finance_machines_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Boltzmann{-}Inspired Finance Machines},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-boltzmann_inspired_finance-v01}  
+}
+
 
 ---
 
