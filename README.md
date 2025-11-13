@@ -1794,6 +1794,37 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-boltzmann_inspired_finance-v01}  
 }
 
+## 62) Hilbert–Black–Scholes for Practitioners — A Spectral Playbook
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers_hilbert_black_scholes_practitioners-v01
+
+### Abstract
+This paper offers a **desk-friendly framework** for recognizing when a derivatives model admits **Black–Scholes–style analytical structure** and how to exploit it—without claiming new functional analysis. In a risk-neutral setting, option pricing is treated as a **linear pricing semigroup** acting on a **Hilbert space of payoffs**. We define **Hilbert–Black–Scholes (HBS)** models as those whose discounted pricing **generator is diagonalizable** on a natural payoff subspace, yielding **spectral representations** (Fourier, exponential–affine, polynomial, Sturm–Liouville, Schrödinger).  
+Contributions are **operational**:  
+1) an **eligibility algorithm** that tests an SDE/generator for membership in known HBS families and selects the right **spectral geometry**;  
+2) a **round-trip recipe** from SDE → generator → Hilbert space/transform → prices, Greeks, and P&L explain;  
+3) **case studies** (bounded mean-reversion, Jacobi/CIR diffusions, Lévy/Heston, polynomial factor models) showing how familiar formulas fit a single spectral picture.  
+Outcome: **faster recognition** of closed-form structure, **systematic use** of spectral methods when applicable, and **clearer justification** for numerics when not.
+
+**Keywords:** spectral pricing, semigroups, diagonalization, Fourier/affine/polynomial methods, Sturm–Liouville, Schrödinger, Greeks, P&L explain
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers_hilbert_black_scholes_practitioners-v01/HILBERT_BLACK_AND_SCHOLES_FOR_PRACTITIONERS.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Hilbert–Black–Scholes for Practitioners — A Spectral Playbook* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers_hilbert_black_scholes_practitioners-v01
+
+BibTeX  
+@article{reynoso_hilbert_black_scholes_practitioners_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Hilbert{\textendash}Black{\textendash}Scholes for Practitioners {\textemdash} A Spectral Playbook},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers_hilbert_black_scholes_practitioners-v01}  
+}
 
 ---
 
