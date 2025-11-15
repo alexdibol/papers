@@ -1841,7 +1841,7 @@ where (under mild conditions) representations translate back and forth (up to co
 **Keywords:** Boltzmann map, entropy/temperature, energy-based views, Hilbert space, spectral pricing, portfolio/risk/derivatives pedagogy
 
 ### Download
-PDF: https://github.com/alexdibol/papers/releases/download/papers-blotzmann_hilbert_probability_finance-v01/ENERGY_FIELDS_PROBABILITY_AND_FINANCE.pdf
+PDF:https://github.com/alexdibol/papers/releases/download/papers-blotzmann_hilbert_probability_finance-v01/ENERGY_FIELDS_PROBABILITY_AND_FINANCE.pdf
 
 ### How to Cite
 APA  
