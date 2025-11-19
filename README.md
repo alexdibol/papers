@@ -1857,6 +1857,39 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-blotzmann_hilbert_probability_finance-v01}  
 }
 
+## 64) A Bellman Equation with Multiple Personality Syndrome — Bellman, Boltzmann, and Hamiltonian Views for Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-bellman_boltzman_hilbert-v01
+
+### Abstract
+This pedagogical paper organizes familiar control concepts into a practitioner-ready **triad of viewpoints** for the same decision problem:  
+- **Bellman personality:** dynamic programming and value functions for finite-horizon MDPs.  
+- **Boltzmann personality:** energy/entropy-regularized objectives and free-energy functionals.  
+- **Hamiltonian personality:** continuous-time HJB equations and Hamiltonian operators.  
+
+Using an **optimal execution** case study, the paper walks through the identical problem under each personality—solving it as a Bellman recursion, as an energy-based control with **Boltzmann policies**, and as an HJB with an associated **Hamiltonian**—then shows how modern ML tools (policy gradient, entropy-regularized RL, energy-based models, variational/quantum-inspired architectures) fit naturally into the triad. The discussion also sketches extensions to **Hilbert-space** formulations and **quantum-inspired RL** without requiring prior quantum background.
+
+Targeted at finance professionals and applied researchers, the contribution is a **dictionary** that lets readers translate between Bellman, energy, and Hamiltonian perspectives, recognize when they yield the **same policy**, and deploy standard ML algorithms in ways that respect existing **risk, pricing, and governance** frameworks.
+
+**Keywords:** dynamic programming, entropy-regularized RL, free energy, HJB, Hamiltonian operators, optimal execution, finance governance, Hilbert/quantum-inspired RL
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-bellman_boltzman_hilbert-v01/A_BELLMAN_EQUATION_WITH_MULTIPLE_PERSONALITY_SYNDROME.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *A Bellman Equation with Multiple Personality Syndrome — Bellman, Boltzmann, and Hamiltonian Views for Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-bellman_boltzman_hilbert-v01
+
+BibTeX  
+@article{reynoso_bellman_boltzmann_hamiltonian_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {A Bellman Equation with Multiple Personality Syndrome — Bellman, Boltzmann, and Hamiltonian Views for Finance},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-bellman_boltzman_hilbert-v01}  
+}
 
 
 ---
