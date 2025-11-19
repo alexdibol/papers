@@ -1906,7 +1906,7 @@ Together, they provide a **no-math mental model** for policies, value functions,
 **Keywords:** reinforcement learning, dynamic programming, entropy regularization, energy landscape, Hilbert space, exploration–exploitation, decision-making, finance
 
 ### Download
-PDF: https://github.com/alexdibol/papers/releases/download/papers-agatha_christie_reinforcement_learning-v01/AGATHA.CHRISTIE.DOES.REINFORCEMENT.LEARNING.pdf
+PDF: https://github.com/alexdibol/papers/releases/download/papers-agatha_christie_reinforcement_learning-v01/AGATHAT.CHRISTIE.REVISITED.pdf
 
 ### How to Cite
 APA  
