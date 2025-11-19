@@ -1891,6 +1891,36 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-bellman_boltzman_hilbert-v01}  
 }
 
+## 65) Agatha Christie Does Reinforcement Learning — Bellman, Boltzmann, and Hilbert as a No-Math Framework
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-agatha_christie_reinforcement_learning-v01
+
+### Abstract
+This essay presents a **theoretical bridge** between **reinforcement learning (RL)** and the craft of **mystery fiction**, using Agatha Christie’s planning style to ground core RL ideas. Three complementary “personalities” structure the framework:  
+- **Bellman the Planner:** backward reasoning and dynamic programming quantify the **long-term value** of plot decisions (value functions/policies).  
+- **Boltzmann the Explorer:** the space of plots is an **energy landscape**; **temperature** mediates the exploration–exploitation trade-off via entropy-regularized (soft-optimal) objectives.  
+- **Hilbert the Geometer:** possible novels live as **vectors in a high-dimensional space**, enabling geometric reasoning over outcomes and similarities.  
+Together, they provide a **no-math mental model** for policies, value functions, and exploration, and show these views are **mathematically related**—differing mainly in **hard optimality** (Bellman), **soft optimality** (Boltzmann), or a **geometric representation** (Hilbert). The narrative also sketches **applications to financial decision-making** and portfolio design.
+
+**Keywords:** reinforcement learning, dynamic programming, entropy regularization, energy landscape, Hilbert space, exploration–exploitation, decision-making, finance
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-agatha_christie_reinforcement_learning-v01/AGATHA.CHRISTIE.DOES.REINFORCEMENT.LEARNING.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Agatha Christie Does Reinforcement Learning — Bellman, Boltzmann, and Hilbert as a No-Math Framework* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-agatha_christie_reinforcement_learning-v01
+
+BibTeX  
+@article{reynoso_agatha_christie_rl_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Agatha Christie Does Reinforcement Learning — Bellman, Boltzmann, and Hilbert as a No{-}Math Framework},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-agatha_christie_reinforcement_learning-v01}  
+}
 
 ---
 
