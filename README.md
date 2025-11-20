@@ -1922,6 +1922,39 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-agatha_christie_reinforcement_learning-v01}  
 }
 
+
+## 66) Engineering the McKinsey Agent — Endogenous Molecular Intelligence for Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-engineering_mckinsey_agent-v01
+
+### Abstract
+This paper specifies an **Endogenous Molecular Intelligence (EMI)** system—a “**McKinsey agent**” that **constructs strategies from first principles** rather than emitting plausible prose. We argue next-token prediction is **structurally insufficient** for high-stakes finance and propose a four-layer hybrid architecture:  
+1) **Periodic Table of Strategy:** a finite **alphabet of reasoning atoms** across finance/strategy/ops/governance. Molecules (ordered atom sequences) obey **valency rules** (e.g., diagnose→treat; measure liquidity→allocate capital).  
+2) **Two-Tower Embeddings:** a **problem tower** (free-form cases) and a **molecule tower** (atom sequences) learned with **contrastive objectives** to create **semantic gravity** between matched problem–solution pairs.  
+3) **MARL Engine:** heterogeneous agents (greedy, Boltzmann, balanced) **navigate a value manifold** over the periodic table, sharing trajectories via **cooperative memory** to discover high-reward molecules.  
+4) **Constrained Generation:** at inference, an LLM **verbalizes** a selected molecule into a **board-ready narrative** **without altering logic**.  
+An accompanying **Colab notebook** operationalizes the design for MFin/MBA audiences—providing an **auditable, pedagogical sandbox** for neuro-symbolic strategy engines.
+
+**Keywords:** reasoning atoms, neuro-symbolic, contrastive two-tower, MARL, value manifold, constrained generation, governance
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-engineering_mckinsey_agent-v01/ENGINEERING_THE_MCKINSEY_AGENT.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Engineering the McKinsey Agent — Endogenous Molecular Intelligence for Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-engineering_mckinsey_agent-v01
+
+BibTeX  
+@article{reynoso_engineering_mckinsey_agent_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Engineering the McKinsey Agent — Endogenous Molecular Intelligence for Finance},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-engineering_mckinsey_agent-v01}  
+}
+
 ---
 
 ## License
