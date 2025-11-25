@@ -1955,6 +1955,40 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-engineering_mckinsey_agent-v01}  
 }
 
+
+
+## 67) Many Portfolios, One Spacetime — Einstein–Markowitz Geometry of Market Equilibrium
+
+Author: Alejandro Reynoso
+Version: v01 · Release: [https://github.com/alexdibol/papers/releases/tag/papers-relativity_market_expectations-v01](https://github.com/alexdibol/papers/releases/tag/papers-relativity_market_expectations-v01)
+
+### Abstract
+
+This paper imagines Albert Einstein and Harry Markowitz as joint architects of a *financial spacetime* in which expectations, risks, and portfolios acquire a relativistic geometry. Payoffs are represented as four-vectors whose time-like component is economic value and whose space-like components are exposures to orthogonal risk factors. A Minkowski-type metric, with a market-wide “financial speed of light” linking value and risk units, defines an invariant quadratic form—a financial interval—shared by all admissible investors. Individual investors are modeled as Lorentz-type frames: they differ in beliefs, factor decompositions, and risk appetites, but their coordinate changes must preserve the underlying metric.
+
+Within this geometry, portfolios admit a classification into time-like, null, and space-like positions, and the distinction between frame-dependent expectations and frame-independent invariants becomes explicit. As a worked example, a toy version of the Capital Asset Pricing Model (CAPM) is recast in relativistic form: asset four-vectors are projected onto the market portfolio using a Minkowski inner product, beta emerges as a geometric alignment measure, and the security market line is interpreted as a frame-invariant relation between time-like components and their projections. The framework also clarifies the role of risk aversion: heterogeneous preferences correspond to different frames in a *flat* financial spacetime, while genuinely state-dependent risk–return trade-offs suggest a curved, “general relativistic” extension in which the metric varies with wealth, market conditions, or endogenous risk. The contribution is conceptual rather than empirical: relativity provides a disciplined language for separating subjective coordinates (investor views and risk appetites) from a common equilibrium geometry (state prices, factor structure, and no-arbitrage constraints), illustrating how many portfolios can coexist within a single, invariant financial spacetime.
+
+**Keywords:** relativistic finance, financial spacetime, Minkowski metric, Lorentz frames, CAPM, equilibrium geometry, state prices, risk factors
+
+### Download
+
+PDF: [https://github.com/alexdibol/papers/releases/download/papers-relativity_market_expectations-v01/EINSTEIN_AND_MARKOWITZ.pdf](https://github.com/alexdibol/papers/releases/download/papers-relativity_market_expectations-v01/EINSTEIN_AND_MARKOWITZ.pdf)
+
+### How to Cite
+
+APA
+Reynoso, A. (2025). *Many Portfolios, One Spacetime — Einstein–Markowitz Geometry of Market Equilibrium* (Version v01). GitHub. [https://github.com/alexdibol/papers/releases/tag/papers-relativity_market_expectations-v01](https://github.com/alexdibol/papers/releases/tag/papers-relativity_market_expectations-v01)
+
+BibTeX
+@article{reynoso_many_portfolios_one_spacetime_2025_v01,
+author    = {Alejandro Reynoso},
+title     = {Many Portfolios, One Spacetime --- Einstein--Markowitz Geometry of Market Equilibrium},
+year      = {2025},
+version   = {v01},
+publisher = {GitHub},
+url       = {[https://github.com/alexdibol/papers/releases/tag/papers-relativity_market_expectations-v01}](https://github.com/alexdibol/papers/releases/tag/papers-relativity_market_expectations-v01})
+}
+
 ---
 
 ## License
