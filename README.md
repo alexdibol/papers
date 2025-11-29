@@ -1989,6 +1989,37 @@ publisher = {GitHub},
 url       = {[https://github.com/alexdibol/papers/releases/tag/papers-relativity_market_expectations-v01}](https://github.com/alexdibol/papers/releases/tag/papers-relativity_market_expectations-v01})
 }
 
+
+
+## 68) A General-Relativity Approach to Fragmented Markets and Optimal Arbitrage
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01
+
+### Abstract
+We develop a **relativistic geometric framework** for fragmented financial markets, dispersion, and arbitrage. The financial system is modeled as a **market manifold** of locations—jurisdictions, balance sheets, funding channels, institutional sectors—with a **state-dependent metric** encoding risk, funding, capital, and liquidity. **Assets** are invariant “financial masses” (payoff identities); **prices** arise as **Lagrange multipliers** that clear markets and eliminate profitable **geodesic loops** (buy–transport–sell cycles) in curved market spacetime. This yields a clean separation of (i) **invariants** (contracts, no-arbitrage constraints), (ii) **geometry** (structure/fragmentation), and (iii) **equilibrium labels** (prices, premia, flows).  
+Conceptually rigorous and operationally clear, the framework: (1) characterizes **dispersed yet unbroken** markets—price differences across locations that remain **geodesically consistent** with transport costs/constraints; (2) formalizes **optimal arbitrage** as profitable loop search, with **law-of-one-price** emerging as the multiplier configuration that kills such loops; and (3) incorporates **heterogeneous expectations** as different frames on a common geometry, separating **sentiment premia** from **curvature/structure premia**.  
+Intended as a foundation for **monetary policy**, **development economics**, and **financial theory**, the approach provides a disciplined representation of segmented credit markets, cross-border funding channels, and regulatory regimes, and a way to study how **policy interventions deform the market metric**—supporting systematic analysis of financial integration, policy transmission, and equilibrium pricing in complex, multi-layered systems.
+
+**Keywords:** market geometry, fragmentation, geodesics, arbitrage loops, law of one price, curvature premia, policy transmission
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-general_relativity_fragmented_markets-v01/GENERAL.REALTIVITY.APPROACH.TO.FRAGMENTED.MARKETS.AND.OPTOIMAL.ARBITRAGE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *A General-Relativity Approach to Fragmented Markets and Optimal Arbitrage* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01
+
+BibTeX  
+@article{reynoso_gr_fragmented_markets_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {A General{-}Relativity Approach to Fragmented Markets and Optimal Arbitrage},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01}  
+}
+
 ---
 
 ## License
