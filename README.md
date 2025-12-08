@@ -2049,6 +2049,40 @@ BibTeX
   publisher = {GitHub},  
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01}  
 }
+
+## 70) Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01
+
+### Abstract
+This chapter develops a **relativistic geometric framework** for fragmented financial markets, price dispersion, and arbitrage. The financial system is modeled as a **manifold of locations**—jurisdictions, balance sheets, funding channels, and institutional sectors—equipped with a **state-dependent metric** encoding risk, funding, capital, and liquidity. **Assets** are invariant “financial masses” (payoff identities), while **prices** arise as **Lagrange multipliers** that clear markets and **eliminate profitable geodesic loops** (buy–transport–sell cycles) in curved market spacetime. The framework separates (i) **invariants** (contracts, no-arbitrage), (ii) **geometry** (market structure/fragmentation), and (iii) **equilibrium labels** (prices, premia, flows).  
+We provide a unified language for **dispersed yet unbroken** markets (prices differ but remain **geodesically consistent** with transport costs/constraints), formalize **optimal arbitrage** as loop search with the **law of one price** emerging as the loop-killing multiplier configuration, and model **heterogeneous expectations** as different frames on a common geometry—distinguishing **sentiment premia** from **curvature/structure premia**.  
+Intended as a foundation for **monetary policy**, **development economics**, and **financial theory**, the approach represents segmented credit markets, cross-border funding, and regulatory regimes as geometric objects, and studies how **policy interventions deform the market metric**—supporting systematic analysis of integration, transmission, and equilibrium pricing in multi-layered systems.
+
+**Keywords:** market manifold, geodesic loops, fragmentation, dispersion, arbitrage, curvature premia, policy transmission
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-general_relativity_finance-v01/CHAPTER.2.RELATIVISTIC.FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Chapter 2 — Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01
+
+BibTeX  
+@article{reynoso_relativistic_finance_ch2_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Chapter 2 {\textemdash} Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01}  
+}
+
+
+
+
+
 ---
 
 ## License
