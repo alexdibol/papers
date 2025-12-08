@@ -2110,6 +2110,35 @@ BibTeX
 }
 
 
+## 72)  Relativistic Finance: Price Shocks in Layered Algorithmic Markets
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01
+
+### Abstract
+This chapter extends the **relativistic geometry of finance** to the algorithmic era. Keeping the common backbone from Papers I–III—**contracts as invariant “financial masses,”** trading environments as points on a **market manifold,** and **frictions as a financial metric** enforcing a geodesic law-of-one-price—we organize heterogeneous **algorithmic traders into clusters** that share one spacetime but **experience different effective geometries**.  
+A cluster is defined by: (i) an **effective metric** \(g^{(c)}\) capturing cost-of-carry, constraints, and technological capabilities; and (ii) a **frame** \(\Lambda^{(c)}\) (Lorentz-type) encoding expectations, risk appetite, and time preference. **HFT market makers, intraday stat-arb engines, trend followers, and long-horizon fundamental algorithms** arise as particular \(\big(g^{(c)}, \Lambda^{(c)}\big)\) on the same underlying manifold, under a single global metric \(g^\*\) implied by **no-arbitrage**. Thus, the **space of trading styles** becomes a structured subset of **metrics + frames**, not a grab-bag of unrelated models.  
+We propose a **relativistic decomposition of shocks**: **demand shocks as frame shifts** (belief/risk tilts that rotate time-like projections of value/risk without changing costs), and **supply shocks as metric/composition shocks** (deformations of \(g^\*\) and cluster metrics, and capacity changes due to funding, regulation, liquidity, or technology). For each financial mass \(m\), a common **price field** \(P_m(t,x)\) lives on the manifold and is constrained by a **geodesic law-of-one-price band** set by \(g^\*\).  
+The contribution is a **structural sensitivity analysis** of equilibrium price fields to **frame (expectation) changes** and **metric (cost/capacity) perturbations**, clarifying how small shifts propagate across **fast and slow money**. The result is a unified geometry-based language for **layered algorithmic trading, market impact,** and the interaction of **demand- vs. supply-driven** components of price moves under shocks—bridging geometric foundations and future empirical/simulation work on fragmented yet integrated electronic markets sharing one spacetime.
+
+**Keywords:** market manifold, effective metrics, frames, layered algorithms, geodesic law-of-one-price, demand vs. supply shocks, sensitivity analysis
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-price_shocks_relativistic_envioronments-v01/CHAPTER.4.RELATIVISTIC.FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Chapter 4 — Relativistic Finance: Price Shocks in Layered Algorithmic Markets* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01
+
+BibTeX  
+@article{reynoso_relativistic_finance_ch4_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Chapter 4 {\textemdash} Relativistic Finance: Price Shocks in Layered Algorithmic Markets},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01}  
+}
 
 
 ---
