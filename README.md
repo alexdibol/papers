@@ -2140,6 +2140,34 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01}  
 }
 
+## 73) Relativistic Finance: Policy, Curvature, and Market Geometry
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-policy_gravitation_relativistic-v01
+
+### Abstract
+We develop a **geometric framework** for financial regulation, monetary policy, and development economics on a **market spacetime**. Assets are invariant **“financial masses,”** locations are points on a **manifold**, and **costs/frictions** define a **metric** whose **curvature** captures systematic variation in the cost of transporting financial mass across locations—**steep** regions (constrained, illiquid, segmented) versus **flat** regions (integrated, low-friction).  
+We distinguish **good curvature** (risk buffers, macroprudential firebreaks, institutional safeguards) from **bad curvature** (avoidable frictions, historical accidents, exclusion). This yields a positive and normative theory of **policy as geometry**: policy levers—capital requirements, taxes, capital controls, infrastructure—enter as parameters of the metric, with effects **inferred empirically** from prices, bases, and flows via **latent-manifold** and **metric-learning** techniques.  
+In this view, the **law of one price** is a **geodesic constraint**; **arbitrage** corresponds to violations of geometric consistency; and interventions are evaluated by their **curvature impact** in targeted regions. The framework unifies fragmented markets, financial inclusion, and cross-border flows, and offers a principled way to decide **when to flatten** the manifold (remove unnecessary curvature) versus **when to preserve or create curvature** (contain systemic risk). We close with a research agenda linking market geometry to **regulation**, **monetary policy**, and **empirical development finance**.
+
+**Keywords:** market spacetime, curvature, policy as geometry, law of one price, metric learning, financial inclusion, capital flows
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-policy_gravitation_relativistic-v01/CHAPTER.5.RELATIVISTIC.FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Chapter 5 — Relativistic Finance: Policy, Curvature, and Market Geometry* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-policy_gravitation_relativistic-v01
+
+BibTeX  
+@article{reynoso_relativistic_finance_ch5_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Chapter 5 {\textemdash} Relativistic Finance: Policy, Curvature, and Market Geometry},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-policy_gravitation_relativistic-v01}  
+}
 
 ---
 
