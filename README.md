@@ -2020,6 +2020,35 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01}  
 }
 
+
+## 69) A Special Relativity Geometry for Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01
+
+### Abstract
+This paper imagines **Albert Einstein** and **Harry Markowitz** as joint architects of a **financial spacetime** where expectations, risks, and portfolios acquire **relativistic geometry**. Payoffs are modeled as **four-vectors**: a time-like component for economic value and space-like components for orthogonal risk exposures. A **Minkowski-type metric**, with a market-wide “financial speed of light” linking value and risk units, defines an **invariant quadratic form**—a financial interval—shared by admissible investors.  
+Investors are **Lorentz-type frames**: beliefs, factor bases, and risk appetites differ, but coordinate changes preserve the metric. Portfolios classify into **time-like, null, and space-like** positions, cleanly separating frame-dependent expectations from **frame-independent invariants**. A toy **CAPM** is recast geometrically: asset four-vectors project onto the market via a **Minkowski inner product**; **beta** becomes a geometric alignment; the **security market line** is a frame-invariant relation between time-like components and their projections.  
+Heterogeneous risk aversion corresponds to different frames in a **flat** financial spacetime; **state-dependent** trade-offs motivate a **curved (general-relativistic)** extension where the metric varies with wealth, conditions, or endogenous risk. The contribution is conceptual: relativity supplies a disciplined language that separates **subjective coordinates** (views, appetites) from a **common equilibrium geometry** (state prices, factor structure, no-arbitrage), showing how many portfolios can coexist within a single invariant financial spacetime.
+
+**Keywords:** Minkowski finance, financial spacetime, Lorentz frames, CAPM geometry, beta as alignment, general-relativistic extensions
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-einsgtein_markowitz-v01/CHAPTER.0.RELATIVISTIC.FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Chapter 0 — Relativistic Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01
+
+BibTeX  
+@article{reynoso_relativistic_finance_ch0_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Chapter 0 {\textemdash} Relativistic Finance},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01}  
+}
 ---
 
 ## License
