@@ -2169,6 +2169,34 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-policy_gravitation_relativistic-v01}  
 }
 
+
+## 74) Relativistic Finance: Super-Geodesics & Broken Geometry
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01
+
+### Abstract
+Modern finance already thinks geometrically—risk, diversification, and pricing live in a structured space—yet most formulations assume **one underlying market geometry**. This chapter relaxes that assumption. We model a common payoff universe over a market manifold  but allow **segment-specific metrics**  (jurisdictions, balance-sheet regimes, microstructures), formalize **broken geometry** when no single global metric can rationalize observed costs, and then **lift the metrics themselves** to a higher-dimensional configuration space. There we define an **error functional** (law-of-one-price violations + incompatibilities on overlaps) and derive **meta-geodesic / gradient-flow dynamics** showing how arbitrage, policy, and technology push segments toward or away from coherence. The framework explains persistent cross-segment bases, regulatory/institutional arbitrage, technological discontinuities (e.g., DeFi vs. banks), and crisis-time discontinuities as motions in the **space of geometries**. A worked two-location/two-metric toy model illustrates identification, reconciliation, and conditions for persistent fragmentation. The result is a scaffold for empirical work and policy design in **fragmented but coupled** financial systems.
+
+**Keywords:** broken geometry, segment metrics, law of one price, meta-geodesics, fragmentation, arbitrage coupling, manifold learning, financial spacetime
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-super_geodesics_general_relativity_fionance-v01/CHAPTER.6.RELATIVISTIC.FINANCE.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2025). *Relativistic Finance — Chapter 6: Super-Geodesics & Broken Geometry* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01
+
+**BibTeX**
+@article{reynoso_relativistic_finance_ch6_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Relativistic Finance — Chapter 6: Super{-}Geodesics \& Broken Geometry},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01}
+}
+
 ---
 
 ## License
