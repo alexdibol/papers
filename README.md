@@ -2255,6 +2255,38 @@ Reynoso, A. (2025). *Relativistic Finance — Chapter 10: Generative, Geometry-A
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-generative_algo_trading_relativity-v01}
 }
 
+
+## 77) Relativistic Finance: Machine-Learned Market Spacetime
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-relativistic_machine_learning_finance-v01
+
+### Abstract
+We develop a machine-learning framework that treats financial markets as a **latent spacetime to be learned from data** rather than postulated a priori. Extending the relativistic analogy (portfolios as four-vectors), the cross-section of **contracts, venues, and trader types** is mapped to a shared **market manifold** with an **unknown metric**. A **location encoder** sends observable attributes (jurisdiction, venue, horizon, funding regime) to latent coordinates; a **parametric metric** induces geodesic distances trained to rationalize **prices, flows, and funding costs**.
+
+To separate **structure from psychology**, a two-level head is used: (i) a **shared geometry head** yields baseline prices over contract identity and latent location (the common spacetime), and (ii) **cluster-specific frame heads** apply Lorentz-like tilts that encode beliefs, horizons, and risk appetite for strategy/counterparty clusters. Regularization enforces **disentanglement**, pushing persistent structure into geometry and leaving only transient deviations in frames.
+
+The **geodesic law-of-one-price** is embedded as an inductive bias: cross-location price gaps are penalized when they exceed **learned geodesic distances** plus observed cost bands. We outline reconstruction, geometry, and frame losses; discuss **identifiability**; and design synthetic experiments to test recovery of the true metric and frames. An empirical roadmap targets fragmented **equity, fixed-income, and FX** markets, plus **algorithmic trading** and **no-arbitrage diagnostics** built on learned market spacetimes.
+
+**Keywords:** latent market manifold, parametric metric learning, trader frames, geodesic no-arbitrage, disentanglement, fragmented markets
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-relativistic_machine_learning_finance-v01/CHAPTER.8.RELATIVISTIC.FINANCE.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2025). *Relativistic Finance — Chapter 8: Machine-Learned Market Spacetime* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-relativistic_machine_learning_finance-v01
+
+**BibTeX**
+@article{reynoso_relativistic_finance_ch8_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Relativistic Finance — Chapter 8: Machine{-}Learned Market Spacetime},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-relativistic_machine_learning_finance-v01}
+}
+
 ---
 
 ## License
