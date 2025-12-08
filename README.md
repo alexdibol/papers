@@ -2079,6 +2079,35 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01}  
 }
 
+## 71) Relativistic Finance: Layered Traders on a Common Market Manifold
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-layered_traders_relativistic-v01
+
+### Abstract
+This third essay in a six-paper series extends a **relativistic geometry of markets** to explain how heterogeneous trading styles can **coexist on a single market manifold** without fragmenting into separate “micro” and “macro” markets. Papers I–II established (i) portfolios/payoffs as **four-vectors** in a Minkowski-type space with a common financial metric and (ii) a **curved market manifold** capturing frictions and segmentation. Here, we retain **one payoff universe** and **one underlying manifold** and study three archetypes—**high-frequency**, **technical**, and **fundamental** traders.  
+All transact in the same contract identities (“**financial masses**”) and are disciplined by a **single price field** consistent with **no-arbitrage** on the manifold. What differs are the **effective metrics** each style experiences—local cost-of-carry structures shaped by horizons, inventory/risk limits, leverage technology, microstructure access, and regulation. The market’s **global geometry** rationalizes observed prices and **rules out geodesic arbitrage loops** once all frictions and trading technologies are accounted for.  
+Two messages follow. **First**, heterogeneity does **not** require multiple incompatible equilibria: HFT, technical, and fundamental communities represent **different geodesics** through the same spacetime, sharing the **law of one price** and a single mass concept. **Second**, the presence of one mass and one price across layers imposes **inverse structure**: prices, order flow, and the survival/exit of strategies **reveal aspects** of both the global metric and style-specific effective metrics—an analogue of **revealed geometry** at the market level.  
+The chapter is conceptual, providing a clean geometric language for **microstructure**, **time-scale separation**, and **fast–slow interactions**, and it bridges the geometric foundations of Papers I–II with the **learning/generative** constructions of Papers IV–V. Stylized examples and a research agenda sketch how to embed concrete models of HFT market making, technical trading, and fundamental investing into a **single relativistic equilibrium**.
+
+**Keywords:** market manifold, effective metrics, layered trading styles, geodesics, no-arbitrage, revealed geometry, time-scale separation
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-layered_traders_relativistic-v01/CHAPTER.3.RELATIVISTIC.FINANCE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2025). *Chapter 3 — Relativistic Finance: Layered Traders on a Common Market Manifold* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-layered_traders_relativistic-v01
+
+BibTeX  
+@article{reynoso_relativistic_finance_ch3_2025_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Chapter 3 {\textemdash} Relativistic Finance: Layered Traders on a Common Market Manifold},  
+  year      = {2025},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-layered_traders_relativistic-v01}  
+}
 
 
 
