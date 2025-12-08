@@ -2198,7 +2198,7 @@ Reynoso, A. (2025). *Relativistic Finance — Chapter 6: Super-Geodesics & Broke
 }
 
 
-## 75) Relativistic Finance — Chapter 7: Empirical Geometry of Markets
+## 75) Relativistic Finance: Empirical Geometry of Markets
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
@@ -2223,6 +2223,36 @@ Reynoso, A. (2025). *Relativistic Finance — Chapter 7: Empirical Geometry of M
   version   = {v01},
   publisher = {GitHub},
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01}
+}
+
+
+## 76) Relativistic Finance: Generative, Geometry-Aware Portfolio Construction
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-generative_algo_trading_relativity-v01
+
+### Abstract
+This chapter proposes a geometric architecture for **context-aware portfolio generation** that integrates special-relativity analogies, **manifold learning**, and **modern generative models**. Markets are represented as a **learned manifold** with a metric: financial contracts act as invariant “masses,” locations encode funding and institutional regimes, and frictions define geodesic distances. Free-form investor and market context is embedded into a triplet \((z, g, \Lambda)\): a manifold location \(z\), a **local metric** \(g\) capturing implementation cost and risk geometry, and a **Lorentz-type frame** \(\Lambda\) encoding risk appetite, horizon, and leverage tolerance. A curated library of **strategy atoms** (factor tilts, overlays, hedges) is composed into portfolio **molecules** by a generative or search engine that optimizes utility under \((z, g, \Lambda)\).
+
+The design yields three advantages over black-box recommenders: (1) **Geodesic law-of-one-price** enforces structural no-arbitrage and cost consistency; (2) a clear separation of **environmental geometry** (market structure, regulation, frictions) from **subjective frames** (beliefs and preferences); and (3) end-to-end **traceability**—every recommendation is a finite combination of named atoms at a precise location in market spacetime, with an explainable metric and frame. The result is a **generative advisor** that is powerful, auditable, and governance-ready for institutional portfolio construction.
+
+**Keywords:** market manifold, geodesic no-arbitrage, strategy atoms/molecules, context embeddings, generative advisors, governance
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-generative_algo_trading_relativity-v01/CHAPTER.10.RELATIVISTIC.FINANCE.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2025). *Relativistic Finance — Chapter 10: Generative, Geometry-Aware Portfolio Construction* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-generative_algo_trading_relativity-v01
+
+**BibTeX**
+@article{reynoso_relativistic_finance_ch10_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Relativistic Finance — Chapter 10: Generative, Geometry-Aware Portfolio Construction},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-generative_algo_trading_relativity-v01}
 }
 
 ---
