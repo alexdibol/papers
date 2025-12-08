@@ -2197,6 +2197,34 @@ Reynoso, A. (2025). *Relativistic Finance — Chapter 6: Super-Geodesics & Broke
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01}
 }
 
+
+## 75) Relativistic Finance — Chapter 7: Empirical Geometry of Markets
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
+
+### Abstract
+This chapter brings the relativistic geometry of finance into **direct contact with data**. We treat the financial speed of light \(c\) as a **structural bound** on risk-adjusted returns and estimate it from realized Sharpe ratios using **Extreme Value Theory** (block maxima / GEV), yielding an empirical upper endpoint for performance. In parallel, we reinterpret persistent deviations from **Covered Interest Parity (CIP)** as **geodesic deficits** on a global funding manifold—differences in action between direct and synthetic USD–EUR funding paths. Regressions on proxies for **regulatory capital intensity**, **repo stress**, and **FX volatility** identify a ridge of elevated curvature tied to balance-sheet constraints and Atlantic asymmetries. Together, these results provide a measurement toolkit—\(\hat c\), curvature, and structural volatility—that reframes “anomalies” as **geometric features of a curved financial spacetime**, designed to feed manifold-aware dashboards and, in future work, the **losses and constraints** of generative and agentic portfolio systems.
+
+**Keywords:** financial spacetime, extreme value theory, Sharpe upper bound, CIP basis, geodesic deficit, funding curvature, manifold learning
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-empirical_relativistic_finance-v01/CHAPTER.7.RELATIVISTIC.FINANCE.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2025). *Relativistic Finance — Chapter 7: Empirical Geometry of Markets* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
+
+**BibTeX**
+@article{reynoso_relativistic_finance_ch7_2025_v01,
+  author    = {Alejandro Reynoso},
+  title     = {Relativistic Finance — Chapter 7: Empirical Geometry of Markets},
+  year      = {2025},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01}
+}
+
 ---
 
 ## License
