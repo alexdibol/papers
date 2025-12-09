@@ -2021,7 +2021,7 @@ BibTeX
 }
 
 
-## 69) A Special Relativity Geometry for Finance
+## 69) Relativistic Finance. Paper 1 of 6.  A Special Relativity Geometry for Finance
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01
@@ -2038,19 +2038,19 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-einsgtein_mark
 
 ### How to Cite
 APA  
-Reynoso, A. (2025). *Chapter 0 — Relativistic Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01
+Reynoso, A. (2025). *Relativistic Finance. Paper 1 of 6* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01
 
 BibTeX  
 @article{reynoso_relativistic_finance_ch0_2025_v01,  
   author    = {Alejandro Reynoso},  
-  title     = {Chapter 0 {\textemdash} Relativistic Finance},  
+  title     = {Paper 1. Relativistic Finance},  
   year      = {2025},  
   version   = {v01},  
   publisher = {GitHub},  
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01}  
 }
 
-## 70) Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage
+## 70) Relativistic Finance: Paper 6 of 6. Fragmentation, Dispersion, and Optimal Arbitrage
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01
@@ -2067,19 +2067,19 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-general_relati
 
 ### How to Cite
 APA  
-Reynoso, A. (2025). *Chapter 2 — Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01
+Reynoso, A. (2025). *Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage. Paper 6 of 6* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01
 
 BibTeX  
 @article{reynoso_relativistic_finance_ch2_2025_v01,  
   author    = {Alejandro Reynoso},  
-  title     = {Chapter 2 {\textemdash} Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage},  
+  title     = {Paper 2. {\textemdash} Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage},  
   year      = {2025},  
   version   = {v01},  
   publisher = {GitHub},  
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01}  
 }
 
-## 71) Relativistic Finance: Layered Traders on a Common Market Manifold
+## 71) Relativistic Finance: Paper 3 of 6. Layered Traders on a Common Market Manifold
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-layered_traders_relativistic-v01
@@ -2097,12 +2097,12 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-layered_trader
 
 ### How to Cite
 APA  
-Reynoso, A. (2025). *Chapter 3 — Relativistic Finance: Layered Traders on a Common Market Manifold* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-layered_traders_relativistic-v01
+Reynoso, A. (2025). *Relativistic Finance: Layered Traders on a Common Market Manifold. Paper 3 of 6* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-layered_traders_relativistic-v01
 
 BibTeX  
 @article{reynoso_relativistic_finance_ch3_2025_v01,  
   author    = {Alejandro Reynoso},  
-  title     = {Chapter 3 {\textemdash} Relativistic Finance: Layered Traders on a Common Market Manifold},  
+  title     = {Paper 3.{\textemdash} Relativistic Finance: Layered Traders on a Common Market Manifold},  
   year      = {2025},  
   version   = {v01},  
   publisher = {GitHub},  
@@ -2110,7 +2110,7 @@ BibTeX
 }
 
 
-## 72)  Relativistic Finance: Price Shocks in Layered Algorithmic Markets
+## 72)  Relativistic Finance: Paper 4 of 6. Price Shocks in Layered Algorithmic Markets
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01
@@ -2128,19 +2128,19 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-price_shocks_r
 
 ### How to Cite
 APA  
-Reynoso, A. (2025). *Chapter 4 — Relativistic Finance: Price Shocks in Layered Algorithmic Markets* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01
+Reynoso, A. (2025). *Relativistic Finance: Price Shocks in Layered Algorithmic Markets. Paper 4 of 6* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01
 
 BibTeX  
 @article{reynoso_relativistic_finance_ch4_2025_v01,  
   author    = {Alejandro Reynoso},  
-  title     = {Chapter 4 {\textemdash} Relativistic Finance: Price Shocks in Layered Algorithmic Markets},  
+  title     = {Paper 4. {\textemdash} Relativistic Finance: Price Shocks in Layered Algorithmic Markets},  
   year      = {2025},  
   version   = {v01},  
   publisher = {GitHub},  
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01}  
 }
 
-## 73) Relativistic Finance: Policy, Curvature, and Market Geometry
+## 73) Relativistic Finance: Paper 5 of 6. Policy, Curvature, and Market Geometry
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-policy_gravitation_relativistic-v01
@@ -2157,7 +2157,7 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-policy_gravita
 
 ### How to Cite
 APA  
-Reynoso, A. (2025). *Chapter 5 — Relativistic Finance: Policy, Curvature, and Market Geometry* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-policy_gravitation_relativistic-v01
+Reynoso, A. (2025). *Relativistic Finance: Policy, Curvature, and Market Geometry. Paper 5 of 6* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-policy_gravitation_relativistic-v01
 
 BibTeX  
 @article{reynoso_relativistic_finance_ch5_2025_v01,  
@@ -2170,7 +2170,7 @@ BibTeX
 }
 
 
-## 74) Relativistic Finance: Super-Geodesics & Broken Geometry
+## 74) Extensions to the Study of Relativistic Finance. Paper 1 of 3: Super-Geodesics & Broken Geometry
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01
@@ -2185,7 +2185,7 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-super_geodesic
 
 ### How to Cite
 **APA**  
-Reynoso, A. (2025). *Relativistic Finance — Chapter 6: Super-Geodesics & Broken Geometry* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01
+Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance. Super-Geodesics & Broken Geometry. Paper 1 of 3* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01
 
 **BibTeX**
 @article{reynoso_relativistic_finance_ch6_2025_v01,
@@ -2198,7 +2198,7 @@ Reynoso, A. (2025). *Relativistic Finance — Chapter 6: Super-Geodesics & Broke
 }
 
 
-## 75) Relativistic Finance: Empirical Geometry of Markets
+## 75) Extensions to the Study of Relativistic Finance: Paper 2 of 3. Empirical Geometry of Markets
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
@@ -2213,7 +2213,7 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-empirical_rela
 
 ### How to Cite
 **APA**  
-Reynoso, A. (2025). *Relativistic Finance — Chapter 7: Empirical Geometry of Markets* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
+Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Empirical Geometry of Markets. Paper 2 of 3* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
 
 **BibTeX**
 @article{reynoso_relativistic_finance_ch7_2025_v01,
@@ -2226,7 +2226,7 @@ Reynoso, A. (2025). *Relativistic Finance — Chapter 7: Empirical Geometry of M
 }
 
 
-## 76) Relativistic Finance: Generative, Geometry-Aware Portfolio Construction
+## 76) Extensions to the Study of Relativistic Finance: Paper 3 of 3 Generative, Geometry-Aware Portfolio Construction
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-generative_algo_trading_relativity-v01
