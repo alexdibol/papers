@@ -1958,38 +1958,7 @@ BibTeX
 
 
 
-
-## 67) Relativistic Finance: Paper 2 of 6. A General-Relativity Approach to Fragmented Markets and Optimal Arbitrage
-
-Author: Alejandro Reynoso  
-Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01
-
-### Abstract
-We develop a **relativistic geometric framework** for fragmented financial markets, dispersion, and arbitrage. The financial system is modeled as a **market manifold** of locations—jurisdictions, balance sheets, funding channels, institutional sectors—with a **state-dependent metric** encoding risk, funding, capital, and liquidity. **Assets** are invariant “financial masses” (payoff identities); **prices** arise as **Lagrange multipliers** that clear markets and eliminate profitable **geodesic loops** (buy–transport–sell cycles) in curved market spacetime. This yields a clean separation of (i) **invariants** (contracts, no-arbitrage constraints), (ii) **geometry** (structure/fragmentation), and (iii) **equilibrium labels** (prices, premia, flows).  
-Conceptually rigorous and operationally clear, the framework: (1) characterizes **dispersed yet unbroken** markets—price differences across locations that remain **geodesically consistent** with transport costs/constraints; (2) formalizes **optimal arbitrage** as profitable loop search, with **law-of-one-price** emerging as the multiplier configuration that kills such loops; and (3) incorporates **heterogeneous expectations** as different frames on a common geometry, separating **sentiment premia** from **curvature/structure premia**.  
-Intended as a foundation for **monetary policy**, **development economics**, and **financial theory**, the approach provides a disciplined representation of segmented credit markets, cross-border funding channels, and regulatory regimes, and a way to study how **policy interventions deform the market metric**—supporting systematic analysis of financial integration, policy transmission, and equilibrium pricing in complex, multi-layered systems.
-
-**Keywords:** market geometry, fragmentation, geodesics, arbitrage loops, law of one price, curvature premia, policy transmission
-
-### Download
-PDF: https://github.com/alexdibol/papers/releases/download/papers-general_relativity_fragmented_markets-v01/GENERAL.REALTIVITY.APPROACH.TO.FRAGMENTED.MARKETS.AND.OPTOIMAL.ARBITRAGE.pdf
-
-### How to Cite
-APA  
-Reynoso, A. (2025). *A General-Relativity Approach to Fragmented Markets and Optimal Arbitrage* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01
-
-BibTeX  
-@article{reynoso_gr_fragmented_markets_2025_v01,  
-  author    = {Alejandro Reynoso},  
-  title     = {A General{-}Relativity Approach to Fragmented Markets and Optimal Arbitrage},  
-  year      = {2025},  
-  version   = {v01},  
-  publisher = {GitHub},  
-  url       = {https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01}  
-}
-
-
-## 69) Relativistic Finance. Paper 1 of 6.  A Special Relativity Geometry for Finance
+## 67) Relativistic Finance. Paper 1 of 6.  A Special Relativity Geometry for Finance
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01
@@ -2018,36 +1987,39 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-einsgtein_markowitz-v01}  
 }
 
-## 70) Relativistic Finance: Paper 6 of 6. Fragmentation, Dispersion, and Optimal Arbitrage
+
+## 68) Relativistic Finance: Paper 2 of 6. A General-Relativity Approach to Fragmented Markets and Optimal Arbitrage
 
 Author: Alejandro Reynoso  
-Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01
 
 ### Abstract
-This chapter develops a **relativistic geometric framework** for fragmented financial markets, price dispersion, and arbitrage. The financial system is modeled as a **manifold of locations**—jurisdictions, balance sheets, funding channels, and institutional sectors—equipped with a **state-dependent metric** encoding risk, funding, capital, and liquidity. **Assets** are invariant “financial masses” (payoff identities), while **prices** arise as **Lagrange multipliers** that clear markets and **eliminate profitable geodesic loops** (buy–transport–sell cycles) in curved market spacetime. The framework separates (i) **invariants** (contracts, no-arbitrage), (ii) **geometry** (market structure/fragmentation), and (iii) **equilibrium labels** (prices, premia, flows).  
-We provide a unified language for **dispersed yet unbroken** markets (prices differ but remain **geodesically consistent** with transport costs/constraints), formalize **optimal arbitrage** as loop search with the **law of one price** emerging as the loop-killing multiplier configuration, and model **heterogeneous expectations** as different frames on a common geometry—distinguishing **sentiment premia** from **curvature/structure premia**.  
-Intended as a foundation for **monetary policy**, **development economics**, and **financial theory**, the approach represents segmented credit markets, cross-border funding, and regulatory regimes as geometric objects, and studies how **policy interventions deform the market metric**—supporting systematic analysis of integration, transmission, and equilibrium pricing in multi-layered systems.
+We develop a **relativistic geometric framework** for fragmented financial markets, dispersion, and arbitrage. The financial system is modeled as a **market manifold** of locations—jurisdictions, balance sheets, funding channels, institutional sectors—with a **state-dependent metric** encoding risk, funding, capital, and liquidity. **Assets** are invariant “financial masses” (payoff identities); **prices** arise as **Lagrange multipliers** that clear markets and eliminate profitable **geodesic loops** (buy–transport–sell cycles) in curved market spacetime. This yields a clean separation of (i) **invariants** (contracts, no-arbitrage constraints), (ii) **geometry** (structure/fragmentation), and (iii) **equilibrium labels** (prices, premia, flows).  
+Conceptually rigorous and operationally clear, the framework: (1) characterizes **dispersed yet unbroken** markets—price differences across locations that remain **geodesically consistent** with transport costs/constraints; (2) formalizes **optimal arbitrage** as profitable loop search, with **law-of-one-price** emerging as the multiplier configuration that kills such loops; and (3) incorporates **heterogeneous expectations** as different frames on a common geometry, separating **sentiment premia** from **curvature/structure premia**.  
+Intended as a foundation for **monetary policy**, **development economics**, and **financial theory**, the approach provides a disciplined representation of segmented credit markets, cross-border funding channels, and regulatory regimes, and a way to study how **policy interventions deform the market metric**—supporting systematic analysis of financial integration, policy transmission, and equilibrium pricing in complex, multi-layered systems.
 
-**Keywords:** market manifold, geodesic loops, fragmentation, dispersion, arbitrage, curvature premia, policy transmission
+**Keywords:** market geometry, fragmentation, geodesics, arbitrage loops, law of one price, curvature premia, policy transmission
 
 ### Download
-PDF: https://github.com/alexdibol/papers/releases/download/papers-general_relativity_finance-v01/CHAPTER.2.RELATIVISTIC.FINANCE.pdf
+PDF: https://github.com/alexdibol/papers/releases/download/papers-general_relativity_fragmented_markets-v01/GENERAL.REALTIVITY.APPROACH.TO.FRAGMENTED.MARKETS.AND.OPTOIMAL.ARBITRAGE.pdf
 
 ### How to Cite
 APA  
-Reynoso, A. (2025). *Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage. Paper 6 of 6* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01
+Reynoso, A. (2025). *A General-Relativity Approach to Fragmented Markets and Optimal Arbitrage. Paper 2 of 6* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01
 
 BibTeX  
-@article{reynoso_relativistic_finance_ch2_2025_v01,  
+@article{reynoso_gr_fragmented_markets_2025_v01,  
   author    = {Alejandro Reynoso},  
-  title     = {Paper 2. {\textemdash} Relativistic Finance: Fragmentation, Dispersion, and Optimal Arbitrage},  
+  title     = {A General{-}Relativity Approach to Fragmented Markets and Optimal Arbitrage. Paper 2 of 6},  
   year      = {2025},  
   version   = {v01},  
   publisher = {GitHub},  
-  url       = {https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_finance-v01}  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-general_relativity_fragmented_markets-v01}  
 }
 
-## 71) Relativistic Finance: Paper 3 of 6. Layered Traders on a Common Market Manifold
+
+
+## 69) Relativistic Finance: Paper 3 of 6. Layered Traders on a Common Market Manifold
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-layered_traders_relativistic-v01
@@ -2078,7 +2050,7 @@ BibTeX
 }
 
 
-## 72)  Relativistic Finance: Paper 4 of 6. Price Shocks in Layered Algorithmic Markets
+## 70)  Relativistic Finance: Paper 4 of 6. Price Shocks in Layered Algorithmic Markets
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01
@@ -2108,7 +2080,8 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-price_shocks_relativistic_envioronments-v01}  
 }
 
-## 73) Relativistic Finance: Paper 5 of 6. Policy, Curvature, and Market Geometry
+
+## 71) Relativistic Finance: Paper 5 of 6. Policy, Curvature, and Market Geometry
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-policy_gravitation_relativistic-v01
@@ -2130,7 +2103,7 @@ Reynoso, A. (2025). *Relativistic Finance: Policy, Curvature, and Market Geometr
 BibTeX  
 @article{reynoso_relativistic_finance_ch5_2025_v01,  
   author    = {Alejandro Reynoso},  
-  title     = {Chapter 5 {\textemdash} Relativistic Finance: Policy, Curvature, and Market Geometry},  
+  title     = {Paper 5 {\textemdash} Relativistic Finance: Policy, Curvature, and Market Geometry},  
   year      = {2025},  
   version   = {v01},  
   publisher = {GitHub},  
@@ -2138,7 +2111,7 @@ BibTeX
 }
 
 
-## 74) Extensions to the Study of Relativistic Finance. Paper 1 of 3: Super-Geodesics & Broken Geometry
+## 72) Relativistic Finance: Paper 6 of 6. Broken Markets and the Dynamics of Relativistic Re-composition
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01
@@ -2153,12 +2126,12 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-super_geodesic
 
 ### How to Cite
 **APA**  
-Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance. Super-Geodesics & Broken Geometry. Paper 1 of 3* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01
+Reynoso, A. (2025). *Relativistic Finance. Super-Geodesics & Broken Geometry. Paper 6 of 6* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01
 
 **BibTeX**
 @article{reynoso_relativistic_finance_ch6_2025_v01,
   author    = {Alejandro Reynoso},
-  title     = {Relativistic Finance — Chapter 6: Super{-}Geodesics \& Broken Geometry},
+  title     = {Relativistic Finance — Paper 6: Super{-}Geodesics \& Broken Geometry},
   year      = {2025},
   version   = {v01},
   publisher = {GitHub},
@@ -2166,7 +2139,7 @@ Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance. Super-Geod
 }
 
 
-## 75) Extensions to the Study of Relativistic Finance: Paper 2 of 3. Empirical Geometry of Markets
+## 73) Extensions to the Study of Relativistic Finance: Paper 1 of 3. Empirical Geometry of Markets
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
@@ -2181,12 +2154,12 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-empirical_rela
 
 ### How to Cite
 **APA**  
-Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Empirical Geometry of Markets. Paper 2 of 3* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
+Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Empirical Geometry of Markets. Paper 1 of 3* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
 
 **BibTeX**
 @article{reynoso_relativistic_finance_ch7_2025_v01,
   author    = {Alejandro Reynoso},
-  title     = {Relativistic Finance — Chapter 7: Empirical Geometry of Markets},
+  title     = {Extensions of Relativistic Finance: Part 1. Empirical Geometry of Markets},
   year      = {2025},
   version   = {v01},
   publisher = {GitHub},
@@ -2194,7 +2167,7 @@ Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Empirical 
 }
 
 
-## 76) Extensions to the Study of Relativistic Finance: Paper 3 of 3 Generative, Geometry-Aware Portfolio Construction
+## 74) Extensions to the Study of Relativistic Finance: Paper 2 of 3 Generative, Geometry-Aware Portfolio Construction
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-generative_algo_trading_relativity-v01
@@ -2211,12 +2184,12 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-generative_alg
 
 ### How to Cite
 **APA**  
-Reynoso, A. (2025). *Relativistic Finance — Chapter 10: Generative, Geometry-Aware Portfolio Construction* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-generative_algo_trading_relativity-v01
+Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Paper 2 of 3. Generative, Geometry-Aware Portfolio Construction* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-generative_algo_trading_relativity-v01
 
 **BibTeX**
 @article{reynoso_relativistic_finance_ch10_2025_v01,
   author    = {Alejandro Reynoso},
-  title     = {Relativistic Finance — Chapter 10: Generative, Geometry-Aware Portfolio Construction},
+  title     = {Extensions of Relativistic Finance: Part 2. Generative, Geometry-Aware Portfolio Construction},
   year      = {2025},
   version   = {v01},
   publisher = {GitHub},
@@ -2224,7 +2197,7 @@ Reynoso, A. (2025). *Relativistic Finance — Chapter 10: Generative, Geometry-A
 }
 
 
-## 77) Relativistic Finance: Machine-Learned Market Spacetime
+## 75) Extensions to the Study of Relativistic Finance: Paper 3 of 3. Machine-Learned Market Spacetime
 
 Author: Alejandro Reynoso  
 Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-relativistic_machine_learning_finance-v01
@@ -2243,12 +2216,12 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-relativistic_m
 
 ### How to Cite
 **APA**  
-Reynoso, A. (2025). *Relativistic Finance — Chapter 8: Machine-Learned Market Spacetime* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-relativistic_machine_learning_finance-v01
+Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Paper 3 of 3  Machine-Learned Market Spacetime* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-relativistic_machine_learning_finance-v01
 
 **BibTeX**
 @article{reynoso_relativistic_finance_ch8_2025_v01,
   author    = {Alejandro Reynoso},
-  title     = {Relativistic Finance — Chapter 8: Machine{-}Learned Market Spacetime},
+  title     = {Extensions of Relativistic Finance:Paper 3 of 3. Machine{-}Learned Market Spacetime},
   year      = {2025},
   version   = {v01},
   publisher = {GitHub},
