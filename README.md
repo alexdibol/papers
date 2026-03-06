@@ -2288,6 +2288,7 @@ Reynoso, A. (2026). *The Dual-Anchor Equilibrium of Bitcoin: Short-Run ETF Activ
 }
 ---
 
+
 ## License
 This repository’s written materials (README, abstracts, PDFs in releases) are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
 You are free to share and adapt with attribution. See the full text in [`LICENSE`](./LICENSE).  
