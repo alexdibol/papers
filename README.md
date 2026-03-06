@@ -2247,7 +2247,6 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-ai_revolution_
 Reynoso, A. (2026). *Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview* (Version v01e). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-ai_revolution_financial_practice-v01e
 
 **BibTeX**
-```bibtex
 @article{reynoso_accelerated_intelligence_slower_institutions_2026_v01e,
   author    =  {Alejandro Reynoso},
   title     = {Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview},
