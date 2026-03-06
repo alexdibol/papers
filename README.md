@@ -2229,7 +2229,6 @@ Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Paper 3 of
 }
 
 
-
 ## 76) Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview
 
 Author: Alejandro Reynoso  
@@ -2248,6 +2247,7 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-ai_revolution_
 Reynoso, A. (2026). *Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview* (Version v01e). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-ai_revolution_financial_practice-v01e
 
 **BibTeX**
+```bibtex
 @article{reynoso_accelerated_intelligence_slower_institutions_2026_v01e,
   author    = {Alejandro Reynoso},
   title     = {Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview},
@@ -2256,6 +2256,7 @@ Reynoso, A. (2026). *Accelerated Intelligence, Slower Institutions: A Finance Pr
   publisher = {GitHub},
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-ai_revolution_financial_practice-v01e}
 }
+
 ---
 
 ## License
