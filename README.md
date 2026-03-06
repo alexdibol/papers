@@ -2228,6 +2228,34 @@ Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Paper 3 of
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-relativistic_machine_learning_finance-v01}
 }
 
+
+
+## 76) Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview
+
+Author: Alejandro Reynoso  
+Version: v01e · Release: https://github.com/alexdibol/papers/releases/tag/papers-ai_revolution_financial_practice-v01e
+
+### Abstract
+Jensen Huang is often quoted for the spectacle: GPUs, AI factories, 100,000× improvements, and a future in which “human” becomes the primary programming language. Those lines are memorable, but for financial practitioners they are not the point. The point is the balance sheet that sits behind the rhetoric, the risk posture implied by the architecture, and the institutional friction that determines whether “intelligence as a utility” becomes a productivity dividend or a governance crisis.
+
+This essay is a reflection rather than a recap. I treat Huang’s ideas as a set of prompts that force finance to re-price three things that we have historically priced poorly: (i) compute as capital, not an expense; (ii) models as regulated decision instruments, not software features; and (iii) time-to-deployment as a risk factor, not a project-management KPI. If GPUs are the industrial machinery of modern intelligence, then finance must learn to read the new factory: how it generates cash flow, how it concentrates operational risk, how it reshapes labor, and how it should be governed under existing model-risk doctrine. The conclusion is not that the AI era is inevitably prosperous. The conclusion is that prosperity is plausible only if our institutions learn to move almost as fast as our accelerators.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-ai_revolution_financial_practice-v01e/AI_REVOLUTION_FOR_FINANCIAL_PRACTITIONERS.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview* (Version v01e). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-ai_revolution_financial_practice-v01e
+
+**BibTeX**
+@article{reynoso_accelerated_intelligence_slower_institutions_2026_v01e,
+  author    = {Alejandro Reynoso},
+  title     = {Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview},
+  year      = {2026},
+  version   = {v01e},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-ai_revolution_financial_practice-v01e}
+}
 ---
 
 ## License
