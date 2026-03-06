@@ -2129,6 +2129,7 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-super_geodesic
 Reynoso, A. (2025). *Relativistic Finance. Super-Geodesics & Broken Geometry. Paper 6 of 6* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-super_geodesics_general_relativity_fionance-v01
 
 **BibTeX**
+```bibtex
 @article{reynoso_relativistic_finance_ch6_2025_v01,
   author    = {Alejandro Reynoso},
   title     = {Relativistic Finance — Paper 6: Super{-}Geodesics \& Broken Geometry},
@@ -2157,6 +2158,7 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-empirical_rela
 Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Empirical Geometry of Markets. Paper 1 of 3* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-empirical_relativistic_finance-v01
 
 **BibTeX**
+```bibtex
 @article{reynoso_relativistic_finance_ch7_2025_v01,
   author    = {Alejandro Reynoso},
   title     = {Extensions of Relativistic Finance: Part 1. Empirical Geometry of Markets},
@@ -2187,6 +2189,7 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-generative_alg
 Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Paper 2 of 3. Generative, Geometry-Aware Portfolio Construction* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-generative_algo_trading_relativity-v01
 
 **BibTeX**
+```bibtex
 @article{reynoso_relativistic_finance_ch10_2025_v01,
   author    = {Alejandro Reynoso},
   title     = {Extensions of Relativistic Finance: Part 2. Generative, Geometry-Aware Portfolio Construction},
@@ -2219,6 +2222,7 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-relativistic_m
 Reynoso, A. (2025). *Extensions to the Study of Relativistic Finance: Paper 3 of 3  Machine-Learned Market Spacetime* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-relativistic_machine_learning_finance-v01
 
 **BibTeX**
+```bibtex
 @article{reynoso_relativistic_finance_ch8_2025_v01,
   author    = {Alejandro Reynoso},
   title     = {Extensions of Relativistic Finance:Paper 3 of 3. Machine{-}Learned Market Spacetime},
@@ -2247,6 +2251,7 @@ PDF: https://github.com/alexdibol/papers/releases/download/papers-ai_revolution_
 Reynoso, A. (2026). *Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview* (Version v01e). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-ai_revolution_financial_practice-v01e
 
 **BibTeX**
+```bibtex
 @article{reynoso_accelerated_intelligence_slower_institutions_2026_v01e,
   author    =  {Alejandro Reynoso},
   title     = {Accelerated Intelligence, Slower Institutions: A Finance Practitioner Reflects on Jensen Huang’s Worldview},
