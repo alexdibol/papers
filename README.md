@@ -2257,6 +2257,35 @@ Reynoso, A. (2026). *Accelerated Intelligence, Slower Institutions: A Finance Pr
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-ai_revolution_financial_practice-v01e}
 }
 
+
+## 77) The Dual-Anchor Equilibrium of Bitcoin: Short-Run ETF Activity Sensitivities and Long-Run Cointegration Screening
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-bitcoin_cointegration-v01
+
+### Abstract
+This paper provides two complementary empirical views of institutional Bitcoin adoption in the spot ETF era. Module I estimates short-run sensitivities of IBIT activity to major asset classes (SPY, QQQ, GLD, TLT) using linear regressions reported with beta coefficients and t-statistics. Module II implements a first-principles Engle–Granger screening engine to identify candidate long-run equilibrium linkages between BTC-USD and a broad ETF cohort under a dual-anchor design: (i) a price anchor using ETF close levels and (ii) a liquidity anchor using a log-dollar-volume proxy log(ptvt + ϵ). The cointegration engine uses an SVD-stable OLS solution via a Moore–Penrose pseudoinverse and ranks candidates by a DF-style residual mean-reversion statistic. All results are produced from a single reproducible run and are labeled Not verified; they require independent replication and review.
+
+**Keywords:** Bitcoin, Spot ETF, Institutional Flows, Cointegration, Engle–Granger, Log-Dollar Volume, SVD-OLS  
+**JEL Codes:** G11, G12, G14, C22
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-bitcoin_cointegration-v01/BITCOIN_COINTEGRATION.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *The Dual-Anchor Equilibrium of Bitcoin: Short-Run ETF Activity Sensitivities and Long-Run Cointegration Screening* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-bitcoin_cointegration-v01
+
+**BibTeX**
+```bibtex
+@article{reynoso_bitcoin_cointegration_2026_v01,
+  author    = {Alejandro Reynoso},
+  title     = {The Dual-Anchor Equilibrium of Bitcoin: Short-Run ETF Activity Sensitivities and Long-Run Cointegration Screening},
+  year      = {2026},
+  version   = {v01},
+  publisher = {GitHub},
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-bitcoin_cointegration-v01}
+}
 ---
 
 ## License
