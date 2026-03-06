@@ -2256,6 +2256,8 @@ Reynoso, A. (2026). *Accelerated Intelligence, Slower Institutions: A Finance Pr
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-ai_revolution_financial_practice-v01}
 }
 
+
+
 ## 77) The Dual-Anchor Equilibrium of Bitcoin: Short-Run ETF Activity Sensitivities and Long-Run Cointegration Screening
 
 Author: Alejandro Reynoso  
@@ -2277,6 +2279,7 @@ Reynoso, A. (2026). *The Dual-Anchor Equilibrium of Bitcoin: Short-Run ETF Activ
 
 **BibTeX**
 
+```bibtex
 @article{reynoso_bitcoin_cointegration_2026_v01,
   author    = {Alejandro Reynoso},
   title     = {The Dual-Anchor Equilibrium of Bitcoin: Short-Run ETF Activity Sensitivities and Long-Run Cointegration Screening},
