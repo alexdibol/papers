@@ -2286,6 +2286,40 @@ Reynoso, A. (2026). *The Dual-Anchor Equilibrium of Bitcoin: Short-Run ETF Activ
       url       = {https://github.com/alexdibol/papers/releases/tag/papers-bitcoin_cointegration-v01}
     }
 
+
+## 78) Layered Intelligence in Motion: Building a Minimalistic Self-Driving Architecture and Its Transferability to Finance, Trading, and Consulting
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-self_driving_cars-v01
+
+### Abstract
+This paper presents a conceptual and architectural analysis of a minimalistic autonomous driving simulation designed as an educational laboratory. It is written for master-level graduate students in non-technical disciplines—including business administration, finance, consulting, and management—as well as practitioners who work with artificial intelligence systems in professional contexts without formal training in computer science or engineering.  
+
+Its central argument is that a simplified self-driving model, when understood as a coordinated system of intelligence layers rather than as a mere collection of algorithms, provides a powerful transferable framework for decision-making in quantitative finance, algorithmic trading, strategic consulting, and AI-augmented business operations. The architecture integrates a synthetic environment generator, a mock perception module, a state-encoding layer with a lightweight neural component, a large language model acting as a tactical reasoner, a deterministic safety override, a vehicle dynamics simulator with reward evaluation, and an evolutionary policy optimizer.  
+
+By explaining each component in structural and conceptual terms—without relying on mathematical derivations or source code—the paper offers readers a practical mental model for understanding, evaluating, critiquing, and ultimately designing hybrid AI architectures in their own professional domains.
+
+**Keywords:** autonomous systems, self-driving simulation, layered intelligence, hybrid AI architectures, transfer learning, finance, algorithmic trading, consulting, AI education
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-self_driving_cars-v01/MINIMALISTIC.SELF.DRIVING.ARCHITECTURE.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2026). *Layered Intelligence in Motion: Building a Minimalistic Self-Driving Architecture and Its Transferability to Finance, Trading, and Consulting* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-self_driving_cars-v01
+
+BibTeX  
+@article{reynoso_layered_intelligence_in_motion_2026_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {Layered Intelligence in Motion: Building a Minimalistic Self-Driving Architecture and Its Transferability to Finance, Trading, and Consulting},  
+  year      = {2026},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-self_driving_cars-v01}  
+}
+
+
+
 ---
 
 ## License
@@ -2341,35 +2375,6 @@ Reynoso, A. (2025). *Selected Papers — AI and Quantum-Inspired Finance* (Versi
 
 
 
-## 78) Layered Intelligence in Motion: Building a Minimalistic Self-Driving Architecture and Its Transferability to Finance, Trading, and Consulting
 
-Author: Alejandro Reynoso  
-Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-self_driving_cars-v01
-
-### Abstract
-This paper presents a conceptual and architectural analysis of a minimalistic autonomous driving simulation designed as an educational laboratory. It is written for master-level graduate students in non-technical disciplines—including business administration, finance, consulting, and management—as well as practitioners who work with artificial intelligence systems in professional contexts without formal training in computer science or engineering.  
-
-Its central argument is that a simplified self-driving model, when understood as a coordinated system of intelligence layers rather than as a mere collection of algorithms, provides a powerful transferable framework for decision-making in quantitative finance, algorithmic trading, strategic consulting, and AI-augmented business operations. The architecture integrates a synthetic environment generator, a mock perception module, a state-encoding layer with a lightweight neural component, a large language model acting as a tactical reasoner, a deterministic safety override, a vehicle dynamics simulator with reward evaluation, and an evolutionary policy optimizer.  
-
-By explaining each component in structural and conceptual terms—without relying on mathematical derivations or source code—the paper offers readers a practical mental model for understanding, evaluating, critiquing, and ultimately designing hybrid AI architectures in their own professional domains.
-
-**Keywords:** autonomous systems, self-driving simulation, layered intelligence, hybrid AI architectures, transfer learning, finance, algorithmic trading, consulting, AI education
-
-### Download
-PDF: https://github.com/alexdibol/papers/releases/download/papers-self_driving_cars-v01/MINIMALISTIC.SELF.DRIVING.ARCHITECTURE.pdf
-
-### How to Cite
-APA  
-Reynoso, A. (2026). *Layered Intelligence in Motion: Building a Minimalistic Self-Driving Architecture and Its Transferability to Finance, Trading, and Consulting* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-self_driving_cars-v01
-
-BibTeX  
-@article{reynoso_layered_intelligence_in_motion_2026_v01,  
-  author    = {Alejandro Reynoso},  
-  title     = {Layered Intelligence in Motion: Building a Minimalistic Self-Driving Architecture and Its Transferability to Finance, Trading, and Consulting},  
-  year      = {2026},  
-  version   = {v01},  
-  publisher = {GitHub},  
-  url       = {https://github.com/alexdibol/papers/releases/tag/papers-self_driving_cars-v01}  
-}
 
 
