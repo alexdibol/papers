@@ -2350,6 +2350,41 @@ BibTeX
 }
 
 
+## 80) An Auditable Agentic Architecture for Regime-Aware Oil Futures Trading Using Synthetic Term-Structure Data
+
+Author: Alejandro Reynoso
+Version: v01 · Release: [https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_oil-v01](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_oil-v01)
+
+### Abstract
+
+This paper develops the conceptual and computational design of a **governance-first, agentic oil futures trading system**. The system is designed as a **LangGraph-style state architecture** in which specialized agents generate synthetic oil futures data, audit data quality, infer market regimes using a **hidden Markov model**, value individual futures contracts, construct contract-level signals, coordinate a long-short allocation, enforce capital and risk limits, stress the portfolio under unexpected regime shifts, simulate execution costs and slippage, evaluate model behavior, create an audit bundle, and write a committee-readable report.
+
+The proposed system trades a synthetic sequence of at least five oil futures contracts with different maturities, including one-month, two-month, three-month, six-month, and twelve-month contracts. The central claim of the paper is that an institutional trading system should not be evaluated only by its backtested performance. It should be evaluated by its reproducibility, data lineage, regime awareness, valuation discipline, risk constraints, transaction cost realism, stress robustness, model evaluation process, and approval discipline.
+
+The architecture is therefore not merely a trading bot. It is a governed artificial research organization in which the model proposes, the risk layer constrains, the audit layer documents, and the committee remains accountable for any approval decision.
+
+**Keywords:** agentic AI, oil futures trading, regime-aware trading, LangGraph, synthetic term-structure data, hidden Markov models, governance-first architecture, audit trail, contract-level signals, long-short allocation, stress testing, transaction costs, slippage, model evaluation
+
+### Download
+
+PDF: [https://github.com/alexdibol/papers/releases/download/papers-algo_systems_oil-v01/OIL.pdf](https://github.com/alexdibol/papers/releases/download/papers-algo_systems_oil-v01/OIL.pdf)
+
+### How to Cite
+
+APA
+Reynoso, A. (2026). *An Auditable Agentic Architecture for Regime-Aware Oil Futures Trading Using Synthetic Term-Structure Data* (Version v01). GitHub. [https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_oil-v01](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_oil-v01)
+
+BibTeX
+@article{reynoso_auditable_agentic_architecture_oil_futures_2026_v01,
+author    = {Alejandro Reynoso},
+title     = {An Auditable Agentic Architecture for Regime-Aware Oil Futures Trading Using Synthetic Term-Structure Data},
+year      = {2026},
+version   = {v01},
+publisher = {GitHub},
+url       = {[https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_oil-v01}](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_oil-v01})
+}
+
+
 
 ---
 
