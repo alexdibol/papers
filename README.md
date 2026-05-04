@@ -2418,6 +2418,39 @@ publisher = {GitHub},
 url       = {[https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_fx-v01}](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_fx-v01})
 }
 
+## 83) Regime-Aware Greeks Sensitivity Trading: A Governance-First Multi-Agent Architecture for Volatility Exposure Geometry
+
+Author: Alejandro Reynoso
+Version: v01 · Release: [https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_volatility-v01](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_volatility-v01)
+
+### Abstract
+
+This paper develops a **governance-first architecture for regime-aware derivatives trading** in which option portfolios are interpreted in **sensitivity space** rather than through named strategies or isolated contracts. The framework treats **Delta, Gamma, Vega, Theta, and Rho** as the primary coordinates of exposure geometry and uses structured volatility evidence to determine when each channel should dominate portfolio construction. A **Hidden Markov regime layer** classifies compression, transition, and expansion states, allowing Greek relevance to vary with the evolving structure of uncertainty instead of relying on static assumptions about volatility or directional price movement.
+
+The system is implemented as a segmented **multi-agent architecture** in which Greek-specific agents interpret a shared evidence substrate while a coordinator agent arbitrates conflicts and produces a committee-readable portfolio geometry. Deterministic exposure ceilings, capital-protection rules, liquidity-aware translation logic, and stress-testing modules ensure that agent outputs remain bounded by model-risk discipline, external review, and institutional allocation constraints.
+
+The design separates exposure interpretation from execution mapping and separates explanatory narration from authorization, allowing **generative artificial intelligence** to support diagnostic synthesis, audit communication, and committee reporting without replacing deterministic controls or human judgment. The result is a structured blueprint for interpretable, extensible, and governance-ready derivatives decision systems capable of operating under nonlinear uncertainty while remaining suitable for institutional committee oversight, audit review, and disciplined capital deployment across complex volatility environments and market states.
+
+**Keywords:** agentic AI, volatility trading, derivatives trading, Greeks, Delta, Gamma, Vega, Theta, Rho, regime-aware trading, Hidden Markov models, sensitivity geometry, option portfolios, multi-agent architecture, stress testing, audit trail, governance-first architecture
+
+### Download
+
+PDF: [https://github.com/alexdibol/papers/releases/download/papers-algo_systems_volatility-v01/VOLATILITY.pdf](https://github.com/alexdibol/papers/releases/download/papers-algo_systems_volatility-v01/VOLATILITY.pdf)
+
+### How to Cite
+
+APA
+Reynoso, A. (2026). *Regime-Aware Greeks Sensitivity Trading: A Governance-First Multi-Agent Architecture for Volatility Exposure Geometry* (Version v01). GitHub. [https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_volatility-v01](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_volatility-v01)
+
+BibTeX
+@article{reynoso_regime_aware_greeks_sensitivity_trading_2026_v01,
+author    = {Alejandro Reynoso},
+title     = {Regime-Aware Greeks Sensitivity Trading: A Governance-First Multi-Agent Architecture for Volatility Exposure Geometry},
+year      = {2026},
+version   = {v01},
+publisher = {GitHub},
+url       = {[https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_volatility-v01}](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_volatility-v01})
+}
 
 
 ---
