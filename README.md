@@ -2318,6 +2318,37 @@ BibTeX
   url       = {https://github.com/alexdibol/papers/releases/tag/papers-self_driving_cars-v01}  
 }
 
+## 79) An Auditable Agentic Architecture for Regime-Aware Algorithmic Stock Trading Using Synthetic Structured and Unstructured Data
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_equities-v01
+
+### Abstract
+This paper develops the conceptual design of a governance-first, agentic algorithmic trading system for equities. The proposed system uses a LangGraph-style state architecture to coordinate multiple specialized agents responsible for stock universe selection, synthetic market data generation, synthetic unstructured information generation, data quality review, sentiment extraction, social network analysis, hidden Markov model regime inference, signal construction, portfolio formation, transaction cost and slippage estimation, backtesting, stress testing, audit review, and final approval or rejection.
+
+The system is designed not merely to produce trading signals, but to generate a complete institutional audit trail explaining how data were produced, validated, transformed, interpreted, and converted into trading recommendations. The central claim of the paper is that a serious trading system should not be evaluated only by backtested performance. It should be evaluated by its reproducibility, data lineage, regime awareness, cost realism, stress robustness, model risk controls, and approval discipline.
+
+The paper presents the system as a real-life project blueprint for a fully working governance-first trading research platform using synthetic data rich enough to include price histories, volatility states, social media narratives, noisy sentiment, bot contamination, regime transitions, transaction costs, liquidity frictions, and adverse stress scenarios.
+
+**Keywords:** agentic AI, algorithmic trading, regime-aware trading, LangGraph, synthetic data, hidden Markov models, governance-first architecture, audit trail, backtesting, stress testing, transaction costs, portfolio construction
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-algo_systems_equities-v01/EQUITIES.pdf
+
+### How to Cite
+APA  
+Reynoso, A. (2026). *An Auditable Agentic Architecture for Regime-Aware Algorithmic Stock Trading Using Synthetic Structured and Unstructured Data* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_equities-v01
+
+BibTeX  
+@article{reynoso_auditable_agentic_architecture_2026_v01,  
+  author    = {Alejandro Reynoso},  
+  title     = {An Auditable Agentic Architecture for Regime-Aware Algorithmic Stock Trading Using Synthetic Structured and Unstructured Data},  
+  year      = {2026},  
+  version   = {v01},  
+  publisher = {GitHub},  
+  url       = {https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_equities-v01}  
+}
+
 
 
 ---
