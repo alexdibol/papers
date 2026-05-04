@@ -2384,6 +2384,40 @@ publisher = {GitHub},
 url       = {[https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_oil-v01}](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_oil-v01})
 }
 
+## 81) An Auditable Agentic Architecture for Regime-Aware FX Carry Trading Across Five Currencies
+
+Author: Alejandro Reynoso
+Version: v01 · Release: [https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_fx-v01](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_fx-v01)
+
+### Abstract
+
+This paper develops the conceptual design of a **governance-first, agentic foreign exchange carry trading system** across five currencies and three market regimes. The proposed system uses a **LangGraph-style shared-state architecture** to coordinate multiple specialized agents responsible for synthetic FX macro data generation, data quality and lineage review, hidden Markov model regime detection, currency-level carry evaluation, long-short pair construction, carry basket coordination, capital and risk allocation, carry-unwind stress testing, execution and financing adjustment, model evaluation, audit bundle creation, and committee-readable reporting.
+
+The system is designed not merely to identify currencies with attractive interest-rate differentials, but to produce a complete institutional decision package explaining how data were generated, validated, transformed, interpreted, allocated, stressed, evaluated, and documented. The central claim of the paper is that an FX carry strategy should not be evaluated only by nominal carry or backtested performance. It should be evaluated by its regime awareness, currency-specific risk interpretation, funding exposure, carry-unwind vulnerability, transaction-cost realism, financing assumptions, stress robustness, auditability, and human approval discipline.
+
+The system is presented as a synthetic but realistic tutorial blueprint for a governed FX carry research platform in which the model proposes, the currency agents interpret, the risk layer constrains, the stress layer challenges, the audit layer documents, and the human committee remains accountable.
+
+**Keywords:** agentic AI, FX carry trading, foreign exchange, regime-aware trading, LangGraph, synthetic FX macro data, hidden Markov models, currency-level carry evaluation, long-short pairs, carry basket coordination, carry-unwind stress testing, execution costs, financing adjustment, audit trail, governance-first architecture
+
+### Download
+
+PDF: [https://github.com/alexdibol/papers/releases/download/papers-algo_systems_fx-v01/FX.pdf](https://github.com/alexdibol/papers/releases/download/papers-algo_systems_fx-v01/FX.pdf)
+
+### How to Cite
+
+APA
+Reynoso, A. (2026). *An Auditable Agentic Architecture for Regime-Aware FX Carry Trading Across Five Currencies* (Version v01). GitHub. [https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_fx-v01](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_fx-v01)
+
+BibTeX
+@article{reynoso_auditable_agentic_architecture_fx_carry_2026_v01,
+author    = {Alejandro Reynoso},
+title     = {An Auditable Agentic Architecture for Regime-Aware FX Carry Trading Across Five Currencies},
+year      = {2026},
+version   = {v01},
+publisher = {GitHub},
+url       = {[https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_fx-v01}](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_fx-v01})
+}
+
 
 
 ---
