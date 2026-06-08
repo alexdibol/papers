@@ -2452,6 +2452,36 @@ publisher = {GitHub},
 url       = {[https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_volatility-v01}](https://github.com/alexdibol/papers/releases/tag/papers-algo_systems_volatility-v01})
 }
 
+## 84) Agentic Model for FIFA 2026 Simulation
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-fifa_2026_simulation-v01
+
+### Abstract
+The FIFA World Cup constitutes a demanding environment for probabilistic reasoning because it combines sparse scoring events, tactical heterogeneity, limited sample sizes, compressed scheduling, psychological pressure, and path-dependent elimination rules. Established forecasting approaches—including rating systems, betting-market aggregation, expected-goals models, Bayesian updating, machine-learning classifiers, and Monte Carlo simulation—provide valuable quantitative discipline. Yet many such approaches reduce prediction to a terminal probability estimate and leave the reasoning process only partially inspectable. This paper advances a complementary proposition: tournament forecasting can be treated as a governed process of multi-agent deliberation under uncertainty.
+
+The paper introduces the Agentic World Cup Laboratory, a modular architecture for simulating the FIFA World Cup 2026 through structured football reasoning. The architecture comprises specialized committees representing distinct epistemic positions: positional-play theorists, pragmatic tournament managers, international-competition specialists, and observers who contribute historical, journalistic, and statistical evidence. Each committee evaluates a match independently, produces a prediction with a confidence estimate and rationale, and submits its recommendation to a Commissioner Agent responsible for transparent aggregation and decision provenance.
+
+The contribution is simultaneously computational, managerial, and pedagogical. Computationally, the framework integrates schedule orchestration, team-state representation, tournament memory, qualification logic, match execution, observability, audit trails, and narrative reporting. Managerially, it formalizes a governance problem common to complex organizations: how to combine expert judgment while preserving dissent, accountability, and traceability. Pedagogically, it offers master’s-level finance and business-school students a rigorous analogy to investment committees, model-risk governance, scenario analysis, and post-decision review. The framework does not claim to eliminate uncertainty. Its purpose is to make uncertainty explicit, structured, auditable, and intellectually productive.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-fifa_2026_simulation-v01/PAPER.FIFA.2026.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Agentic Model for FIFA 2026 Simulation* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-fifa_2026_simulation-v01
+
+**BibTeX**
+
+    @article{reynoso_fifa_2026_simulation_2026_v01,
+      author    = {Alejandro Reynoso},
+      title     = {Agentic Model for FIFA 2026 Simulation},
+      year      = {2026},
+      version   = {v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/papers/releases/tag/papers-fifa_2026_simulation-v01}
+    }
+
 
 ---
 
