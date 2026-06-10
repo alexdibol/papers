@@ -2483,6 +2483,44 @@ Reynoso, A. (2026). *Agentic Model for FIFA 2026 Simulation* (Version v01). GitH
     }
 
 
+## 85) AI for Science Applied to Algorithmic Trading: An Agent-Governed, Closed-Loop Discovery Architecture
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: [https://github.com/alexdibol/ai_ai4s/releases/tag/papers_ai4s_algorithmic_trading-v01](https://github.com/alexdibol/ai_ai4s/releases/tag/papers_ai4s_algorithmic_trading-v01)
+
+### Abstract
+
+This paper develops a **closed-loop research architecture for algorithmic equity selection** inspired by the **AI for Science (AI4S)** paradigm. Rather than claiming that language models can replace empirical finance, the paper shows how they can be placed inside a governed workflow in which hypotheses are proposed, encoded, tested, stress-tested, and either rejected or retained under explicit criteria. The architecture transforms market observations into cross-sectional features, constrains a large language model to generate bounded alpha hypotheses, evaluates those hypotheses through transaction-cost-aware backtesting and adverse-scenario analysis, and delegates continuation decisions to an **EvaluationAgent** operating on typed **CycleResult** records.
+
+The design addresses recurring weaknesses in quantitative research, including informal hypothesis tracking, data-snooping risk, brittle backtests, insufficient treatment of transaction costs, fragile scenario performance, and opaque model-driven reasoning. Each research cycle preserves hypotheses, performance metrics, fragility indicators, feedback, failure context, and next-round search information in an auditable record. The system distinguishes clearly between hypothesis generation, deterministic validation, stress evaluation, governance review, and research-loop continuation.
+
+The architecture is implemented through two companion computational notebooks. The first notebook provides a compact proof-of-concept implementation of the AI4S trading loop, including synthetic data generation, feature construction, Claude-generated hypotheses, backtesting, stress testing, paper simulation, controlled deployment simulation, feedback, and a multi-round dashboard. The second notebook extends the architecture into a more institutional research-control environment by replacing executable LLM-generated buy conditions with structured JSON hypotheses, adding parser-and-repair discipline, requiring additional research loops, introducing model-gate controls, and exporting governance artifacts such as a model card, risk register, approval checklist, reproducibility manifest, cryptographic hashes, final critique, research memo, and audit bundle.
+
+The contribution is methodological. The paper does not claim that synthetic data establish tradable alpha, nor does it claim that an LLM can substitute for domain expertise, independent validation, or institutional judgment. Instead, it provides a reproducible blueprint for using generative AI in financial hypothesis formation, validation, governance, and review. Its central principle is that model creativity must be paired with empirical discipline: the LLM expands the hypothesis space, while deterministic tests, stress scenarios, agentic governance, and audit artifacts restrict, evaluate, and document the surviving candidates.
+
+**Keywords:** AI for Science, AI4S, algorithmic trading, alpha discovery, agentic AI, closed-loop discovery, large language models, LLMs, backtesting, stress testing, EvaluationAgent, CycleResult, model governance, synthetic market data, financial machine learning, audit trail, hypothesis generation, transaction costs, research automation, quantitative finance
+
+### Download
+
+PDF: [https://github.com/alexdibol/ai_ai4s/releases/download/papers_ai4s_algorithmic_trading-v01/AGENT.GOVERNED.CLOSED.LOOP.DISCOVERY.ARCHITECTURE.pdf](https://github.com/alexdibol/ai_ai4s/releases/download/papers_ai4s_algorithmic_trading-v01/AGENT.GOVERNED.CLOSED.LOOP.DISCOVERY.ARCHITECTURE.pdf)
+
+### How to Cite
+
+APA  
+Reynoso, A. (2026). *AI for Science Applied to Algorithmic Trading: An Agent-Governed, Closed-Loop Discovery Architecture* (Version v01). GitHub. [https://github.com/alexdibol/ai_ai4s/releases/tag/papers_ai4s_algorithmic_trading-v01](https://github.com/alexdibol/ai_ai4s/releases/tag/papers_ai4s_algorithmic_trading-v01)
+
+BibTeX  
+@article{reynoso_ai4s_algorithmic_trading_closed_loop_discovery_2026_v01,
+author    = {Alejandro Reynoso},
+title     = {AI for Science Applied to Algorithmic Trading: An Agent-Governed, Closed-Loop Discovery Architecture},
+year      = {2026},
+version   = {v01},
+publisher = {GitHub},
+url       = {https://github.com/alexdibol/ai_ai4s/releases/tag/papers_ai4s_algorithmic_trading-v01}
+}
+
+Source basis: The manuscript describes an AI4S-inspired closed-loop research architecture for algorithmic equity selection in which LLM-generated hypotheses are proposed, encoded, tested, stress-tested, governed by an EvaluationAgent, and preserved in auditable CycleResult records. :contentReference[oaicite:0]{index=0}
+
 ---
 
 ## License
