@@ -2521,6 +2521,197 @@ url       = {https://github.com/alexdibol/ai_ai4s/releases/tag/papers_ai4s_algor
 
 Source basis: The manuscript describes an AI4S-inspired closed-loop research architecture for algorithmic equity selection in which LLM-generated hypotheses are proposed, encoded, tested, stress-tested, governed by an EvaluationAgent, and preserved in auditable CycleResult records. :contentReference[oaicite:0]{index=0}
 
+
+## 86) Agentic Quantum Optimization in Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-agentic_quantum_optimization_finance-v01
+
+### Abstract
+This paper develops a governance-first methodology for quantum portfolio optimization using an agentic Google Colab workflow. The objective is not to claim near-term quantum advantage, but to present a rigorous and auditable architecture for translating a constrained portfolio-selection problem into a variational quantum optimization experiment. Candidate portfolios are encoded as computational-basis states, and a diagonal cost Hamiltonian assigns each state an energy determined by expected return, covariance risk, and explicit constraint penalties. A parameterized circuit then induces a low-dimensional variational family of probability distributions over the full combinatorial portfolio universe. The Hamiltonian expectation value becomes a differentiable surrogate loss that can be optimized with parameter-shift gradients and classical updates.
+
+The paper emphasizes the distinction between the financial model, the binary encoding, the Hamiltonian representation, the reachable variational manifold, the measurement distribution, and the decoded portfolio decision. It argues that an agentic architecture is particularly valuable in financial settings because it decomposes a complex quantum workflow into separately validated responsibilities: data generation, objective construction, Hamiltonian assembly, circuit design, optimization, sampling, decoding, benchmarking, and explanation. The discussion is aimed at readers with graduate-level finance and computer-science training and connects the portfolio example to broader quantum-finance applications, including amplitude estimation, risk aggregation, derivative pricing, credit analysis, and hybrid quantum-classical learning systems.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-agentic_quantum_optimization_finance-v01/AGENTIC.OPTIMIZATION.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Agentic Quantum Optimization in Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-agentic_quantum_optimization_finance-v01
+
+**BibTeX**
+
+    @article{reynoso_agentic_quantum_optimization_finance_2026_v01,
+      author    = {Alejandro Reynoso},
+      title     = {Agentic Quantum Optimization in Finance},
+      year      = {2026},
+      version   = {v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/papers/releases/tag/papers-agentic_quantum_optimization_finance-v01}
+    }
+
+
+## 87) Pedagogical Shor Algorithmic Circuit
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-pedagogical_shor_algorithmic_circuit-v01
+
+### Abstract
+Shor’s algorithm is one of the landmark results in quantum computing: a sufficiently large fault-tolerant quantum computer could factor large integers in polynomial time [1]. This matters in finance because public-key cryptography supports authentication, digital signatures, secure messaging, payment infrastructure, digital-asset custody, and long-lived confidential records.
+
+This tutorial is written for Master of Finance students who already know the basic quantum ideas of superposition and interference. The goal is not to prove Shor’s algorithm in full mathematical detail. Instead, the goal is to make the circuit logic transparent: why factoring becomes period finding, how modular exponentiation is placed inside a reversible circuit, how the inverse quantum Fourier transform amplifies period information, and how classical post-processing converts a measurement into factors.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-pedagogical_shor_algorithmic_circuit-v01/PEDAGOGICAL.CIRCUIT.SHOR.ALGORITHM.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Pedagogical Shor Algorithmic Circuit* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-pedagogical_shor_algorithmic_circuit-v01
+
+**BibTeX**
+
+    @article{reynoso_pedagogical_shor_algorithmic_circuit_2026_v01,
+      author    = {Alejandro Reynoso},
+      title     = {Pedagogical Shor Algorithmic Circuit},
+      year      = {2026},
+      version   = {v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/papers/releases/tag/papers-pedagogical_shor_algorithmic_circuit-v01}
+    }
+
+
+
+## 88) Quantum Contributions to Finance
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-quantum_contributions_finance-v01
+
+### Abstract
+Quantum computing is often introduced to financial audiences through claims about future speedups, cryptographic disruption, or hardware breakthroughs. This manuscript adopts a different perspective. Its central argument is that the most durable contribution of quantum computing to finance may be representational rather than purely computational. By synthesizing four companion studies developed at the Judge Business School, University of Cambridge, together with one conceptual primer on quantum state-space reasoning, this paper presents quantum computational thinking as a structured learning pathway for financial professionals.
+
+The progression begins with a simple root-finding concept used to introduce quantum states and superposition, moves through portfolio optimization and Hamiltonian representations, examines governance-first Shor workflows as examples of problem transformation, introduces hybrid quantum neural networks for representation learning, and culminates in an agentic DQN-DNN-QNN architecture for financial discovery. Across these studies, the recurring lesson is that difficult financial problems often become easier to analyze when they are reformulated in representations that expose hidden structure. The manuscript is educational rather than experimental: it does not claim quantum advantage, propose new algorithms, or assert near-term production readiness. Instead, it provides a coherent conceptual framework for understanding how quantum and quantum-inspired methods can reshape thinking about optimization, learning, forecasting, governance, and discovery in finance.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-quantum_contributions_finance-v01/CONTRIBUTIONS.OF.QUANTUM.TO.FINANCE.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Quantum Contributions to Finance* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-quantum_contributions_finance-v01
+
+**BibTeX**
+
+    @article{reynoso_quantum_contributions_finance_2026_v01,
+      author    = {Alejandro Reynoso},
+      title     = {Quantum Contributions to Finance},
+      year      = {2026},
+      version   = {v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/papers/releases/tag/papers-quantum_contributions_finance-v01}
+    }
+
+
+
+## 89) Hybrid CNN QNN Model for Trading Signal Detection
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-hybrid_cnn_qnn_trading_signal_detection-v01
+
+### Abstract
+Quantum neural networks are trainable quantum circuits that use parameterized gates, entanglement, interference, and measurement to construct input-output mappings. Their relevance for finance does not rest on a presumption that they dominate classical deep neural networks, but on the possibility that selected nonlinear interaction structures may be represented through a distinct and potentially compact computational geometry. This paper develops a canonical hybrid quantum neural-network architecture for directional financial prediction.
+
+The model receives a matrix containing twenty trading periods and five financial variables, processes that matrix with a one-dimensional convolutional neural network, compresses the temporal information into five latent features, encodes those features as rotation angles on five qubits, and passes the resulting quantum state through a trainable entangling circuit. Measurements of five Pauli-Z observables are then combined by a classical readout layer to estimate the probability that the next simulated return is positive.
+
+The exposition is written for a master’s-level finance audience: readers are assumed to understand empirical modeling, prediction, and model risk, but not quantum mechanics. Particular attention is given to data representation, temporal feature extraction, angle encoding, controlled-NOT gates, quantum expressivity, gradient-based training, parameter-shift differentiation, classical benchmarking, and model governance. The accompanying Google Colab notebook generates 1,000 synthetic observations, trains the hybrid CNN-QNN end to end, evaluates the model chronologically, exports a reproducibility and audit package, and uses a controlled language-model layer only to explain completed results. The experiment is educational, simulated, and not evidence of established quantum advantage.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-hybrid_cnn_qnn_trading_signal_detection-v01/CNN.QNN.HYBRID.MODEL.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Hybrid CNN QNN Model for Trading Signal Detection* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-hybrid_cnn_qnn_trading_signal_detection-v01
+
+**BibTeX**
+
+    @article{reynoso_hybrid_cnn_qnn_trading_signal_detection_2026_v01,
+      author    = {Alejandro Reynoso},
+      title     = {Hybrid CNN QNN Model for Trading Signal Detection},
+      year      = {2026},
+      version   = {v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/papers/releases/tag/papers-hybrid_cnn_qnn_trading_signal_detection-v01}
+    }
+
+
+
+## 90) Canonical Quantum Model of Portfolio Optimization
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-canonical_quantum_portfolio_optimization-v01
+
+### Abstract
+Portfolio optimization is one of the most natural applications of quantum computing in finance because many realistic investment problems are combinatorial, constrained, and difficult to solve at scale. This paper develops a canonical quantum formulation of portfolio optimization using the Quantum Approximate Optimization Algorithm, or QAOA. The exposition is designed for readers with advanced training in finance, economics, or quantitative methods but without a formal background in quantum physics. The central idea is to construct a mapping between a classical portfolio-selection problem and the spectral structure of a quantum Hamiltonian.
+
+Binary asset-selection variables are represented by qubits, the classical risk-return objective is converted into a quadratic unconstrained binary optimization problem, and the resulting cost function is encoded as a diagonal Hamiltonian. Quantum evolution under this Hamiltonian transforms portfolio costs into phases. A mixer Hamiltonian then allows interference to reshape the probability distribution over candidate portfolios. The paper explains each stage of this construction, including the financial objective, the binary encoding, the Pauli operators, the cost unitary, the mixer, the hybrid classical-quantum optimization loop, measurement, benchmarking, and governance. The paper is aligned with an accompanying fifteen-asset notebook that implements a depth-one statevector QAOA simulation, draws simulated measurement samples, compares the sampled portfolio with exhaustive enumeration, and records an audit package. The paper emphasizes that the current value of the framework is primarily conceptual, experimental, and architectural rather than evidence of established quantum advantage.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-canonical_quantum_portfolio_optimization-v01/CANONICAL.QUANTUM.OPTIMIZATION.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Canonical Quantum Model of Portfolio Optimization* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-canonical_quantum_portfolio_optimization-v01
+
+**BibTeX**
+
+    @article{reynoso_canonical_quantum_portfolio_optimization_2026_v01,
+      author    = {Alejandro Reynoso},
+      title     = {Canonical Quantum Model of Portfolio Optimization},
+      year      = {2026},
+      version   = {v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/papers/releases/tag/papers-canonical_quantum_portfolio_optimization-v01}
+    }
+
+
+## 91) Agentic Parallel Classical and Quantum Neural Model for Trading
+
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-agentic_parallel_classical_quantum_neural_trading-v01
+
+### Abstract
+Financial forecasting is traditionally framed as a competition among predictive models, where the primary objective is to identify the architecture that produces the most accurate forecasts. While this paradigm has generated significant advances in quantitative finance and machine learning, it often overlooks a critical reality: financial markets are dynamic, regime-dependent systems in which the relative usefulness of forecasting models changes through time. A model that performs well under one market condition may become unreliable under another. Consequently, the more relevant question is not which model is universally superior, but rather which model deserves trust under prevailing conditions.
+
+This paper develops a governance-first forecasting architecture that transforms forecasting from a prediction problem into a trust-allocation problem. The framework combines four specialized agents: a classical Deep Neural Network (DNN), a Quantum-Inspired Neural Network (QNN), a Context and Regime Detection Agent, and a Deep Q-Network (DQN) Meta-Critic. The DNN and QNN generate competing forecasts, the Context Agent characterizes the market environment, and the DQN dynamically allocates confidence among forecasting models using reinforcement learning. The resulting committee forecast emerges from a governed decision-making process rather than from a single predictive engine.
+
+The accompanying Google Colab notebook generates one thousand synthetic financial observations, implements the complete multi-agent architecture, constructs a dynamic trust-allocation mechanism, exports governance and audit reports, and employs a large language model exclusively as a post-analysis explanatory layer. The architecture emphasizes transparency, reproducibility, explainability, and model-risk management. Rather than seeking a permanent forecasting winner, the framework learns which forecasting model should be trusted under specific market conditions. The paper argues that the future of financial forecasting may depend less on identifying the best model and more on building intelligent systems capable of governing confidence among competing models.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-agentic_parallel_classical_quantum_neural_trading-v01/DQN.QNN.RL.AGENTIC.MODEL.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Agentic Parallel Classical and Quantum Neural Model for Trading* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-agentic_parallel_classical_quantum_neural_trading-v01
+
+**BibTeX**
+
+    @article{reynoso_agentic_parallel_classical_quantum_neural_trading_2026_v01,
+      author    = {Alejandro Reynoso},
+      title     = {Agentic Parallel Classical and Quantum Neural Model for Trading},
+      year      = {2026},
+      version   = {v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/papers/releases/tag/papers-agentic_parallel_classical_quantum_neural_trading-v01}
+    }
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## License
