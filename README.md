@@ -2703,7 +2703,33 @@ Reynoso, A. (2026). *Agentic Parallel Classical and Quantum Neural Model for Tra
     }
 
 
+## 92) Pedagogical Inside the Mind of AI
 
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers_inside_ai_mind-v01
+
+### Abstract
+This article provides an intuitive, non-technical explanation of how modern artificial intelligence systems operate, beginning with concepts familiar to students of statistics and econometrics. Rather than presenting neural networks, large language models, and reasoning systems as unrelated breakthroughs, the narrative develops them as successive extensions of classical regression analysis. The discussion starts by showing how deep neural networks can be interpreted as extremely large collections of interconnected nonlinear regressions trained through forward and backward propagation.
+
+It then explores how neural networks learn meaningful internal representations known as embeddings, how attention mechanisms transform these embeddings into context-aware semantic spaces, and how large language models navigate these spaces to generate coherent text one token at a time. Finally, the article introduces reasoning models and multi-agent architectures, illustrating how modern AI systems have evolved from simple next-word prediction into collaborative systems capable of planning, reasoning, verification, and autonomous problem solving. Throughout the article, mathematical complexity is intentionally minimized in favor of geometric intuition, visual thinking, and conceptual understanding.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers_inside_ai_mind-v01/INSIDE.AI.MIND.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Pedagogical Inside the Mind of AI* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers_inside_ai_mind-v01
+
+**BibTeX**
+
+    @article{reynoso_pedagogical_inside_the_mind_of_ai_2026_v01,
+      author    = {Alejandro Reynoso},
+      title     = {Pedagogical Inside the Mind of AI},
+      year      = {2026},
+      version   = {v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/papers/releases/tag/papers_inside_ai_mind-v01}
+    }
 
 
 
