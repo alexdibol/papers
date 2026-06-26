@@ -2732,7 +2732,35 @@ Reynoso, A. (2026). *Pedagogical Inside the Mind of AI* (Version v01). GitHub. h
     }
 
 
+## 93) Pedagogical Paper on Architectural Governance in AI
 
+Author: Alejandro Reynoso  
+Version: v01 · Release: https://github.com/alexdibol/papers/releases/tag/papers-architectural_governance_ai-v01
+
+### Abstract
+Most introductory discussions of artificial intelligence present Large Language Models (LLMs) as autonomous reasoning engines capable of solving increasingly complex tasks. While this perspective is useful for understanding the capabilities of modern foundation models, it can inadvertently create the impression that an LLM alone constitutes an AI system. In practice, real-world AI deployments are engineered architectures in which the language model represents only one component among many. Modern AI systems are built around deterministic software, predefined workflows, policy layers, validation mechanisms, and human oversight, all of which govern the behavior of the model before, during, and after inference.
+
+This paper introduces the concept of **pre-institutional governance**, referring to the architectural mechanisms that constrain, guide, and supervise AI systems before organizational, regulatory, or legal governance frameworks are introduced. Rather than viewing governance as an external layer imposed by regulators, we argue that governance begins during system design. Every architectural decision—including tool selection, prompt engineering, fine-tuning, guardrails, and workflow orchestration—defines the operational boundaries within which artificial intelligence is allowed to function.
+
+Through a five-level progression, the paper illustrates how increasingly sophisticated AI architectures embed progressively stronger forms of governance. The discussion provides a conceptual bridge between understanding the internal operation of machine learning models and understanding the governance-first philosophy required for responsible institutional AI deployment.
+
+### Download
+PDF: https://github.com/alexdibol/papers/releases/download/papers-architectural_governance_ai-v01/PAPER_ARCHITECTURAL.GOVERNANCE.pdf
+
+### How to Cite
+**APA**  
+Reynoso, A. (2026). *Pedagogical Paper on Architectural Governance in AI* (Version v01). GitHub. https://github.com/alexdibol/papers/releases/tag/papers-architectural_governance_ai-v01
+
+**BibTeX**
+
+    @article{reynoso_architectural_governance_ai_2026_v01,
+      author    = {Alejandro Reynoso},
+      title     = {Pedagogical Paper on Architectural Governance in AI},
+      year      = {2026},
+      version   = {v01},
+      publisher = {GitHub},
+      url       = {https://github.com/alexdibol/papers/releases/tag/papers-architectural_governance_ai-v01}
+    }
 
 
 
